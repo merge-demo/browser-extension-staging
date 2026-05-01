@@ -1919,7 +1919,7 @@ danzig
 didus
 declassicize
 dissenterism
-dances
+dances 1
 debriefings
 debris 1
 debrominate
@@ -5115,7 +5115,7 @@ dismastment
 deanimalize
 densitometric
 deniably
-denial 1
+denial 2
 dentinoid
 disminister
 drillet 1
