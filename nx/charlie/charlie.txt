@@ -15555,7 +15555,7 @@ classifiable
 cicatrized
 curites
 classificator
-corders
+corders 1
 culicidae
 chronologists 1
 classificatory
@@ -30280,7 +30280,7 @@ caingin
 crummer
 celiotomies
 crummy
-crummier
+crummier 1
 coppaelite
 crummiest
 crumminess
