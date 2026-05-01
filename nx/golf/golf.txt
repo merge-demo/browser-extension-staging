@@ -4717,7 +4717,7 @@ galleta
 genarch
 glar
 gypsy
-givingness 1
+givingness 2
 globes
 grifter
 garrnishable 1
