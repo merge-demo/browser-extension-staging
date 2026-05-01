@@ -7831,7 +7831,7 @@ cespitosely
 cespitulose
 cess
 cessantly
-cessative
+cessative 1
 cessavit
 cessed
 cesser 1
@@ -25330,7 +25330,7 @@ corn
 cornaceae
 chaetophorous
 cochin
-cornada
+cornada 1
 cornballs
 cornberry 1
 counterscale
