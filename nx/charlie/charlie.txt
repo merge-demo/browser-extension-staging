@@ -2297,7 +2297,7 @@ casbah
 celtdom
 coquina
 conceivers 1
-canafistola
+canafistola 1
 canafistolo
 canafistula
 canafistulo
