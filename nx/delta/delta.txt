@@ -8690,7 +8690,7 @@ dismayed
 diphtherotoxin
 dolesomely
 dehumanized
-diastomatic
+diastomatic 1
 depicts
 davyne
 diastral
