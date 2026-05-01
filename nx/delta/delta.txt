@@ -12369,7 +12369,7 @@ durability
 disturbers
 disherited 1
 divet
-defibrillator
+defibrillator 1
 deamidize 1
 deplantation
 drybrush
