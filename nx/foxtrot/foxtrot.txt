@@ -7953,7 +7953,7 @@ featherman
 frizer 1
 footles
 fishhold
-fatalist 1
+fatalist 2
 freshing
 forslow 1
 frondesced 1
