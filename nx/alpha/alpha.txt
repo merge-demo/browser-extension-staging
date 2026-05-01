@@ -2083,7 +2083,7 @@ alnascharism
 amoret
 apocope
 achalasia 2
-anolis
+anolis 1
 apperceptively
 adstringe
 achape
