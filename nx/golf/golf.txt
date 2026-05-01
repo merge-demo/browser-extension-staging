@@ -9871,7 +9871,7 @@ gustless
 guanin
 gagate 1
 glycerose 1
-guanize
+guanize 1
 gamasid
 gifblaar
 genders
