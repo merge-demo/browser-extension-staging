@@ -8007,7 +8007,7 @@ epigrammatizer 2
 earnests 1
 epiphegus
 enwombed 1
-emgalla
+emgalla 1
 eteocles 1
 ectodermal
 ektodynamorphic 1
