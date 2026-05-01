@@ -14784,7 +14784,7 @@ bisect
 bravi 2
 braving
 bifolium 1
-brahminist
+brahminist 1
 bravuras
 baetzner 1
 begorrah 1
