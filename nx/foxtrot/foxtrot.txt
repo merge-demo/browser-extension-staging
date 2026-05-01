@@ -1067,7 +1067,7 @@ fishling 1
 fastback
 frazed 2
 farrisite
-farfetched
+farfetched 1
 fleerish
 firehalls
 forthcame
