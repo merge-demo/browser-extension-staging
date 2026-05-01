@@ -8723,7 +8723,7 @@ furicane
 flapless 1
 foregather
 fathomable
-forthgo
+forthgo 1
 ferreling 2
 footcandle
 foxings 1
