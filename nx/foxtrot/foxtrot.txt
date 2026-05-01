@@ -10838,7 +10838,7 @@ fallers
 fibrohemorrhagic 1
 foretopmast
 farcify
-freethinker
+freethinker 1
 freakishly
 festilogy
 florimania 1
