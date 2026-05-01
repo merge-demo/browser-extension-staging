@@ -2543,7 +2543,7 @@ candlefishes
 collogued
 candleholder 1
 candlelighter
-chaloth
+chaloth 1
 confraternities
 copiable
 candlelighting
