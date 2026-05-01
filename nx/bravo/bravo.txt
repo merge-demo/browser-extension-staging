@@ -18399,7 +18399,7 @@ buzzing
 bogard
 brachials
 brachygrapher
-buzzingly
+buzzingly 1
 buttes
 bespring
 benzoins 1
