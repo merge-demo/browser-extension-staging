@@ -3850,7 +3850,7 @@ carboluria
 chrisma
 carbomethene
 carbomethoxy
-carbomethoxyl
+carbomethoxyl 1
 carbon
 carbonaceous
 cuter
@@ -22806,7 +22806,7 @@ consecrates
 clearage
 citrals 1
 coticular
-clovers 1
+clovers 2
 cabers
 consecrator
 consecratory
