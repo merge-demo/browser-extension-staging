@@ -6468,7 +6468,7 @@ enlivens
 erubescence 1
 excludable 1
 englerophoenix 1
-execration
+execration 1
 ephemeric
 englishes
 ephemeris
@@ -8378,7 +8378,7 @@ ensigncy 1
 equals
 euphoriant
 epizoon
-edemic
+edemic 1
 exulceration
 ecphorize
 epinasties
