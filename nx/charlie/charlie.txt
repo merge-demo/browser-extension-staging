@@ -23830,7 +23830,7 @@ chaui
 cachinnate
 contravindication
 circumvascular
-capitalizable
+capitalizable 1
 contrawise
 contrecoup
 contredanse
