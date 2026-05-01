@@ -3962,7 +3962,7 @@ bristols
 behelp
 bdellovibrio
 brushbird 1
-bakerite
+bakerite 1
 butanes
 bea 1
 beautification 1
