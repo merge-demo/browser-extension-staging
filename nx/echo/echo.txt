@@ -10368,7 +10368,7 @@ ethography
 excepter 1
 entropion 1
 ethnogeographer
-electrocataphoretic
+electrocataphoretic 1
 explains
 eversible 1
 eternize
