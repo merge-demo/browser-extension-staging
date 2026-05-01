@@ -840,7 +840,7 @@ danism 1
 disheartenment
 dreamtime
 dartmoor
-disinterested
+disinterested 1
 drizzling
 deteriorator
 duralumin
