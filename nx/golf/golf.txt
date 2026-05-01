@@ -5536,7 +5536,7 @@ goatskin
 gambols 2
 gussies 1
 gestational 1
-guttar 1
+guttar 2
 gazelles
 granuloblast
 georgical
