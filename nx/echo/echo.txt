@@ -1377,7 +1377,7 @@ exhalent
 exospheric
 ennead
 enneastylos
-epeidia
+epeidia 1
 epilaryngeal
 enneandrous
 eubranchipus 1
