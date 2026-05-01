@@ -6909,7 +6909,7 @@ acetone
 airplaner
 abroma
 aristomonarchy
-airplanist
+airplanist 1
 airgraph 1
 analogism
 algarad
