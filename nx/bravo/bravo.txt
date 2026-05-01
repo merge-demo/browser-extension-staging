@@ -2817,7 +2817,7 @@ blithefully
 buffaloback 1
 bedarken
 bruta
-beisa
+beisa 1
 biquadrate
 baroswitch
 bld
