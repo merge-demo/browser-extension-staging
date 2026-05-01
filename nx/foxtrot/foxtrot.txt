@@ -4928,7 +4928,7 @@ fchar
 fluidised
 foining
 fluoresced
-forsooth 1
+forsooth 2
 foppishly 1
 fourteens
 flamen
