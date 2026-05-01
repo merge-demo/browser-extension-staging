@@ -8168,7 +8168,7 @@ empiecement 2
 exothermal
 etwas 1
 equidominant
-equidistantly
+equidistantly 1
 enisling
 euthenic
 earlobe
