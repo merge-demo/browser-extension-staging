@@ -1102,7 +1102,7 @@ glires
 gonangium
 gaufferer
 gregorianize
-ganja
+ganja 1
 gomphocarpus
 genically
 generatively 2
@@ -2046,7 +2046,7 @@ gnawer 1
 glorious 1
 gader
 gaulin
-geleem
+geleem 1
 grandbaby
 gamblers
 gyrocompasses 1
