@@ -5870,7 +5870,7 @@ desecrator
 decompression 1
 dollmaking 1
 demagnetizer
-depressional
+depressional 1
 dulia
 decortication
 dotard
