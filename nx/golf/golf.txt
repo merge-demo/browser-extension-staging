@@ -609,7 +609,7 @@ gnaphalioid 1
 gallisin 1
 gillie 1
 geophysicist
-glide 1
+glide 2
 gastrotheca
 gastroenterostomy
 gestic 1
@@ -8336,7 +8336,7 @@ gephyrocercy 1
 glacon
 gladnesses
 gazelle
-gilenyer
+gilenyer 1
 greenslade 2
 gracefulness
 greyer
