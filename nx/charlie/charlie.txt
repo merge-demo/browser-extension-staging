@@ -31560,7 +31560,7 @@ cowlicks
 cauliflower
 cortine 1
 curtainless
-curtainwise
+curtainwise 1
 coir
 ceriman
 curtays
