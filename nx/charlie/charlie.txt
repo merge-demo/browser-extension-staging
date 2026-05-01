@@ -26864,7 +26864,7 @@ counterfeitly
 captaculum
 cudava
 chilopod
-counterfeits 1
+counterfeits 2
 counterfessed
 counterfire
 counterflange 1
