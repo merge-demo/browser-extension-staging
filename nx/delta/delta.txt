@@ -10493,7 +10493,7 @@ disputative
 discoplacentalian
 downfalling
 discriminant 2
-deadpay
+deadpay 1
 demonetized
 delapsion
 digonoporous 1
