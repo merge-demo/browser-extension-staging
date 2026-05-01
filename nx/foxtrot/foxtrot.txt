@@ -3506,7 +3506,7 @@ fermentology 1
 fraternity 1
 fleches
 falcones
-fastigiate 1
+fastigiate 2
 flotsam
 futtock
 fulgorid 1
