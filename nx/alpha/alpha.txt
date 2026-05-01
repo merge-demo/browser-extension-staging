@@ -7625,7 +7625,7 @@ agrafe
 adamance 1
 actability
 agrostographer
-asymptotical 1
+asymptotical 2
 alce
 assibilate
 aluminiferous
