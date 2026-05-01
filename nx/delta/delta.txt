@@ -14650,7 +14650,7 @@ djave
 drill
 djebels
 djehad
-deferens
+deferens 1
 djellabah
 decanically 1
 distruss
