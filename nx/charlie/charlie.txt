@@ -13746,7 +13746,7 @@ contignation
 cinderous
 cinders
 cindy
-collusive
+collusive 1
 cerebbella
 cineangiocardiography
 cineangiography
@@ -27098,7 +27098,7 @@ cauterize
 chivaring
 codiaceous
 cwt
-continuums
+continuums 1
 counterrevolutionist
 counterriposte
 counterroll
