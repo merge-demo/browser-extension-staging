@@ -5633,7 +5633,7 @@ deists 1
 discos
 decerniture
 delineation
-depilitant 1
+depilitant 2
 deplace
 dermatine 1
 devests 3
@@ -11699,7 +11699,7 @@ discreation
 depersonalizes
 disburses
 discredit
-devocalizing
+devocalizing 1
 discreditability
 dahabiya 1
 delist
