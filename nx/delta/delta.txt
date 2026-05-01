@@ -6785,7 +6785,7 @@ dojo 1
 dietzeite
 desiredly
 distruster
-desirer
+desirer 1
 daira
 dihedrons
 desirous
