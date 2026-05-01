@@ -2572,7 +2572,7 @@ fimbriatum 2
 fluidification
 fetishry
 fussify 1
-foremastmen
+foremastmen 1
 firefanging 1
 ferryway
 finding 1
