@@ -18282,7 +18282,7 @@ djakarta 1
 dictery
 diabolification
 darts
-dungiest
+dungiest 1
 devulgarize
 disapprobative
 dacryorrhea
