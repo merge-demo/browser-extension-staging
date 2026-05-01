@@ -442,7 +442,7 @@ escapements
 erf 2
 eunuchal
 effulgence
-eveners
+eveners 1
 enanthesis
 expediteness
 extrudes
