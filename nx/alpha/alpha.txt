@@ -9167,7 +9167,7 @@ agrising 2
 alman
 arrowplate
 almander
-aeginetic
+aeginetic 1
 apostle 1
 almandines 2
 aldime
