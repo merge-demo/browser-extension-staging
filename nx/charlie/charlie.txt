@@ -6212,7 +6212,7 @@ caucuses
 concatenation
 callipered
 caucusses 1
-caucussing
+caucussing 1
 conceptions
 chlorion
 cauda
