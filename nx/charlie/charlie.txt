@@ -27067,7 +27067,7 @@ cyclitis
 counterpronunciamento
 counterpropaganda
 checklaton 1
-chalcotrichite
+chalcotrichite 1
 counterpropagandize
 counterprophet
 collegially
