@@ -7828,7 +7828,7 @@ aphidicide
 albolith
 aldazine
 antithrombic
-aldoheptose
+aldoheptose 1
 antigalactic
 aldol 1
 assured
