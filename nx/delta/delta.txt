@@ -7638,7 +7638,7 @@ development
 developmental
 developmentally
 decompressions 1
-decolouring
+decolouring 1
 disavowment
 dermatologist 1
 daisycutter
