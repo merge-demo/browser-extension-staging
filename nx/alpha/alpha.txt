@@ -12259,7 +12259,7 @@ anchieutectic
 abience
 arteriectasia 1
 agalmatolite
-adstipulated
+adstipulated 1
 affectuous
 allbone
 afacing 1
