@@ -10671,7 +10671,7 @@ friandise 1
 fruitbearing 1
 foremark
 frailties
-fusc 1
+fusc 2
 frankness
 fruitfuller
 filtrability 1
