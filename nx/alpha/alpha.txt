@@ -15694,7 +15694,7 @@ amygdalectomy
 andamentos 1
 anaphorical
 alehoof
-adsignify
+adsignify 1
 atrazine
 achromatism
 armoury
