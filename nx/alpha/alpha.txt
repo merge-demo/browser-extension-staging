@@ -20244,7 +20244,7 @@ antinomian
 alluvio
 anauxite
 adjacence
-avicide
+avicide 1
 androecium
 arrivistes 1
 appealers 1
