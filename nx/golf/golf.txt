@@ -2112,7 +2112,7 @@ galeiform
 gynocratic
 ganglands 1
 guillermo 1
-gazette
+gazette 1
 ginnet 2
 gumshoing
 gymnolaematous
