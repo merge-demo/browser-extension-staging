@@ -7443,7 +7443,7 @@ ceratioid
 capsuligerous
 curarized 1
 caffle
-ceratitis
+ceratitis 1
 ceratitoidea
 camphine
 cataleptics
