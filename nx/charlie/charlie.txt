@@ -7861,7 +7861,7 @@ cineraceous
 congruous 1
 cataphoretic 1
 cest
-cesta
+cesta 1
 cestidae
 cestodes
 copatron 1
