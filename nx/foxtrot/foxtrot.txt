@@ -70,7 +70,7 @@ flagships
 flecken
 facellite
 ferrocyanide 1
-furthers
+furthers 1
 flysch
 fordeal 2
 fullfaces 1
