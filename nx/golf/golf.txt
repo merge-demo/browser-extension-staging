@@ -151,7 +151,7 @@ galipot
 gastrologer
 gasthauser 1
 gail 2
-galactosyl
+galactosyl 1
 galvanosurgery
 glacialize 1
 guesthouse 1
