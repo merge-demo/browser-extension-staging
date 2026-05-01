@@ -1447,7 +1447,7 @@ glovemaker
 guidebookish
 geophagous
 ghenting
-generical
+generical 1
 griffinish
 glamouring
 generated 1
