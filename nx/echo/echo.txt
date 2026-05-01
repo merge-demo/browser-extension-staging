@@ -2716,7 +2716,7 @@ exponention
 estadal
 euphrates
 eyetooth
-electrostenolytic 1
+electrostenolytic 2
 enceint 1
 equipotent
 electees
@@ -2899,7 +2899,7 @@ enthrall
 erzahler
 ejected
 eyewear
-elevenses 1
+elevenses 2
 eleventeenth 1
 eleventh
 evicts
