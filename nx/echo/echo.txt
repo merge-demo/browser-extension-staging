@@ -6887,7 +6887,7 @@ epilate 1
 entoptic
 entoptics 1
 evections
-expense
+expense 1
 embargoed
 evangelicality
 enjoyableness
