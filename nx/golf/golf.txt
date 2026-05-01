@@ -7065,7 +7065,7 @@ guignardia
 goyle
 geoprumnon
 gynandrarchy 1
-gunnage
+gunnage 1
 guelphic 1
 giottesque 1
 glaces
