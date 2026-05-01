@@ -1526,7 +1526,7 @@ egoisticalness 1
 evoke
 embow
 encarnadine 1
-engloom
+engloom 1
 emarginately 1
 escarped
 epistolographer
