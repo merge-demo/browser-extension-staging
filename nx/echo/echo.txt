@@ -12283,7 +12283,7 @@ exegetics
 exing 1
 ecphorias
 ensheaths 1
-electroaffinity
+electroaffinity 1
 ensued
 eds 1
 emarginating
