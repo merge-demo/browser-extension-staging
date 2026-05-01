@@ -5507,7 +5507,7 @@ fratching 1
 foraged
 fleshy
 fillet
-fettuccine
+fettuccine 1
 formatters 1
 fiddlies
 faroelite 1
