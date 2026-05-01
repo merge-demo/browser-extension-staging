@@ -11644,7 +11644,7 @@ discounters 1
 dirks
 docketed
 djinny
-defecates
+defecates 1
 discountinuous
 dooming
 deepeners 1
