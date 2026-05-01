@@ -1377,7 +1377,7 @@ exhalent
 exospheric
 ennead
 enneastylos
-epeidia
+epeidia 1
 epilaryngeal
 enneandrous
 eubranchipus 1
@@ -1928,7 +1928,7 @@ ejaculatory
 elishah
 ejectively
 evehood
-enfierce 1
+enfierce 2
 encompany
 endarchy
 engrossingly 1
@@ -9160,7 +9160,7 @@ enslavement
 enginelike
 everts
 esoneural
-erotema
+erotema 1
 edenize
 eroteme
 endyma
@@ -12639,7 +12639,7 @@ epitonium
 ectethmoid
 endostoma
 enriches 1
-effectualness 1
+effectualness 2
 epigenetically
 erasmian
 eagless 1
