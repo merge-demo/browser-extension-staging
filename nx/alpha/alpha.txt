@@ -11908,7 +11908,7 @@ analogue
 analphabet
 analphabete
 amphibium 1
-angelus 1
+angelus 2
 aminoformic
 aquashow
 acyanopsia
