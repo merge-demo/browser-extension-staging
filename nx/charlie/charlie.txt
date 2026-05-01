@@ -26422,7 +26422,7 @@ chronically
 clergess
 cliffier
 coterminousness
-cotes
+cotes 1
 cycloidian
 cerenkov
 cothon
