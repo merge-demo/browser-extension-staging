@@ -2422,7 +2422,7 @@ cancellations
 charitableness
 chutzpadik
 cunctation
-coruminacan
+coruminacan 1
 canceller
 cancellous
 cancelment
