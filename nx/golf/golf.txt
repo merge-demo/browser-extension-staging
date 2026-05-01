@@ -4428,7 +4428,7 @@ gastrostaxis
 glint
 ginning
 gourde 1
-garvance
+garvance 1
 gynocardic
 gypsyism
 gowk
