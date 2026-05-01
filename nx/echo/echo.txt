@@ -11114,7 +11114,7 @@ electrocapillary 1
 evangelisation
 energized 1
 evans
-expiate
+expiate 1
 eusthenopteron
 electros
 espies
