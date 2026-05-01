@@ -5629,7 +5629,7 @@ brunet 1
 baggages 1
 backlashing
 baptistery
-bima
+bima 1
 blarina
 bridelike
 bronchostomy
