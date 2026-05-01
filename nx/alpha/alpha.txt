@@ -2969,7 +2969,7 @@ aerobatics
 albugineous
 acrostichoid
 acrostichum 1
-adoptianism
+adoptianism 1
 acrosticism
 axiomatized
 areawide 2
