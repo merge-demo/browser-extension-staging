@@ -9071,7 +9071,7 @@ fidded
 fluffed
 filmier
 flaxwort
-fustian
+fustian 1
 fractus 1
 fusinite
 forwork
