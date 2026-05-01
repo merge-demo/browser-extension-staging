@@ -6308,7 +6308,7 @@ emporium
 ergotin 2
 eschar
 ensphered
-eyespot
+eyespot 1
 enseal
 estancias
 esophoric
