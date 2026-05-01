@@ -1334,7 +1334,7 @@ goodness 1
 groundling
 gignate
 ganoine
-goanese 1
+goanese 2
 greenhouse
 garishly
 galligaskins
