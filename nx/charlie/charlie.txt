@@ -7807,7 +7807,7 @@ cervicovesical
 cervinae
 cosignatory
 cervixes
-cobewail
+cobewail 1
 contemplative
 cervoid
 cervuline
