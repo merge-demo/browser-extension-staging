@@ -4920,7 +4920,7 @@ flauntiest
 forebemoan
 flidder
 facetiously
-flatteringly
+flatteringly 1
 fergusite 1
 frenetic 1
 formly
@@ -8378,7 +8378,7 @@ ferrotyping
 firmament
 fatherlike
 flapperish
-flatulentness
+flatulentness 1
 fittiest
 fair 1
 foundling 1
