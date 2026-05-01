@@ -11089,7 +11089,7 @@ frameae 2
 fellsman
 flaminica 1
 fractionated 1
-forficated
+forficated 1
 flaunter
 freightment
 flense
