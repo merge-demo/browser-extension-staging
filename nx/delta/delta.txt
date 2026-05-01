@@ -10489,7 +10489,7 @@ didos 1
 domineered
 decares
 deess
-disputative
+disputative 1
 discoplacentalian
 downfalling
 discriminant 2
