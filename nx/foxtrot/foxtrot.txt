@@ -60,7 +60,7 @@ friskily 1
 fretize 1
 faster
 fibrolite
-fconv
+fconv 1
 fabulously
 facebar
 facebow
@@ -3996,7 +3996,7 @@ fender 1
 fluorosis
 fumblers
 foramina 1
-fishery
+fishery 1
 fixups 1
 forleft
 fingersmith
