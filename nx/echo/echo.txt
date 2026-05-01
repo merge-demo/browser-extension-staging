@@ -12639,7 +12639,7 @@ epitonium
 ectethmoid
 endostoma
 enriches 1
-effectualness 1
+effectualness 2
 epigenetically
 erasmian
 eagless
