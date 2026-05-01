@@ -2226,7 +2226,7 @@ gonimic
 gapperi
 geocentrically
 geopolitik
-gipons
+gipons 1
 glarry
 gospeller 1
 gangrel
@@ -4546,7 +4546,7 @@ gluttonism 1
 grecianize
 giro
 greeshoch 2
-glossae 1
+glossae 2
 gastronomist
 gillhooter
 germanyl
