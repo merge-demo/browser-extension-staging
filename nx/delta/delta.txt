@@ -9014,7 +9014,7 @@ dorymen 1
 decerebrated
 dicotyls
 distortive
-debel
+debel 1
 depeach
 dicots
 dicoumarin
