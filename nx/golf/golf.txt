@@ -7553,7 +7553,7 @@ graypate 1
 gemstones
 giggling 2
 glitch
-guessable
+guessable 1
 glottalized
 gat
 governed 2
