@@ -5051,7 +5051,7 @@ bisphenoid 2
 bostal
 brachiofaciolingual 1
 beltcourse
-bigotedly
+bigotedly 1
 befalling
 befalls
 blusteringly 1
