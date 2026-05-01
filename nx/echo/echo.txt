@@ -7761,7 +7761,7 @@ epigastrocele 1
 epigee
 escapism
 excyst
-electromagnetize
+electromagnetize 1
 envisage
 ethnobotany 1
 eburnean
