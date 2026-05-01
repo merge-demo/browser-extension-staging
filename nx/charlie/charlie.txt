@@ -7295,7 +7295,7 @@ crushes
 cinchomeronic
 cedared
 choachyte 1
-cephalacanthus
+cephalacanthus 1
 compartner 1
 cantalite
 cephalagra
@@ -23359,7 +23359,7 @@ consute
 crambinae
 copulating
 cromorna
-carua
+carua 1
 coarsen
 chimane
 contactant
