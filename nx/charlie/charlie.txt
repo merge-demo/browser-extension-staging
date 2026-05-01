@@ -20309,7 +20309,7 @@ copters
 chorographies
 communed 1
 concoctor
-communer
+communer 1
 chemopallidectomy 1
 catamnesis 1
 cytostroma
