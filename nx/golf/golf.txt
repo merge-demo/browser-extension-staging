@@ -8840,7 +8840,7 @@ gangan
 gablock
 glaiket 1
 gasterophilus
-glycins
+glycins 1
 gonogenesis 1
 gregariously
 gilgulim
