@@ -13013,7 +13013,7 @@ espiglerie
 expectorated
 echinococcus
 enneahedria 1
-exculpate
+exculpate 1
 endosecretory
 etatisms 1
 endocondensation 1
