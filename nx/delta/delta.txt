@@ -7108,7 +7108,7 @@ divisionally
 dollops
 dietical
 dolthead
-diagnostic
+diagnostic 1
 demurs
 dicoccous 1
 discouple
@@ -13648,7 +13648,7 @@ dermatobia 1
 dissyllabic
 dasypaedic
 dissyllabised
-deity
+deity 1
 dunes
 dissyllabizing
 ditties
