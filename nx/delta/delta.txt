@@ -16663,7 +16663,7 @@ doctoress
 drayage
 drayhorse
 dipteraceous
-dialectologic
+dialectologic 1
 drails 1
 driech
 derangements
