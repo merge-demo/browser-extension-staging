@@ -6489,7 +6489,7 @@ gadwalls
 goll
 guddling 1
 genetic
-glaikitness
+glaikitness 1
 gariba
 galvanocautery
 golly
