@@ -8882,7 +8882,7 @@ finbone
 flerry 1
 fossorious 2
 fossulae
-flatfishes
+flatfishes 1
 featureless
 fostered
 fator
@@ -11520,7 +11520,7 @@ forethoughtless
 fuscin
 frictional
 fundamentally
-furthered 2
+furthered 3
 fra 1
 foretopmen
 floodable
