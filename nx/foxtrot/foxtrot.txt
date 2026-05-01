@@ -10338,7 +10338,7 @@ faquirs
 flandowser 1
 felonries
 fitten
-finary
+finary 1
 folksongs
 fanged
 fingerings
