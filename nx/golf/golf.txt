@@ -10521,7 +10521,7 @@ gibs
 gulix
 grallic
 geast
-galeorchis
+galeorchis 1
 gilly 1
 gadsbodikins
 gonal
