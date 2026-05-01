@@ -8460,7 +8460,7 @@ diametric
 dichromism
 diamide
 diamides
-descanter
+descanter 1
 deesis 2
 depictured 1
 dimethylnitrosamine
