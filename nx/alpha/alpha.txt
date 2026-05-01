@@ -2052,7 +2052,7 @@ anathematical
 amphodiplopia
 autecy
 anticipatory
-antibromic
+antibromic 1
 arterial 1
 acetosoluble
 acetostearin
