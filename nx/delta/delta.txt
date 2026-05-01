@@ -227,7 +227,7 @@ dinnertime 1
 dorsula
 diethylenediamine
 diff
-discrepencies 1
+discrepencies 2
 dhoul
 duotoned
 discorrespondency
