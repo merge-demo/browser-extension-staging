@@ -11212,7 +11212,7 @@ evanesces
 emmetropy
 extrajudicial
 etuis
-extoll
+extoll 1
 extatic
 evanescible 1
 evanescing 1
@@ -13507,7 +13507,7 @@ eyeservice 1
 eutopian
 eucrasite 2
 ethan 4
-ergophobic
+ergophobic 1
 exquire 3
 exsolution
 erbia
