@@ -19193,7 +19193,7 @@ attache
 aristotelic
 allotypies
 aetiotropically
-antigay
+antigay 1
 amphibological
 ardassine 1
 anemoses
