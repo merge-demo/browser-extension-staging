@@ -1446,7 +1446,7 @@ calypso
 copals
 calypsoes
 calypsonian 1
-compressedly
+compressedly 1
 calypsos
 charbon
 cholic
