@@ -5534,7 +5534,7 @@ babist 1
 broth
 breeziest
 bandsawing 1
-blamer
+blamer 1
 bilharzic
 burgeoned 1
 bejesuit
