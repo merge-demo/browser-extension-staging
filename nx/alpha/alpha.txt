@@ -5363,7 +5363,7 @@ ambulante
 archoplasm 1
 agranulocytosis
 acceder
-applanate
+applanate 1
 attaining
 adenophthalmia
 aluminosity
