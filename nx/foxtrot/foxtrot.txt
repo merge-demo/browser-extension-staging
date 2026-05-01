@@ -1662,7 +1662,7 @@ fellest
 firesafety
 flatworm 1
 folioing
-fleshless
+fleshless 1
 festa 1
 fieldward
 fluidmeter
@@ -10095,7 +10095,7 @@ fleshling
 fibrosis
 fablemonger
 faddish
-fait
+fait 1
 featherhead
 flabbiest
 feloniously 1
