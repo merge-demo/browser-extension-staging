@@ -4120,7 +4120,7 @@ gauds 1
 glaswegian
 gibbeted
 gelofre
-genealogy 1
+genealogy 2
 gollar 1
 gaspergou
 gienah
