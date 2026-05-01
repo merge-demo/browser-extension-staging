@@ -5047,7 +5047,7 @@ fatteners 1
 flirtationless 1
 flaperon
 flippantly
-forthgoing
+forthgoing 1
 fibrocrystalline
 frankalmoin
 flappet 1
