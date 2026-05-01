@@ -8149,7 +8149,7 @@ gudebrother 1
 gallygaskins
 garderobe 2
 goldbeating
-gaspergous
+gaspergous 1
 genteeler
 gynaeolater 1
 gulfed 1
