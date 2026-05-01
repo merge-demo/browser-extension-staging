@@ -3046,7 +3046,7 @@ gipping
 geophagism
 gemels
 grubhood 1
-gashliness 1
+gashliness 2
 gonidium
 giustina
 geat
@@ -7218,7 +7218,7 @@ gamesters
 grimliness
 gloze
 grater
-gonial
+gonial 1
 gratin 1
 globosite
 gastropathic
