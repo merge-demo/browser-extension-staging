@@ -1213,7 +1213,7 @@ acanthia
 apocryphally 1
 acanthion
 atrosanguineous
-acanthocephalous
+acanthocephalous 1
 acanthocladous 1
 acanthodean
 abbots
