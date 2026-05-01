@@ -8841,7 +8841,7 @@ dixit 1
 debilissima
 dibhole
 diadochian 1
-dioptry 2
+dioptry 3
 dualized
 defrosted
 diborate 1
