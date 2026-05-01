@@ -13063,7 +13063,7 @@ emrode
 expatriated 1
 exhibiting
 ebauchoir
-euhemerised
+euhemerised 1
 epiperipheral
 expediter
 emarginula
