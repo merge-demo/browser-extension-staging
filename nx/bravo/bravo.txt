@@ -17225,7 +17225,7 @@ bebannered
 bullweed
 brulyie
 barracks
-bromindigo
+bromindigo 1
 bullwhipping
 bullwort
 bulrush
