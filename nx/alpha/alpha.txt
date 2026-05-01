@@ -15971,7 +15971,7 @@ amylase
 aromatise
 acquital
 aliasing
-antiquated
+antiquated 1
 anticreational
 anacreontic
 aceanthrenequinone
