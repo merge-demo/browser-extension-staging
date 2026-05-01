@@ -2672,7 +2672,7 @@ decondition
 dicers
 dialectics
 disuniter
-decongestant
+decongestant 1
 deltoidei
 deconsecrate 1
 duels 1
