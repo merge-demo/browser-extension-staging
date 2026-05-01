@@ -5070,7 +5070,7 @@ deflationist
 dasypygal
 dendrocoele
 dendrocolaptine
-dendroctonus
+dendroctonus 1
 degrade
 duplicating
 dendrohyrax
