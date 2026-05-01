@@ -24170,7 +24170,7 @@ autoinoculable
 antiritualism 1
 aldermanries
 abrus
-anquera 1
+anquera 2
 afterlifetime 1
 anniversarily
 autojigger
