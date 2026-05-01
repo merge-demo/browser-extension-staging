@@ -21179,7 +21179,7 @@ concelebrates
 cholestane 1
 concelebration
 concenter
-compasses
+compasses 1
 concento
 concolor 1
 chemicobiological 1
