@@ -2281,7 +2281,7 @@ fantails
 folktale 1
 fulmineous 1
 fragging 1
-fluorocarbons
+fluorocarbons 1
 floored 1
 fends
 filator 2
