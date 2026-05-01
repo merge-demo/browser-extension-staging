@@ -14516,7 +14516,7 @@ demurest 1
 dyeing 2
 detruncated
 dermas
-disintegratory
+disintegratory 1
 divinability 1
 defiles
 diviner 1
