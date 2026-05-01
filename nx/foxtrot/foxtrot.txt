@@ -2361,7 +2361,7 @@ flounderingly
 funerary 1
 floorward
 ferr
-favel
+favel 1
 femineity 1
 frightener 1
 feres
