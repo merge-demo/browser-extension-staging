@@ -7252,7 +7252,7 @@ gangion 1
 garlicmonger 1
 gargoyles
 governorate
-gourmands 1
+gourmands 2
 generosity
 gribble
 gingernut
