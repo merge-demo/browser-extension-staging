@@ -11653,7 +11653,7 @@ cholesteatomatous 1
 cholesteremia
 cleidohyoid
 charoset
-clethra
+clethra 1
 cholesterinic
 cholesterol
 clepsydrae
