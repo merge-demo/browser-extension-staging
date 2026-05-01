@@ -6833,7 +6833,7 @@ forswearer 1
 fructifier
 foliaged
 firetower
-fustigator
+fustigator 1
 flipjack
 fourhanded
 fabled 1
