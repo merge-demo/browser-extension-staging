@@ -12126,7 +12126,7 @@ anastatus
 anastigmat
 anastigmatic
 alcoholise
-alvah
+alvah 1
 alichel 1
 afterbreast
 acrodynia
