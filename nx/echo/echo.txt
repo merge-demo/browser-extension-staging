@@ -2912,7 +2912,7 @@ elfenfolk 1
 exclamational
 endogeny
 elfinwood
-exfoliating
+exfoliating 1
 extremity
 enflamed
 electrocardiographically
