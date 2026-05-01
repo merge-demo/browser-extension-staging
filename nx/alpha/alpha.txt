@@ -10996,7 +10996,7 @@ amperometric
 amoebeum 1
 abusion 1
 apologize
-azotate
+azotate 1
 adrenals
 alb
 attabal
@@ -13641,7 +13641,7 @@ arsine
 annunciade
 arthropod
 aloneness 1
-annunciating
+annunciating 1
 annunciation 1
 autotrophic
 apophonia 1
