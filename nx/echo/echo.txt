@@ -10367,7 +10367,7 @@ evolvers 1
 ethography
 excepter 1
 entropion 1
-ethnogeographer
+ethnogeographer 1
 electrocataphoretic 1
 explains
 eversible 1
