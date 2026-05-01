@@ -5784,7 +5784,7 @@ disauthentic
 dextrocerebral
 depositors 2
 dowel 1
-divestible
+divestible 1
 dichotomously
 daisied 1
 deafforest
