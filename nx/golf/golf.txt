@@ -2324,7 +2324,7 @@ gruss
 gutturalisation
 greeney
 grubbiness 1
-gainturn 1
+gainturn 2
 guavaberry
 geoglossaceae
 glandes
@@ -5685,7 +5685,7 @@ glaciometer
 glossalgia
 gesundheit
 glossies
-glossiest
+glossiest 1
 gybed
 glossinas
 gertrude 2
@@ -7890,7 +7890,7 @@ gardevin
 greece
 galvanometrical 1
 groom 1
-grammarless
+grammarless 1
 grammaticaster 1
 garlandlike
 gabbais
