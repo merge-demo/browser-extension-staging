@@ -17366,7 +17366,7 @@ churchmaster
 coatdress
 conserve 1
 conveyorizer
-coated
+coated 1
 commensurations
 coatees
 clivises 1
