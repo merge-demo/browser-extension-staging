@@ -10190,7 +10190,7 @@ ganga 3
 gingko
 gargles
 ganzie
-getspa 1
+getspa 2
 gobet
 grindstone
 gitanemuk
