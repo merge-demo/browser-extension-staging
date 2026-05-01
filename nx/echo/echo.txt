@@ -6185,7 +6185,7 @@ explicableness
 erase
 etiologic
 enological 1
-enterclose
+enterclose 1
 execs
 ellipsoid
 exodist
