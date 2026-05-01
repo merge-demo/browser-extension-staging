@@ -4352,7 +4352,7 @@ fencer 1
 foreconceive 1
 forb
 furosemide 1
-fillister
+fillister 1
 focuser
 forfeitable
 fibroplastic 3
