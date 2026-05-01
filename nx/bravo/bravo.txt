@@ -4991,7 +4991,7 @@ beladied
 basement 1
 bluebeardism 1
 belleric
-beermaker
+beermaker 1
 beermonger 1
 bumpoff
 beefers
