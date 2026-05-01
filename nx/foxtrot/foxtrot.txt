@@ -7253,7 +7253,7 @@ fecial
 fiorded 2
 flumed
 foiled 1
-fitz
+fitz 1
 footslogger
 financiery 1
 fatstocks
