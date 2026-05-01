@@ -1270,7 +1270,7 @@ focimetry 1
 flenching
 foxtails
 flutework
-fructivorous 1
+fructivorous 2
 fatbird 2
 fatefully
 fanaticise 1
@@ -8732,7 +8732,7 @@ fissility
 frankhearted
 favoress
 flattens 1
-feteless
+feteless 1
 fame
 faciendum
 forgive
