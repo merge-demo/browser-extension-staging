@@ -6471,7 +6471,7 @@ gurry
 grit 2
 guirlande
 graduatical 1
-genteel 1
+genteel 2
 ghazel
 gliming
 grooving
