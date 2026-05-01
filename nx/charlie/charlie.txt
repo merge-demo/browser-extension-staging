@@ -26123,7 +26123,7 @@ crosswalks
 cosmicality
 clausulae
 congruential
-cosmically
+cosmically 1
 canterelle
 chiefdoms
 conspiratorial
