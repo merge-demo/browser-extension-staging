@@ -12180,7 +12180,7 @@ arteriofibrosis 1
 anatomiser
 anatomize
 anopsy 1
-anatomizer
+anatomizer 1
 advisiveness
 attacco
 anatopism
