@@ -15082,7 +15082,7 @@ contumacity
 curiate
 confated
 characterizations
-cladanthous
+cladanthous 1
 cladding
 couplet
 conducta
