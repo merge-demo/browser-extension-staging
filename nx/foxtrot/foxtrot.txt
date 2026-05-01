@@ -9445,7 +9445,7 @@ foxholes
 flacons 1
 forbye
 fibreglass
-forane
+forane 1
 fondu
 frenum
 ficaria
