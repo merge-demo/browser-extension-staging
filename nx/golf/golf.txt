@@ -2794,7 +2794,7 @@ gypseian
 geraniales
 gramps 1
 galactorrhea 1
-glace
+glace 1
 gentler
 gutnish
 gingelly
@@ -8620,7 +8620,7 @@ gastrolatrous
 gemel 1
 gonidioid 1
 gravure
-gathic 1
+gathic 2
 greenflies
 gamasidae
 gossameriness
