@@ -4627,7 +4627,7 @@ extroversive
 eucrites
 elbowing 1
 embosser
-extraterritorially
+extraterritorially 1
 encyclopedia
 encyclopediacal 1
 equestrianship 1
