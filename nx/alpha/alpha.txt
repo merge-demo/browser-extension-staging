@@ -17292,7 +17292,7 @@ aposia
 aposiopesis
 americanize
 anaplasma
-arbalest
+arbalest 1
 acataposis 1
 anglicization
 ayins
