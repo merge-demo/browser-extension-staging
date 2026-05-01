@@ -11296,7 +11296,7 @@ claritude
 cwo
 calpacks 1
 checkups 1
-clothbound
+clothbound 1
 chlorocarbonate
 casualty
 chlorochromic
