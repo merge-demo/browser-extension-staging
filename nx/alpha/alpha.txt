@@ -24395,7 +24395,7 @@ antagonise
 autosight
 albuminuric
 autosymbolical
-autosymbolically
+autosymbolically 1
 archprimate
 airplaning
 antiquarianism
