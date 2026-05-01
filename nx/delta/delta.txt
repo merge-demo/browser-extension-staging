@@ -16687,7 +16687,7 @@ drainpipes 1
 dottedness 1
 depressor
 dabblers
-deeny
+deeny 1
 drains
 drageoir 1
 deponer
