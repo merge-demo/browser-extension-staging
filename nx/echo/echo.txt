@@ -5289,7 +5289,7 @@ ethonomic 1
 exsertion
 eximious 1
 endospore
-evidentness 1
+evidentness 2
 encharm
 eel
 epiphyte
