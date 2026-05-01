@@ -3995,7 +3995,7 @@ furazolidone 1
 fender 1
 fluorosis
 fumblers
-foramina
+foramina 1
 fishery
 fixups
 forleft
