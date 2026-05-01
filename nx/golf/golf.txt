@@ -796,7 +796,7 @@ girllikeness 1
 grinnellia 1
 gamashes
 goombay
-gastrospasm 2
+gastrospasm 3
 grouts
 glycosidase
 graf

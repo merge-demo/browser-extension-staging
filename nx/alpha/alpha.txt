@@ -4932,7 +4932,7 @@ adelochorda 1
 aliyoth
 aerodonetics 1
 appeasement
-arcanum
+arcanum 1
 algorithms
 antipedal
 adoors
