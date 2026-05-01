@@ -6687,7 +6687,7 @@ ailanto
 ailed
 aileron
 adradius
-arakanese
+arakanese 1
 anatolian
 aporetical
 amidoketone
