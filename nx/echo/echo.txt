@@ -9354,7 +9354,7 @@ esseda
 eumeromorph
 escalloped
 excerptible 1
-excresce
+excresce 1
 escalope 2
 erlking 1
 enchiladas
