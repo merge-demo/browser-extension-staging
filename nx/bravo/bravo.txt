@@ -6808,7 +6808,7 @@ beachy
 broadsided 1
 ber
 beruffed
-brusqueness
+brusqueness 1
 boy
 bilic
 berwick
