@@ -24881,7 +24881,7 @@ archplutocrat
 anthropometrical
 avow
 avowably
-adenographer
+adenographer 1
 alighting
 archrebel
 aseptic
