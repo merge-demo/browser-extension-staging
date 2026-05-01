@@ -15963,7 +15963,7 @@ centares
 clerid
 chicaning
 ceder
-castrato 1
+castrato 2
 clerihews
 consence
 clerisies
@@ -30214,7 +30214,7 @@ crunk
 crudest
 conto 1
 crudy
-capitoulate
+capitoulate 1
 concentrators
 cains
 cowberry
