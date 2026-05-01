@@ -2520,7 +2520,7 @@ acnes
 aphrasia
 amperemeter
 acnida
-arabizes
+arabizes 1
 airily
 antiperthite 1
 apprehendingly
