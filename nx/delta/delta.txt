@@ -6245,7 +6245,7 @@ directress
 dermatomere
 dermatomyces
 deploredness
-diplokaryon
+diplokaryon 1
 disingenuous 1
 debat
 doldrums
