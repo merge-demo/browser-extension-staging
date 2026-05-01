@@ -8238,7 +8238,7 @@ flaggelated
 friezing
 flatbed
 forfaulture 1
-francophile
+francophile 1
 fernandinite
 fluoroscoping
 fishways 1

@@ -16999,7 +16999,7 @@ discreet
 didepsid
 dree
 dreepy
-dayan
+dayan 1
 drometer
 disaffinity
 drencher
