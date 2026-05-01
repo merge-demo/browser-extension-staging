@@ -21344,7 +21344,7 @@ antichristianity
 angeyok
 artwork
 adaptometer
-apheta
+apheta 1
 asynchronisms
 antichurchian
 asyndetic
