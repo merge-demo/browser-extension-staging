@@ -8267,7 +8267,7 @@ bluebills
 benzophosphinic
 brakehead
 bovarysm
-bigamies
+bigamies 1
 bigamist
 betafite
 burstiness
