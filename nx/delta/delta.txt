@@ -5218,7 +5218,7 @@ dicyemata
 disowned 1
 dalapon
 densely
-daviely
+daviely 1
 difficile 1
 dioptase
 drawbridges
@@ -15059,7 +15059,7 @@ doghouse
 dogie 1
 deboshed
 doglike
-dekabrist
+dekabrist 1
 dufrenite
 delicti
 domitian
