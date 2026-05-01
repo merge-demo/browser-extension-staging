@@ -1639,7 +1639,7 @@ deutsche
 disorientated
 didymia
 deisin
-deliverable
+deliverable 1
 difficulty
 daylong 1
 dimetrodon
