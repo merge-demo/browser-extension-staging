@@ -8606,7 +8606,7 @@ fanfarons
 frownful
 foraminule
 featherer
-frogtongue 1
+frogtongue 2
 futurities 1
 fulgence 2
 factitively
