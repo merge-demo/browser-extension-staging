@@ -21317,7 +21317,7 @@ artless
 androdioecious 1
 asymmetranthous
 antiexporting
-antevenient
+antevenient 1
 arbitrary
 andesytes
 alleger
