@@ -3975,7 +3975,7 @@ giliak
 garter
 glochidium 1
 galabiya
-georgium
+georgium 1
 greasier
 gilles
 gynostegium
@@ -8557,7 +8557,7 @@ graveolent
 gymnoderinae 1
 gozzan
 ganglioplexus
-gramineae 1
+gramineae 2
 graverobbing
 ghettoization
 gravers
