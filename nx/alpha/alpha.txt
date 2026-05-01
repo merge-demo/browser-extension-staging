@@ -24908,7 +24908,7 @@ antiaggression
 amurru
 awadhi
 arling
-awayness
+awayness 1
 awaynesses
 accommodatively
 afforestable
