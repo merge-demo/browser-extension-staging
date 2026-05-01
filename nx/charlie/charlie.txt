@@ -14957,7 +14957,7 @@ crossjack
 citreous
 confabulates
 citrination 1
-currachs
+currachs 1
 cytopharynxes
 citrinin
 citrinins
@@ -26253,7 +26253,7 @@ cosseting
 cossette
 catalowne
 chokestrap
-calmingly
+calmingly 1
 cosshen
 cossic 1
 cossidae 1
