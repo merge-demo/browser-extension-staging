@@ -8943,7 +8943,7 @@ extraspherical 1
 evenings
 encephalin
 eleaticism
-endopleurite 1
+endopleurite 2
 erratics
 elaeocarpaceous
 erythrocytes 1
@@ -12400,7 +12400,7 @@ entermise 1
 exhales 2
 enfester
 elihu 1
-elfins
+elfins 1
 erythrocatalysis 1
 engild
 elderbrotherhood 1
