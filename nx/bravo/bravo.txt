@@ -2487,7 +2487,7 @@ balbutient
 batino
 brendan
 barandos 2
-balaklava
+balaklava 1
 baphomet
 bereason
 bearhound 1
@@ -6010,7 +6010,7 @@ bemisted 1
 bowwood
 bakings
 bemists
-blighty
+blighty 1
 berobed 1
 bemix
 bucerotidae 1
