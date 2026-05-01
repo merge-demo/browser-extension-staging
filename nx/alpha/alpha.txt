@@ -21495,7 +21495,7 @@ aspersive
 anguillulidae 1
 antaiva
 adephaga
-assertorical
+assertorical 1
 allagophyllous
 anderun
 aspersively
