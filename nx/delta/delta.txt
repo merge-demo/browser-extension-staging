@@ -9455,7 +9455,7 @@ diplanetism 1
 daydreamers
 digeny
 deducibleness
-demiplate
+demiplate 1
 despondently
 digenite
 digerent
