@@ -9674,7 +9674,7 @@ guzzle 2
 graniform 1
 govt 1
 ghanaians
-gypsophilous
+gypsophilous 1
 groundwood
 gosther
 granuliform 1
