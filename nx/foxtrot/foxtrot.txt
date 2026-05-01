@@ -5644,7 +5644,7 @@ flyless
 fuddle 1
 fulgurata
 firetop
-favouritism
+favouritism 1
 flimsier
 fishbolt 1
 fondues 1
