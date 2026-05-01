@@ -10331,7 +10331,7 @@ conspirator 1
 chickpeas 1
 cerer
 chickstone
-consultory
+consultory 1
 canariote
 chickwit
 chicle
