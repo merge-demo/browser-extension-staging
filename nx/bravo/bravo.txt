@@ -18089,7 +18089,7 @@ berthierite
 butane 1
 butanoic
 bismuthite
-burgage 1
+burgage 2
 butanol
 bonked
 bibliopegistical
