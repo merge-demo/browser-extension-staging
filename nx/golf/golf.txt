@@ -10141,7 +10141,7 @@ giddyish
 gervao 1
 gloried 1
 glideness
-guardianly
+guardianly 1
 git 2
 gingely 1
 grown 1
