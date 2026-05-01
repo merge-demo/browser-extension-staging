@@ -7670,7 +7670,7 @@ feudatory 2
 factualness
 fables 1
 factualism
-foreworn
+foreworn 1
 foreguess
 flammant
 flambant
