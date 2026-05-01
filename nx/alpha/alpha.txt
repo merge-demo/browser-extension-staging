@@ -8877,7 +8877,7 @@ appercipient 1
 amethodical 1
 allanturic
 actinal
-admirably
+admirably 1
 antevocalic
 arrayment
 armouries
