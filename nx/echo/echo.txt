@@ -8983,7 +8983,7 @@ enormious 1
 erythemas
 eves
 eunuchized 3
-etiolize 2
+etiolize 3
 equiponderous
 ebcasc
 effund
@@ -9419,7 +9419,7 @@ enamber
 eschel
 eschele
 effulging 1
-ecod
+ecod 1
 ensnarement 1
 ectrogenic
 embowering
