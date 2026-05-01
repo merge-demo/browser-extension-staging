@@ -7110,7 +7110,7 @@ fractionator
 fripper 1
 flaker
 fiddleback 1
-foreallege
+foreallege 1
 fregatae
 footage
 fibrillae
@@ -10874,7 +10874,7 @@ fallout
 fontal
 frisky
 flagitiously
-forwore
+forwore 1
 flowing
 frondosely
 frousy
