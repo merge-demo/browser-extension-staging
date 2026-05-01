@@ -12712,7 +12712,7 @@ congenitally
 chuddah
 courtesied 1
 countermarch
-cassone
+cassone 1
 challengers
 conventioneer
 clingingness
