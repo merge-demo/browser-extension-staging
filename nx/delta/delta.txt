@@ -13648,7 +13648,7 @@ dermatobia 1
 dissyllabic
 dasypaedic
 dissyllabised
-deity
+deity 1
 dunes
 dissyllabizing
 ditties
