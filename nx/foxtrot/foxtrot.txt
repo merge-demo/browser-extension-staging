@@ -4511,7 +4511,7 @@ filleul
 fuddles 1
 francophobia 1
 flagging
-forestalling
+forestalling 1
 farmlands
 feer
 foreigner
