@@ -16971,7 +16971,7 @@ aplanogamete
 areally 2
 antifermentative
 alveolars
-affreight
+affreight 1
 alfione 1
 aplites
 amulet 1
