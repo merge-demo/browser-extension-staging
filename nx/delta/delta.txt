@@ -3313,7 +3313,7 @@ dizz
 definedly
 definers
 disconfirmed 2
-deflects
+deflects 1
 depriment 1
 disconsolation
 daintihood
