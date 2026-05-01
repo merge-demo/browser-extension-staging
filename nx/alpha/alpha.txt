@@ -6779,7 +6779,7 @@ allomerize
 agglutination
 atrioporal
 aglaia
-ainus
+ainus 1
 ayont
 anterodorsal 1
 antemetic
