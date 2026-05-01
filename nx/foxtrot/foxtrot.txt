@@ -6579,7 +6579,7 @@ falconiform
 foaling
 franseria
 friary
-flunkeyism
+flunkeyism 1
 feltness 1
 frounce
 foamflower
