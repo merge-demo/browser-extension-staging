@@ -2008,7 +2008,7 @@ ectobronchium 3
 electrometeor
 entamebic
 eligibleness
-encephalometric
+encephalometric 1
 electrograph 1
 embroilments 1
 eyeblink
@@ -10367,7 +10367,7 @@ evolvers 1
 ethography
 excepter 1
 entropion 1
-ethnogeographer
+ethnogeographer 1
 electrocataphoretic 1
 explains
 eversible 1
