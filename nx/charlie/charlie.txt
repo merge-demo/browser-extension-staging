@@ -934,7 +934,7 @@ caky
 clientelage
 conformant
 consecration
-cols
+cols 1
 collagist 1
 chazzanut
 cakravartin
@@ -9465,7 +9465,7 @@ concupiscent
 crystallochemical
 callityping
 crojik
-check
+check 1
 communizing
 checkage
 checkback
