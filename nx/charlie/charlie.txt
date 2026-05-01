@@ -25602,7 +25602,7 @@ corpn
 corpora
 corporacy
 commensally 1
-corporacies
+corporacies 1
 calcic
 corporalcy
 corporale
