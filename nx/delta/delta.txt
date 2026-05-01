@@ -9639,7 +9639,7 @@ dowcet
 diiodoform
 debiting
 debauching
-dipteron
+dipteron 1
 dimidiating
 drinkables
 daidling 1
