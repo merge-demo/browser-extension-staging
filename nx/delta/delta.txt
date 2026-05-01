@@ -8488,7 +8488,7 @@ diane
 dianetics
 desulfuration
 didactically
-dianilid
+dianilid 1
 deathworm
 dilate 1
 dianilide
