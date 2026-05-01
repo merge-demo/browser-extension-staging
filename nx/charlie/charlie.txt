@@ -29606,7 +29606,7 @@ crocetin
 ceratospongiae
 croche 1
 crocheter
-crocheteur 1
+crocheteur 2
 codebook
 commutableness
 columbanian

@@ -753,7 +753,7 @@ equilibrist
 ecoute 2
 enforcive 2
 exscinding 1
-emotes
+emotes 1
 echinal
 euomphalid
 egger 1
@@ -7737,7 +7737,7 @@ electrodynamical
 eyehole
 etymologies
 endophytal
-etherizer
+etherizer 1
 ergate 2
 explorator
 epiproct
