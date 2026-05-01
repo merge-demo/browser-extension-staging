@@ -174,7 +174,7 @@ flatfoots
 featherless
 flier
 factorable
-flimsies
+flimsies 1
 finitary 1
 factoryship
 floatiness
