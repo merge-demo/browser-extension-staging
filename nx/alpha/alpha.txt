@@ -12715,7 +12715,7 @@ annus 1
 arcticward
 angareb
 angel
-angela
+angela 1
 artemis 1
 anthodium
 arsenicize
