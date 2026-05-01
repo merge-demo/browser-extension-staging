@@ -8924,7 +8924,7 @@ damascene
 druffen
 deceivable
 deathblows
-dichotically
+dichotically 1
 disklike
 dirigible
 denaturalization
