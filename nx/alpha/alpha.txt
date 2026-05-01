@@ -2739,7 +2739,7 @@ acridiidae 1
 allochiral
 amreetas
 ankylophobia 1
-acridity
+acridity 1
 aerobee 1
 acridities
 acrydium
@@ -12236,7 +12236,7 @@ antiritualist
 amidogens 1
 anaxone 3
 anazoturia
-amiable
+amiable 1
 administrate
 atmospherium
 advisy
