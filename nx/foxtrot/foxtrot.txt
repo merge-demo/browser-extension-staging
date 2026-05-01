@@ -9464,7 +9464,7 @@ furacana
 flammed
 franz 1
 felidae
-foliiferous
+foliiferous 1
 fliers 1
 foodstuff
 foreteeth
