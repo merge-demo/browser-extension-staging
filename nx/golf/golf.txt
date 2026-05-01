@@ -8484,7 +8484,7 @@ gastaldite 1
 gadzooks
 glassmaker
 gushet 1
-gomphosis
+gomphosis 1
 garancine 1
 goatishness
 galeeny
@@ -8751,7 +8751,7 @@ greenbug 2
 gastrolater 1
 gormandising 1
 grandiloquent
-greenery
+greenery 1
 glamor
 globin
 geraniaceous
