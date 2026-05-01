@@ -22233,7 +22233,7 @@ aglutition
 arrestees
 anticholinergic
 astomia 1
-astone
+astone 1
 allylamine
 apennine
 algometry
