@@ -2295,7 +2295,7 @@ formulable 2
 flotation
 foreface
 fistulizing
-fenestrae
+fenestrae 1
 foreword
 frontogenesis
 fenestrated 1
@@ -3318,7 +3318,7 @@ feture
 folletto 1
 flabbergastation 1
 fretfulness 1
-flexility
+flexility 1
 fracted 2
 fidejussor
 furfur
