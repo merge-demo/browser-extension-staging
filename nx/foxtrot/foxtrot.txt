@@ -10366,7 +10366,7 @@ fiaunt
 fraenula 2
 floodlighted
 fluoridized
-faceman
+faceman 1
 fortiori
 flexible
 frondless 1
