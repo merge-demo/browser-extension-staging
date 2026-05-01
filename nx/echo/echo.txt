@@ -7726,7 +7726,7 @@ epidymides 1
 extrafine
 eosine 2
 extractiform 3
-encephalogram
+encephalogram 1
 equispatial
 exotisms 1
 easternmost 1
