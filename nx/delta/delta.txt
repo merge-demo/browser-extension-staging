@@ -1411,7 +1411,7 @@ decephalize 1
 diorites 1
 daviesite
 deleted 1
-dacryocystalgia
+dacryocystalgia 1
 dispel
 downdale 1
 dismain
@@ -18267,7 +18267,7 @@ dasycladaceae
 disfavoring
 dhoolies
 dungarees
-dispirem
+dispirem 1
 decempeda
 dodecafid
 doghearted
