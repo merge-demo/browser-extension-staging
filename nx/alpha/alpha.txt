@@ -19035,7 +19035,7 @@ aerobes
 antipersonnel
 acquaintance
 archostegnosis
-absolved
+absolved 1
 archipelagoes
 availingly
 athetizing
