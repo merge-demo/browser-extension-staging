@@ -7437,7 +7437,7 @@ affinage
 antrum
 adversus
 alarmists 1
-astrogate 1
+astrogate 2
 archiepiscopate 1
 acusection
 actinomyxidia
