@@ -14195,7 +14195,7 @@ angelo
 algonquian 2
 antepenult
 acromyodi
-allergic
+allergic 1
 amphithere
 abcissa
 antepirrhema
