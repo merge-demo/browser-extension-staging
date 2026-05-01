@@ -11873,7 +11873,7 @@ chorai
 choral 1
 choralcelo
 causeway 1
-chorale
+chorale 1
 carmagnoles
 castration
 chorales
