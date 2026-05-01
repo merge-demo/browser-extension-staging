@@ -30723,7 +30723,7 @@ carbolineum 1
 chiropterygium
 coeffects
 cheetie
-cunctatory
+cunctatory 1
 ceraunophone
 coempts
 cuemen
