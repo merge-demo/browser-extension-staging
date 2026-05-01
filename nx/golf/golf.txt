@@ -10574,7 +10574,7 @@ griphus 1
 gneissitic 2
 greenwithe
 gatewoman
-geomalism
+geomalism 1
 grenadiership
 grommets 1
 goads
@@ -10831,7 +10831,7 @@ glucocorticord
 grazings
 gelatinizing
 gigunu
-guvacine
+guvacine 1
 goatland
 growing 2
 grammatic
