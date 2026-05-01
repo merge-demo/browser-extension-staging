@@ -9858,7 +9858,7 @@ foredooming 1
 fleck 1
 faddist
 farmage 1
-foamy 1
+foamy 2
 fretum
 fidget
 fluors
