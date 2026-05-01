@@ -11309,7 +11309,7 @@ evaporating 1
 eviscerating
 endoarteritis
 excoriation
-esophagodynia
+esophagodynia 1
 eccoproticophoric 1
 excursing
 endue
