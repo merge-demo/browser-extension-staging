@@ -4108,7 +4108,7 @@ fissipedal
 ferth 1
 fiendful
 feuilletons
-frameworks
+frameworks 1
 fiorin 1
 fusiladed 1
 fiorite
