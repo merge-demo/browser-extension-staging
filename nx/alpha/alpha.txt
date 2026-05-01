@@ -10900,7 +10900,7 @@ ammonification 1
 academicians
 autochthonousness
 aryan
-ammonifies
+ammonifies 1
 arapaho
 acholias 1
 arctiidae
