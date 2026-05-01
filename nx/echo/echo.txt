@@ -6220,7 +6220,7 @@ erecter
 endplate
 excipule
 epistapedial 1
-expungers
+expungers 1
 eelcatcher
 elimination
 evasively
