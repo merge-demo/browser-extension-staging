@@ -7334,7 +7334,7 @@ everywhither 1
 earthmoving
 equipollency 1
 eyres 1
-essentiality 1
+essentiality 2
 epencephala
 embittering 1
 ejaculating 1
@@ -12575,7 +12575,7 @@ exit
 encrypted
 exsects
 exite 1
-eranist
+eranist 1
 extinction
 envied
 enherit
