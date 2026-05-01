@@ -10709,7 +10709,7 @@ embraced
 endopleural
 enroll
 eloin 1
-euripus
+euripus 1
 erebus
 euglenoid 1
 exolve 1
