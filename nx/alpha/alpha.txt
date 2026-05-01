@@ -4790,7 +4790,7 @@ alycompaine
 agrypniai
 abaris
 aequi
-ausgespielt
+ausgespielt 1
 aranein
 albuminimetry
 allogamy
@@ -8657,7 +8657,7 @@ ampelosicyos
 adjudicatory
 avizandum
 asterias 1
-abrine
+abrine 1
 accentuates
 antiexpressiveness
 antibishop
