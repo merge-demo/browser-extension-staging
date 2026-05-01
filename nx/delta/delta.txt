@@ -9384,7 +9384,7 @@ dist
 diffranchise
 diadumenus
 durabilities
-decadic
+decadic 1
 discontentive
 dram
 dissoluble
@@ -16861,7 +16861,7 @@ diaphanoscopy
 deprecatingly
 drumbeat
 darbukka
-drawliest 1
+drawliest 2
 declamando 1
 donnishly
 dilettante
