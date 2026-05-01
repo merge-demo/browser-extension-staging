@@ -20606,7 +20606,7 @@ aedegi 1
 alpestral
 adulators 1
 apantesis 2
-arthromeric
+arthromeric 1
 actiniferous
 afterplay
 adamantoma 1
