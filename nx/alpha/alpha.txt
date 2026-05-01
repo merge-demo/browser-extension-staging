@@ -19782,7 +19782,7 @@ amphicyonidae
 acrodermatitis
 airplanes
 alteratively
-armamentarium
+armamentarium 1
 affeerment 1
 attachable
 armangite
