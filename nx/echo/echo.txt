@@ -7976,7 +7976,7 @@ emigating 1
 expectorations
 endovasculitis
 exsanguious
-exophoria 1
+exophoria 2
 euthenist 1
 equuleus
 ecliptic 1
