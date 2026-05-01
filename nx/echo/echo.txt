@@ -12353,7 +12353,7 @@ enatant
 elvanitic
 equisegmented
 exercitorian 2
-effront
+effront 1
 efs
 elaidate
 effigurate
