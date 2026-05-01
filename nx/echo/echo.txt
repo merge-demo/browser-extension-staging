@@ -11512,7 +11512,7 @@ electroconvulsive
 evigilation
 eleemosinar
 emenders
-exsecant
+exsecant 1
 exoergic 1
 exaction
 echinopanax 1
@@ -13888,7 +13888,7 @@ eelpot 1
 equivocation
 evaporize
 ethionic 1
-ellasar
+ellasar 1
 extractability
 echinoderidae
 eluated
