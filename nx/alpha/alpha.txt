@@ -18209,7 +18209,7 @@ animable
 alumnol
 ankylos
 adventurement
-ampelis
+ampelis 1
 aphanomyces
 aquifer
 avanturine
