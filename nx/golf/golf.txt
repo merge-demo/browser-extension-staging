@@ -3220,7 +3220,7 @@ gleeful
 gauze
 graders 1
 geotropically
-glaucous
+glaucous 1
 gaut
 gyral
 gaelicist
