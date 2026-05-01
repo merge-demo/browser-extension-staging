@@ -4518,7 +4518,7 @@ excoction
 euphemized
 eleazar 1
 enchancement 1
-endogenic
+endogenic 1
 empeoplement 1
 enchanted
 eunuchise 2
