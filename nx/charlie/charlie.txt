@@ -1300,7 +1300,7 @@ calfish
 chromophotograph
 calfkill
 calfless 1
-cerigerous
+cerigerous 1
 copyism
 calflike
 calfling
