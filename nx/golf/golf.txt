@@ -2681,7 +2681,7 @@ genip
 gilbertese 1
 genyplasty 1
 glashan
-globularness 1
+globularness 2
 glandule 1
 gravitons
 gamey
