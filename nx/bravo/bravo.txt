@@ -11702,7 +11702,7 @@ bobadil
 biotomy
 bobadilian 2
 broadbill
-bindles
+bindles 1
 bacteriotrypsin
 bobbejaan 1
 bilin
