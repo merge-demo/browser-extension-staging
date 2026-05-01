@@ -8823,7 +8823,7 @@ endocellular
 eremitism 1
 ecuelling
 epitheloid
-enkernel 1
+enkernel 2
 ecospecifically 1
 esthesiometer
 eremuri
