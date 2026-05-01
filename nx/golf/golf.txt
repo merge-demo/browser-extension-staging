@@ -8179,7 +8179,7 @@ generalissimo
 grager 1
 guarantee 2
 gironde
-gordiaceous 2
+gordiaceous 3
 granulocytic
 glazier
 gentleheartedness
@@ -8976,7 +8976,7 @@ gunmaker
 gedd 1
 goldanged
 getae
-gallicola
+gallicola 1
 grizzlyman
 groutiest 1
 gesso 1
@@ -10574,7 +10574,7 @@ griphus 1
 gneissitic 2
 greenwithe
 gatewoman
-geomalism
+geomalism 1
 grenadiership
 grommets 1
 goads
@@ -10831,7 +10831,7 @@ glucocorticord
 grazings
 gelatinizing
 gigunu
-guvacine
+guvacine 1
 goatland
 growing 2
 grammatic
