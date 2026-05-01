@@ -7171,7 +7171,7 @@ fifteener 1
 fumarases
 foremind
 flukewort
-foothalt
+foothalt 1
 filths
 flagfish 1
 fend

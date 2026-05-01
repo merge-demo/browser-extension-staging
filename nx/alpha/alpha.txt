@@ -20761,7 +20761,7 @@ aetosaur
 apocarpy
 aguishness
 anthologizes
-autopsychic
+autopsychic 1
 adnescent 1
 artiodactyla
 autocrats
