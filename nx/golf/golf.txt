@@ -10095,7 +10095,7 @@ gonystylus 2
 goldenfleece 1
 graphospasm
 gnomic
-galactoid
+galactoid 1
 gnotobiologies
 gaskets 1
 gabe
