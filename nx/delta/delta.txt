@@ -1218,7 +1218,7 @@ datapac
 decrepitated
 deleterious 1
 depressive 1
-developoid
+developoid 1
 dextrans
 datary 1
 dataries 1
@@ -12748,7 +12748,7 @@ deer
 dysneuria
 dislodgement
 desertress
-drainpipe 1
+drainpipe 2
 disestablishmentarianism 1
 distasted
 drogher 1
