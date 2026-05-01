@@ -2761,7 +2761,7 @@ guydom
 gloppen
 gramophonist 1
 gyne 1
-gershon 1
+gershon 2
 guzzledom
 gyges
 guemul
