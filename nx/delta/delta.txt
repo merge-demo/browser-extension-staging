@@ -1807,7 +1807,7 @@ debarking
 digamist 1
 dishpanful
 discede 2
-dwelled
+dwelled 1
 debarkment
 debarment
 duryl
