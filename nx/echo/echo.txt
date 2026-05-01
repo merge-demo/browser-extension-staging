@@ -6818,7 +6818,7 @@ exults
 epidermoidal
 exody
 educability
-entomologist
+entomologist 1
 entrap 1
 entomologized
 enstatolite
