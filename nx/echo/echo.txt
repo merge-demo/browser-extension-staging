@@ -2223,7 +2223,7 @@ electic
 ethnal
 egghot
 electioneer
-elaphurine 1
+elaphurine 2
 extramoral
 elevatory 1
 eidola 1
@@ -9921,7 +9921,7 @@ electroosmotically
 estrayed
 elderwood 1
 epididymodeferential
-ebraick
+ebraick 1
 estral
 evermore 1
 exoccipital 1
