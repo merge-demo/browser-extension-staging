@@ -9944,7 +9944,7 @@ frits
 friskier
 folliculous
 foliaceousness
-fibrofatty
+fibrofatty 1
 freckly
 fruiters
 ficklehearted 1

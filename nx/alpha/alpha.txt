@@ -6389,7 +6389,7 @@ aggressivity
 aerage
 apolegamic
 anamorphoses 1
-anacoluttha
+anacoluttha 1
 anticlassicism
 arsonium 1
 assertedly
