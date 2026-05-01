@@ -683,7 +683,7 @@ dextrosuria
 diacetylene 1
 deans
 despairs
-dampproofing
+dampproofing 1
 dyspepsy
 determinist
 distend
