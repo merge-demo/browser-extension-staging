@@ -6057,7 +6057,7 @@ cathouse
 cathouses
 crownling
 cathrin
-calystegia
+calystegia 1
 cathryn
 coversine
 cathud
@@ -19438,7 +19438,7 @@ cornicing
 colorman
 cerealose
 colors
-cutose
+cutose 1
 colossal
 colossality
 colossally
