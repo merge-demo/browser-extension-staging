@@ -11255,7 +11255,7 @@ fornent
 fabiform
 fatherkin 2
 funkiness
-fezzes
+fezzes 1
 forerunnings
 frontispieces 1
 fucivorous
