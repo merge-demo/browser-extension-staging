@@ -2102,7 +2102,7 @@ glumiferous
 galla 1
 graced
 garon 1
-gazellelike 1
+gazellelike 2
 gaviae
 gadid
 gentianaceae
