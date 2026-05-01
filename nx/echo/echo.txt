@@ -2967,7 +2967,7 @@ engagee 1
 epihydrinic 1
 elides
 electrotropism 3
-epistoler
+epistoler 1
 ekronite
 entomology
 elidible 1
