@@ -13886,7 +13886,7 @@ ethnozoological
 endotropic
 eelpot 1
 equivocation
-evaporize
+evaporize 1
 ethionic 1
 ellasar 1
 extractability
