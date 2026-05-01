@@ -16525,7 +16525,7 @@ calvinian
 cloyedness
 chloralization
 cloyingly
-cysteinic
+cysteinic 1
 complexions
 centralized
 cloyless
@@ -22686,7 +22686,7 @@ coordinations 1
 compilement
 connubium 1
 corynebacterium
-connumerate
+connumerate 1
 childing
 chyloid
 calorized
