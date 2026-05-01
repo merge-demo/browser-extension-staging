@@ -5343,7 +5343,7 @@ dentirostral 1
 drumbeating
 deceptory
 displeasure 1
-dribbler
+dribbler 1
 downless 1
 decorative
 dentistical
@@ -11473,7 +11473,7 @@ dwarfy
 discomedusae 1
 defrauded 1
 dentiphone
-dynasties
+dynasties 1
 destructions
 discomfiter 1
 deputation
