@@ -6482,7 +6482,7 @@ graphorrhea
 growly 1
 glaciologist 1
 germinatively 1
-gonapophysial
+gonapophysial 1
 glided 1
 gabert
 gadwalls
