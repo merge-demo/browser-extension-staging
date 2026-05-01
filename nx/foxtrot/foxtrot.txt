@@ -3504,7 +3504,7 @@ fisetin 1
 farness
 fermentology 1
 fraternity 1
-fleches
+fleches 1
 falcones
 fastigiate 1
 flotsam
