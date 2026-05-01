@@ -16459,7 +16459,7 @@ clockmaking 1
 crewer
 clockwatcher
 cingulum
-clockwise
+clockwise 1
 clockworked
 clavigerous
 carthamin
@@ -26855,7 +26855,7 @@ circumduce
 cacuminal
 counterfactual
 counterreply 1
-chilled
+chilled 1
 counterfactually
 captivately 1
 counterfeisance
