@@ -3569,7 +3569,7 @@ filched
 fellowmen
 frenchism 1
 fogie
-flamboyance
+flamboyance 1
 funmaker
 fencelet
 faradises
