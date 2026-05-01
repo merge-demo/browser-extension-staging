@@ -6899,7 +6899,7 @@ dependents 1
 dognap
 discolors
 dahabiyeh
-deadliest
+deadliest 1
 deficit
 desorption
 drollist
