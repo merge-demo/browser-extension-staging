@@ -5169,7 +5169,7 @@ gymnanthous 1
 guiler
 gripsacks
 groundsheet
-gale
+gale 1
 gleed 1
 grapeskin
 georgic 1
