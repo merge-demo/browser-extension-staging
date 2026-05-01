@@ -1458,7 +1458,7 @@ frizzes 2
 flunkyhood
 feminise 2
 faecula
-fluoroscopist
+fluoroscopist 1
 folkish 1
 floatability
 fungillus 1
