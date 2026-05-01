@@ -5172,7 +5172,7 @@ deathtraps
 diphyzooid
 dryopes
 decursion
-denominate 1
+denominate 2
 decadent
 desmosis
 declination
