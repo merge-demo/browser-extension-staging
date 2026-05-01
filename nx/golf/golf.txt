@@ -10223,7 +10223,7 @@ gastroptosis
 grape 1
 gossypin 1
 grindle
-graminivore
+graminivore 1
 glycogenase
 generating 1
 guimbard 1
