@@ -11572,7 +11572,7 @@ discontinuances
 dashiki
 debuts 1
 dishabit
-defeminize
+defeminize 1
 discontinuee
 disprepare
 discover
