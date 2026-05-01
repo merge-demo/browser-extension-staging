@@ -4411,7 +4411,7 @@ depravities 1
 disentitle
 doctrinalism
 demesnial
-deranger
+deranger 1
 dysmenorrhoeal
 disillusioning
 divelling 1
