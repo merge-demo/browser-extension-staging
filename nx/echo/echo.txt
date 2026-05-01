@@ -2023,7 +2023,7 @@ elaic 1
 enteroplegia 2
 elaioplast
 elamite 1
-elamitish
+elamitish 1
 episcope
 electrophorese
 evilly
@@ -2435,7 +2435,7 @@ enslavements 1
 exterminist
 electroextraction
 euchological
-effulgences
+effulgences 1
 exinanition
 erythrophyll
 exendospermic
