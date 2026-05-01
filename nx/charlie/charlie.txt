@@ -6871,7 +6871,7 @@ celsian
 cashbox
 celt
 cofaster
-celtiberian
+celtiberian 1
 celticize 1
 counterwill
 celtidaceae
