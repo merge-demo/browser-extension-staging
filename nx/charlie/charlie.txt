@@ -13930,7 +13930,7 @@ criticizingly
 cynomolgus
 cynomoriaceae 1
 cytosome 1
-comptible
+comptible 1
 computerize
 cynomorium
 cynomorphic
