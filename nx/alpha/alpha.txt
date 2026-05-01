@@ -17295,7 +17295,7 @@ anaplasma
 arbalest 1
 acataposis 1
 anglicization
-ayins
+ayins 1
 apositia
 antisensuality
 acidimetric
