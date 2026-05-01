@@ -12526,7 +12526,7 @@ erythrophage
 epicentral
 embosture 1
 executrixship
-emittance
+emittance 1
 expertize 1
 exine 1
 electicism
