@@ -6030,7 +6030,7 @@ fresco
 fermorite
 flightiness
 finger 1
-fontange
+fontange 1
 foggier 1
 forgab
 forespeech
