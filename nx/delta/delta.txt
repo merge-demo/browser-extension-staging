@@ -12613,7 +12613,7 @@ drate 1
 delegant 1
 dertrotheca
 defaultant
-descendentalist
+descendentalist 1
 descrial
 dodgeries
 duplicidentate
