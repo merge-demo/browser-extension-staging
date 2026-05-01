@@ -9177,7 +9177,7 @@ dialyse
 doors 1
 delobranchiata
 disorientation
-dyeability
+dyeability 1
 denazification 1
 demilance
 devilman 1
@@ -12481,7 +12481,7 @@ delphinoid 2
 disincarnate
 dudes
 defiled
-disinclination
+disinclination 1
 disinclined
 deedful
 disinclining
