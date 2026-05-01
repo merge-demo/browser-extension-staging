@@ -14039,7 +14039,7 @@ distrainable
 distraining 1
 dollin
 depreciatingly
-diddling
+diddling 1
 depasturation
 distraite
 door
