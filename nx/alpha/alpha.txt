@@ -19615,7 +19615,7 @@ absorbingly
 airheads 1
 apposing 1
 arikara
-anthracomartus
+anthracomartus 1
 aplastic
 annotate
 ark
