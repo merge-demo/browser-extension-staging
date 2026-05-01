@@ -6987,7 +6987,7 @@ fussiness 1
 fortuity 1
 fordless
 fond
-fondateur
+fondateur 1
 fonded
 favilla
 frayings
