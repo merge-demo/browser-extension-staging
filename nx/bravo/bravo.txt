@@ -4761,7 +4761,7 @@ bedown 1
 bradding
 bedpans
 beslabber
-balaenicipites 1
+balaenicipites 2
 beeball
 besplit
 bedpost
