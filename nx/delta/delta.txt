@@ -7523,7 +7523,7 @@ deuterium
 deinocephalia 1
 declaimed
 dominators 1
-deuterocanonical
+deuterocanonical 1
 dopatta 1
 dendroeca 1
 decemplicate 1
