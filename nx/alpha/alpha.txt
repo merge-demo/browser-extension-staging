@@ -20256,7 +20256,7 @@ atrebates
 alaloi 1
 astonied
 acanthodii
-adorns
+adorns 1
 ashanti
 amateurish
 anthropomorphization
