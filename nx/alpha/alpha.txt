@@ -17867,7 +17867,7 @@ apprehending
 antonomasy
 algraphy
 awan
-afterwash
+afterwash 1
 argininephosphoric
 aleutite
 apprense
