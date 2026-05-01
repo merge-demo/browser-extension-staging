@@ -180,7 +180,7 @@ factoryship
 floatiness
 foment
 flashily
-feuar
+feuar 1
 florin 1
 folletage 1
 footstock
