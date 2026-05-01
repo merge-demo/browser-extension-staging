@@ -2467,7 +2467,7 @@ engrosses
 enstatite
 electrogasdynamics
 electroharmonic
-empanelment
+empanelment 1
 electrohemostasis
 endearing
 ebony
@@ -8956,7 +8956,7 @@ epizootiological
 encradle
 enteropneust 1
 effected
-erysipelatous
+erysipelatous 1
 erraticalness
 expletively 1
 erysipeloid 1
