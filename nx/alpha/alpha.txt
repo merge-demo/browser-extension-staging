@@ -15958,7 +15958,7 @@ angloman
 appointor 1
 autorotate 1
 antiq
-antiqua
+antiqua 1
 acetylated
 antelope
 articulationist
