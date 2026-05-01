@@ -14924,7 +14924,7 @@ anticity 1
 anticytolysin
 alphorn
 autohemolysin
-acceptilate
+acceptilate 1
 anticker
 anticking
 asseth
