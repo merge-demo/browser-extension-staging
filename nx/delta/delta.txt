@@ -10952,7 +10952,7 @@ dissyllabising 1
 decapoda
 dulcinea
 disafforestment
-dispiece
+dispiece 1
 duly
 dragsaw 1
 disagree 2
