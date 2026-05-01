@@ -7831,7 +7831,7 @@ cespitosely
 cespitulose
 cess
 cessantly
-cessative
+cessative 1
 cessavit
 cessed
 cesser 1
