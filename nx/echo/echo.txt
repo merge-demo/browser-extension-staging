@@ -5208,7 +5208,7 @@ epistolarily
 epipanies
 elutor
 envined
-enigmatizing 1
+enigmatizing 2
 endopterygota
 errorist
 endoradiosonde
@@ -6948,7 +6948,7 @@ exiting
 effecting
 excisor 1
 encauma
-expansure
+expansure 1
 entrelac
 emetically
 epilogued
