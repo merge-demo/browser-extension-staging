@@ -15734,7 +15734,7 @@ clawers
 clawing
 colobium 1
 catamenial
-calcicole
+calcicole 1
 cyproheptadine
 clinks
 chinche
@@ -21643,7 +21643,7 @@ crust
 condiddlement
 condiddling
 cooth
-copepodous
+copepodous 1
 consternated
 corymbose
 condigness
