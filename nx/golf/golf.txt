@@ -8507,7 +8507,7 @@ grivets
 glaze 1
 glands 1
 graveclod 1
-gonopores
+gonopores 1
 gascromh
 gonfalon
 genl
