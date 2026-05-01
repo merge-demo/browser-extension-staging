@@ -237,7 +237,7 @@ gutsy
 glyptics 1
 gayyou
 gundy
-glowfly
+glowfly 1
 gustily
 graylags 1
 gestatorium
