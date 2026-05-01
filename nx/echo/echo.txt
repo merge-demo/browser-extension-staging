@@ -4584,7 +4584,7 @@ endoabdominal 1
 eulogical
 ectostosis
 epileptiform
-epithalamiums
+epithalamiums 1
 enajim
 extravert
 exercite
