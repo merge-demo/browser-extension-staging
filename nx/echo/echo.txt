@@ -4641,7 +4641,7 @@ etherialisation 1
 erpetology
 exacerbating
 eyeballing 2
-envire
+envire 1
 epichristian
 ennuying
 efficience
@@ -6104,7 +6104,7 @@ espringal 2
 enlodge
 episkotister
 estuary 1
-enforced
+enforced 1
 epiphanise
 enlodgement
 enlumine
