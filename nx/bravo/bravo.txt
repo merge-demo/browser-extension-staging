@@ -17580,7 +17580,7 @@ belong 1
 bugle
 burgau 1
 benzidins
-barons
+barons 1
 brightwork
 bervie
 bidentate
