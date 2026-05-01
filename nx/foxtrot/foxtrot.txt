@@ -5300,7 +5300,7 @@ fluoridize 1
 fretters 1
 flain
 fernwort
-fulyie 1
+fulyie 2
 fucaceous
 flivvers
 farrierlike
