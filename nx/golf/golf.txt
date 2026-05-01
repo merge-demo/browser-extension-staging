@@ -3373,7 +3373,7 @@ gynaeolatry
 gerontotherapy 1
 gibraltar
 galleting 1
-gentisate
+gentisate 1
 geometrized
 granolite 3
 glossolaryngeal
@@ -8507,7 +8507,7 @@ grivets
 glaze 1
 glands 1
 graveclod 1
-gonopores
+gonopores 1
 gascromh
 gonfalon
 genl
