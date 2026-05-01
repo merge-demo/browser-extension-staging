@@ -1501,7 +1501,7 @@ algid
 alpinery
 acclimatizer
 adrenalectomy 1
-amphipneustic 1
+amphipneustic 2
 acquaintancy
 agreeableness
 anticness
