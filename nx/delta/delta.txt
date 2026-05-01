@@ -7948,7 +7948,7 @@ dismes
 drupiferous 1
 dartos
 dithyrambically 1
-durenol
+durenol 1
 dextrocularity
 daphnes
 dedicature
