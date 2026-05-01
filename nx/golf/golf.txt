@@ -5246,7 +5246,7 @@ gemitores
 gossoons
 glyoxilin
 glacialism 1
-granitical
+granitical 1
 graveling
 geometries
 glycerin 1
