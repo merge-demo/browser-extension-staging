@@ -4865,7 +4865,7 @@ deigns
 diminuendo
 demonologer
 demonology
-demonologically 2
+demonologically 3
 disluster
 densitometers 1
 demonomist
