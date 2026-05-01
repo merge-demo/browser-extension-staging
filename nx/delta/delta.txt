@@ -12388,7 +12388,7 @@ deterrability
 defers
 dimerlie 1
 diastereoisomer 1
-dehumanizing
+dehumanizing 1
 dilatatory 1
 dampne
 dishome
@@ -13787,7 +13787,7 @@ droughermen 3
 droopiness
 demain
 ditrochous 1
-disspirit
+disspirit 1
 disspread 1
 dammars
 disstate
@@ -16618,7 +16618,7 @@ donjon
 dikdiks 1
 dactylopius
 derout
-denotations
+denotations 1
 dialuric
 decorations
 deionization
