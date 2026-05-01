@@ -7367,7 +7367,7 @@ enworthed
 epistrophe 1
 echinozoa
 establishes
-elevate
+elevate 1
 ensilability
 exhibitor
 elbowbush
