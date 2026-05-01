@@ -2042,7 +2042,7 @@ banisher
 banishing
 brunelliaceae 1
 banishment
-banyuls
+banyuls 1
 baniva
 browis 1
 blepharohematidrosis
