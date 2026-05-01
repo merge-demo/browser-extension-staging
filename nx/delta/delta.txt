@@ -8503,7 +8503,7 @@ duvetines
 dealkylation
 diffided
 diantre
-disfavored
+disfavored 1
 dispensableness 1
 desilvering
 disquisitively
