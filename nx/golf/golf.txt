@@ -2905,7 +2905,7 @@ gavelkind 1
 gaeldom 1
 globigerinae
 geocyclic
-gnat 1
+gnat 2
 gorsy 1
 glideless
 gynaecocracies
