@@ -2131,7 +2131,7 @@ gharris
 gyrocompass
 gerontine
 gdinfo
-gerahs
+gerahs 1
 glossography
 golfings 1
 genets 1
@@ -5193,7 +5193,7 @@ girouette
 gleys
 gesticulacious
 gynecopathic 1
-grindery
+grindery 1
 grissons 1
 gambian
 gloamings 1
