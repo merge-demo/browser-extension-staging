@@ -10801,7 +10801,7 @@ devulcanize
 deposable
 deificatory 1
 disentomb
-direful
+direful 1
 direfully
 dirempt
 decentralist
