@@ -5200,7 +5200,7 @@ fosterlings
 foliaging 1
 frontierlike
 frivolers
-foreclaw
+foreclaw 1
 filaree
 fuchsia 1
 familarity 1
