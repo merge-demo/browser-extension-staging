@@ -963,7 +963,7 @@ esoterics
 exhumes
 excavatory
 eumitosis
-exocardia 1
+exocardia 2
 emasculating
 enthymematic 1
 ensaffron 1
@@ -2103,7 +2103,7 @@ equably
 euxenite 1
 elastivity 1
 eleusine
-exuberancy 1
+exuberancy 2
 espressos 1
 externat 1
 emperish
