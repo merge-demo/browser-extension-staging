@@ -8011,7 +8011,7 @@ chaetiferous 1
 cocytean
 chaetochloa
 chaetodon 1
-coats
+coats 1
 capercally
 chaetodontidae
 chaetognatha
