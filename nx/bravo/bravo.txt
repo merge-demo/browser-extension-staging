@@ -1101,7 +1101,7 @@ buncos
 bibliomanian
 brent
 burel
-bayonets
+bayonets 1
 benefactors
 bifacial 1
 blksize

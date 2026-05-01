@@ -5154,7 +5154,7 @@ flywheels 2
 fjords
 foreseeingly
 formnail
-fare
+fare 1
 filtering 1
 frotteur
 frankfurter
