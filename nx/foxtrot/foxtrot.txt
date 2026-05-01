@@ -1323,7 +1323,7 @@ falx
 fatiferous 1
 feaster 1
 flavorfully 1
-florentine
+florentine 1
 fearfuller 1
 fatigable 2
 favorable 1
