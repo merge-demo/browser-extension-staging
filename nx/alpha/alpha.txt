@@ -5626,7 +5626,7 @@ autosuggestive
 archdogmatist
 acetylaminobenzene 1
 affricated
-autotherapeutic 2
+autotherapeutic 3
 androconium
 amylometer
 admiredly 1
@@ -24861,7 +24861,7 @@ avolitional
 avouch
 avouchable 2
 atmosphere
-anaptyxis
+anaptyxis 1
 alands
 animates
 artisanal
