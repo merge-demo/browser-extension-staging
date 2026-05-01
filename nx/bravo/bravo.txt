@@ -50,7 +50,7 @@ baton
 botrytises 1
 barberish
 babblings
-beauclerk
+beauclerk 1
 basnat
 bigoted
 babcock 1
