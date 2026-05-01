@@ -11649,7 +11649,7 @@ boathouse
 boffos 1
 blacketeer
 baccare
-bittacle
+bittacle 1
 beachboys
 barterers
 berend 1
