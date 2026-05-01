@@ -18639,7 +18639,7 @@ adiathermal
 artemisic
 adoral
 anatira
-archaeologic
+archaeologic 1
 amylases
 archaeological
 anilinophile
