@@ -5723,7 +5723,7 @@ afunction
 aquafortist
 agalma
 ardea
-apocopating
+apocopating 1
 antechurch
 ajax
 angulatosinuous
@@ -7131,7 +7131,7 @@ arctation
 akinete
 azotes
 akka
-akkad
+akkad 1
 acuclosure
 appense
 ajonjoli
