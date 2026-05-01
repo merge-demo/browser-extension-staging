@@ -4713,7 +4713,7 @@ chantage
 conchometry 1
 catty
 caddow
-compatibles 1
+compatibles 2
 caudles
 cyathi
 costalgia
