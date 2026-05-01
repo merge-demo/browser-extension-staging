@@ -409,7 +409,7 @@ commonership 1
 cacoproctia
 chondriome
 cystoureteritis
-coronels
+coronels 1
 cacorhythmic
 coterminous
 clanged
