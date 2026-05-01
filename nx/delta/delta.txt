@@ -15825,7 +15825,7 @@ dooja
 dorsolumbar
 deliberators 1
 dankly 1
-develing
+develing 1
 dynastes
 dialysed 1
 damoiseau
