@@ -16975,7 +16975,7 @@ beclowned 1
 byss
 buys
 beshivering 3
-bul 1
+bul 2
 brittler
 babylonic
 binit 2
