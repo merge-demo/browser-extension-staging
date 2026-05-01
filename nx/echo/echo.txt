@@ -7098,7 +7098,7 @@ epistolising 1
 egomaniacally 1
 exoner
 episterna
-echeneidid
+echeneidid 1
 embarment
 epistemonic
 eucaryote
