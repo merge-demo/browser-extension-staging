@@ -22492,7 +22492,7 @@ asweat
 aristarchy
 asweve 1
 alchemistic
-afficionado
+afficionado 1
 aswirl
 ammoniacum
 adenohypophysial
