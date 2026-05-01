@@ -12772,7 +12772,7 @@ doored
 disloyalties
 dislove
 dandlingly
-delimiters 1
+delimiters 2
 decompressive
 dunk 1
 debouch 1
