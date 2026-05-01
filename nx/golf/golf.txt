@@ -4830,7 +4830,7 @@ gymnotoka 1
 globularity
 groundwards
 guest 1
-greensand 1
+greensand 2
 grudge
 ginghams 1
 greeter
