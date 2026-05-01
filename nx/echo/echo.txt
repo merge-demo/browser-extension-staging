@@ -13189,7 +13189,7 @@ espiegleries
 elengeness 2
 earclip
 epigynous
-edema
+edema 1
 endognathal
 edriophthalmic
 eurhodol
