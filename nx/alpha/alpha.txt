@@ -7800,7 +7800,7 @@ allopolyploidy
 almehs
 aonian
 adjustably
-asteroidea 1
+asteroidea 2
 ambrette
 attired
 alders
@@ -9485,7 +9485,7 @@ accessing
 antispace
 alterative
 altercated
-altercating
+altercating 1
 alterers
 antiplague
 authentication 1
