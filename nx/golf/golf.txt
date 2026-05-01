@@ -436,7 +436,7 @@ goober
 guests
 glabrousness
 gamosepalous 1
-gardenable
+gardenable 1
 gammexane 1
 grapefruits
 garrote
