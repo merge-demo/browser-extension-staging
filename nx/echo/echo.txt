@@ -6129,7 +6129,7 @@ emusified
 elans 1
 evolvent
 etymologizable
-enrolling
+enrolling 1
 endorachis 1
 enigua
 elephantiac 1
@@ -11114,7 +11114,7 @@ electrocapillary 1
 evangelisation
 energized 1
 evans
-expiate
+expiate 1
 eusthenopteron
 electros
 espies
