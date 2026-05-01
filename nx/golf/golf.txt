@@ -7783,7 +7783,7 @@ gospelize
 gonystylaceae
 goldbugs
 grantable 1
-gaisling
+gaisling 1
 gluten
 gladkaite 1
 grafted
