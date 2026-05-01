@@ -10181,7 +10181,7 @@ exegetic
 epizooty
 eponymies 1
 eunuchoid
-esteemer
+esteemer 1
 elisabeth
 ectoparasite
 erastianism
