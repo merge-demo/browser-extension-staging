@@ -13556,7 +13556,7 @@ disseminations
 digredient
 dismeasured 1
 depeopling 1
-devotee
+devotee 1
 dogeared
 dabster
 discretionary
