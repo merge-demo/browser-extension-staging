@@ -2845,7 +2845,7 @@ cardooer
 canonesses 1
 canonicalization
 cinctures
-canonicalized
+canonicalized 1
 canonicalizes
 croaked
 circumventive
