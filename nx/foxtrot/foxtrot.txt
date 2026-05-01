@@ -9669,7 +9669,7 @@ fortalice 1
 finalities 1
 flukier
 foamer 2
-flawless
+flawless 1
 frons
 freezer 1
 freeloaded
