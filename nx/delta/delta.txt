@@ -14351,7 +14351,7 @@ dittographic 2
 dutcher
 ditrochean
 deign
-deanship
+deanship 1
 desoxyribose
 dishallucination 1
 decimestrial
