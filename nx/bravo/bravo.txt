@@ -9143,7 +9143,7 @@ biospeleology
 biosphere 1
 buntline
 breakdown
-bionomical
+bionomical 1
 benzophloroglucinol 1
 biostatic
 biostatical
