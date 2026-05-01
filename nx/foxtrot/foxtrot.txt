@@ -3528,7 +3528,7 @@ flexuoseness 1
 feud 1
 fitchets 1
 fidgeter
-floundering
+floundering 1
 flicked 1
 fyke
 fortuned
@@ -8125,7 +8125,7 @@ flasklet
 factorist
 fumacious 1
 farceur 1
-floodplain 1
+floodplain 2
 fragilaria 1
 formalized
 feasances 1
