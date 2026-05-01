@@ -11479,7 +11479,7 @@ amrit
 ajugas
 attendants
 anywheres 1
-assets
+assets 1
 aneroids
 arthogram
 apiphobia
@@ -17899,7 +17899,7 @@ allodesmism
 appressorium
 abhorred
 appreteur
-atloidoaxoid
+atloidoaxoid 1
 akinetic
 atherogenic
 appreve
