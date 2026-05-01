@@ -5396,7 +5396,7 @@ equilaterally 1
 epigynies 1
 endocrin
 exaggerations
-evulsion
+evulsion 1
 emydosauria
 empetraceae
 evolutionist
