@@ -5828,7 +5828,7 @@ gonophoric
 glochidia 1
 germanism
 gendarmes
-guilds 1
+guilds 2
 geroderma
 graffito 1
 glycolaldehyde
@@ -9885,7 +9885,7 @@ gobioids
 geometric
 gracias 1
 genethliacon 1
-guarand
+guarand 1
 gradiometer 2
 girleen
 golding
