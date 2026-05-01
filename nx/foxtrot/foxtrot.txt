@@ -10498,7 +10498,7 @@ foliaceous
 fribblers
 farrant
 frontiersmen 1
-fanterie
+fanterie 1
 foregoer
 forbodes
 fosterland
@@ -10954,7 +10954,7 @@ flexure
 field 1
 fetal
 floorage
-fadridden
+fadridden 1
 fack
 francs 1
 fulminurate
