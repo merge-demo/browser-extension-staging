@@ -9523,7 +9523,7 @@ gammaroid
 giddier 1
 gentilitious
 gematrical
-graals
+graals 1
 glutinize
 guanaco 1
 gemellion
