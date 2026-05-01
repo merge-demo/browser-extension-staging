@@ -735,7 +735,7 @@ endermatic
 effascinate 1
 exuvium
 ecotype
-ecotipically 1
+ecotipically 2
 ecotypically
 enterauxe
 ecotonal
