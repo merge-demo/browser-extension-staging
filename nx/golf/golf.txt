@@ -4696,7 +4696,7 @@ germanophobia 1
 gryphite
 goad
 gentilitian
-gasometer
+gasometer 1
 gomarian
 gametophoric 1
 giuseppe
