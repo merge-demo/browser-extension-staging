@@ -4927,7 +4927,7 @@ amaranthine
 actinomyces 1
 amidist
 auslaut
-airphobia
+airphobia 1
 adelochorda 1
 aliyoth
 aerodonetics 1
