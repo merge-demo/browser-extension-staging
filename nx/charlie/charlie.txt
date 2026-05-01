@@ -2746,7 +2746,7 @@ cannabis
 cannabises
 cannabism
 calcareosulphurous 1
-camorra
+camorra 1
 cannaceous
 chaquetas
 clarigation
@@ -18905,7 +18905,7 @@ cornulite
 collaborates
 collaborating
 collaborationists
-californiana
+californiana 1
 collaborative
 collaboratively
 clomping
