@@ -6674,7 +6674,7 @@ gibbet
 gulae 1
 growable 1
 gromatic
-geochronometry
+geochronometry 1
 gibbergunyah
 grattage
 gewgawed
