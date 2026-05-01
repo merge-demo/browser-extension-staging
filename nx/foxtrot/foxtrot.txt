@@ -9824,7 +9824,7 @@ fascists
 fencers
 frescoed
 fresheners
-freshening
+freshening 1
 foraminifera 1
 freshets
 finals
