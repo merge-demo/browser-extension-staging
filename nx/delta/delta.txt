@@ -15386,7 +15386,7 @@ desperacy
 digestedness
 detoxify
 djebel 1
-disanoint
+disanoint 1
 dolichoprosopic
 dimity
 diapophysial
