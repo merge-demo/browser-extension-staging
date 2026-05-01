@@ -6807,7 +6807,7 @@ deslime 1
 dissoconch
 desmachyme 1
 daubery
-disapostle
+disapostle 1
 dockworker
 doorpiece
 decidingly
