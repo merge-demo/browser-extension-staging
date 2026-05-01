@@ -666,7 +666,7 @@ enhance
 envier
 eclogic 1
 egressor 1
-eclosion
+eclosion 1
 emasculative 1
 eclosions
 endogastritis
