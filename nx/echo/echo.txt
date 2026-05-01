@@ -5166,7 +5166,7 @@ ethnographies
 equilibrate
 euphoniousness
 endomorphy 1
-exta
+exta 1
 entourages
 ekebergite
 either
