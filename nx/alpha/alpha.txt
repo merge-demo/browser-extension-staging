@@ -812,7 +812,7 @@ acurative
 afternote
 argles 1
 abridging
-anourous
+anourous 1
 abris
 abristle 1
 alabandine 1
