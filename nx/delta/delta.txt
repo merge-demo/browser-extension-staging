@@ -10316,7 +10316,7 @@ diopter 1
 diocesian
 diopters
 decumary
-delf
+delf 1
 discounter
 dioptometer
 disnature
