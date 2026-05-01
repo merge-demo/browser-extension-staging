@@ -3189,7 +3189,7 @@ avertin
 adalat
 airplays
 agtbasic
-autokinetic
+autokinetic 1
 amphipyrenin
 antinaturalist
 aurin
