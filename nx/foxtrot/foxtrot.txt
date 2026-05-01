@@ -4369,7 +4369,7 @@ fixion
 fishboats
 fonduk 1
 flubdubberies
-fishbolts
+fishbolts 1
 flechette 1
 funt 1
 flagged
