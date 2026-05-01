@@ -3001,7 +3001,7 @@ geomantically 1
 garnerage
 geoponics
 gaggler
-grammatical
+grammatical 1
 graspable
 glitteringly
 gibbed
@@ -4365,7 +4365,7 @@ giglet 1
 goosishness
 gascoyne
 gynogenesis 1
-glidingly 2
+glidingly 3
 gonosomal
 gymnasiarchy
 galziekte
