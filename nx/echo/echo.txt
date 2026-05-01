@@ -1796,7 +1796,7 @@ effetely
 enamors
 eroding 1
 encroached 1
-egotheism
+egotheism 1
 epithalamy
 ergatogyny 1
 ectepicondylar
@@ -4040,7 +4040,7 @@ epipodial 2
 ex
 enringing 1
 evangelised
-embroils 1
+embroils 2
 epitheca
 elses
 enamelers
