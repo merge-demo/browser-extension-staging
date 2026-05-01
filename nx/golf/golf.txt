@@ -3944,7 +3944,7 @@ gearksutite
 gonepoietic
 galliasses
 gamari 2
-germanish 1
+germanish 2
 galvanograph 3
 gteau 1
 geared
@@ -9502,7 +9502,7 @@ grisbet 1
 gecking 1
 grandiosely 1
 groutier 1
-gaes
+gaes 1
 gyving 2
 groupwise 1
 garvey
