@@ -734,7 +734,7 @@ flurries
 fulminate
 faraday 1
 fluxibility 2
-fibrilliferous
+fibrilliferous 1
 footbreadth
 fanatism
 fabricating 1
