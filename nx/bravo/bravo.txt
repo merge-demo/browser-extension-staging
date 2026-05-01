@@ -9772,7 +9772,7 @@ brahmsite
 bedeck
 bistephanic
 bastinades
-bistered
+bistered 1
 balolo
 bisters
 beliefless 1
