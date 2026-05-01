@@ -9298,7 +9298,7 @@ ecus
 electroori
 erucivorous
 eructance 1
-empoverish
+empoverish 1
 extendability 1
 extralegal
 eructative
