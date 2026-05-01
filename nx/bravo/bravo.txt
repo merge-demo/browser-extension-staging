@@ -15143,7 +15143,7 @@ bushbuck 1
 breviconic
 bunkered 1
 brevilingual
-bestirring
+bestirring 1
 benamidar
 besmearer
 bizen
