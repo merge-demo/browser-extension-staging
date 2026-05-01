@@ -2341,7 +2341,7 @@ adderfish 1
 alaric
 agreer 1
 arthrozoic
-avoidably
+avoidably 1
 abruptedly 1
 arachnephobia
 avgasses
