@@ -1271,7 +1271,7 @@ delacerate
 drosograph 2
 datisi
 dative
-dorking
+dorking 1
 datively
 dimouts
 danthonia
