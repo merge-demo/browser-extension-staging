@@ -11422,7 +11422,7 @@ browbands
 blued 2
 basisolute
 bazzite
-bluefin
+bluefin 1
 baguettes
 blaseness
 belonosphaerite
