@@ -5929,7 +5929,7 @@ belast
 berber
 brandenburgs
 biggety
-buffaloes
+buffaloes 1
 beltane
 belauding
 bacchanalia
