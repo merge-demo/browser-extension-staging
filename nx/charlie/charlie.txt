@@ -2262,7 +2262,7 @@ camstane
 coneine
 caval
 companionability
-camstone
+camstone 1
 canaliculization
 camuning
 cholecystolithotripsy
