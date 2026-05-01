@@ -16986,7 +16986,7 @@ clutching
 cymbaleer 1
 clutchingly
 consignificate
-clutchman 1
+clutchman 2
 clues 1
 carders
 cluther
