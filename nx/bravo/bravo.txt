@@ -7204,7 +7204,7 @@ bullhorn
 bestiarian 1
 bestiarist 1
 bestock 2
-bestow
+bestow 1
 burgee
 breaching 1
 blades
