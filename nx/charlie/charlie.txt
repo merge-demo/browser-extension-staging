@@ -7008,7 +7008,7 @@ centaur
 centaurdom
 cuvette
 centaurea
-carretta 1
+carretta 2
 cantoned
 clitellum
 centauress 1
