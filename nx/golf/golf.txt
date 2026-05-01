@@ -303,7 +303,7 @@ giraffesque
 gesseron
 grandstand
 greed 1
-galjoen
+galjoen 1
 gaudful
 gourami
 gadolinium 1
