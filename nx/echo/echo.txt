@@ -4951,7 +4951,7 @@ ergmeter
 executional
 escalop 2
 encapsule 1
-enfoncee
+enfoncee 1
 erogeneity
 epithelioblastoma
 endogastric
