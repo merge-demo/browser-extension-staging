@@ -5395,7 +5395,7 @@ elaboratory
 equilaterally 1
 epigynies 1
 endocrin
-exaggerations
+exaggerations 1
 evulsion 1
 emydosauria
 empetraceae
