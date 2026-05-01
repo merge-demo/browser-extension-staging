@@ -5344,7 +5344,7 @@ drumbeating
 deceptory
 displeasure 1
 dribbler
-downless
+downless 1
 decorative
 dentistical
 detribalizing 1
@@ -9347,7 +9347,7 @@ dioscoreaceous
 differentiator
 defalcates
 decreasing
-deneb
+deneb 1
 dewax 1
 downhill 2
 diplopia
