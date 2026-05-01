@@ -18124,7 +18124,7 @@ dimenhydrinate 1
 denominating
 discontinuer 2
 dumbest 1
-draftage
+draftage 1
 dumbfounding
 denatures
 discourageable
