@@ -6570,7 +6570,7 @@ groyne
 gen
 geadephagous
 goulan
-ghostwrite
+ghostwrite 1
 gingivolabial 2
 gruis
 gawkiest
