@@ -1469,7 +1469,7 @@ fairgoer
 fila
 forescent
 flutings
-fetcher 1
+fetcher 2
 furibund
 flunkeyish 1
 furanose
