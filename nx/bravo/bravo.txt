@@ -17724,7 +17724,7 @@ burned
 burner
 benempt
 billian
-bedlamize 1
+bedlamize 2
 blastophaga
 bemuzzled 1
 bott
