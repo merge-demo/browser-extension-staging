@@ -1083,7 +1083,7 @@ glares
 guarding 1
 graphicness 2
 galactolipin 1
-goularo 1
+goularo 2
 glossopharyngeal 1
 gormandizers 1
 gamboge 1
