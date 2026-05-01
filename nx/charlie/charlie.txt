@@ -1068,7 +1068,7 @@ calceate
 cretinize
 curiology
 calcedon
-chukor
+chukor 1
 colory
 chitinocalcareous
 circumcisions
@@ -13130,7 +13130,7 @@ cycadofilices 1
 commonsensibly
 cannikins
 cycadophyta
-carriage
+carriage 1
 cyanochroic
 catchable
 cycases
