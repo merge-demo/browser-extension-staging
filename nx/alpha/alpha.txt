@@ -12160,7 +12160,7 @@ accepter
 artou 1
 aegeriid
 appels
-anathematizer
+anathematizer 1
 angularly
 antihumanist 1
 anatheme 1
