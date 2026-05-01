@@ -1556,7 +1556,7 @@ enervates
 elaphebolion
 extraversion
 encampment
-epinasty
+epinasty 1
 envigor
 exogeny
 exaggeratedness
