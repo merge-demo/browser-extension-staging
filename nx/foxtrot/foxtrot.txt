@@ -11688,7 +11688,7 @@ finikin
 ferreous
 flare
 flyleaves 1
-fagaceous
+fagaceous 1
 faced
 flippancy
 fanlights
