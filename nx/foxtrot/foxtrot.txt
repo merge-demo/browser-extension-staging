@@ -10088,7 +10088,7 @@ ferriferous
 foolheadedness
 falseness
 fireblende 1
-flushness
+flushness 1
 forecasted
 foeish 1
 fleshling
