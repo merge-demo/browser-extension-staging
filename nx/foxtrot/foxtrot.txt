@@ -7042,7 +7042,7 @@ forehandedly
 frowze 1
 fonticulus
 ferrocene
-flapmouthed
+flapmouthed 1
 foreganger 1
 fontinas
 forepromise
