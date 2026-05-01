@@ -4869,7 +4869,7 @@ allotypy
 allophylic 1
 awedly
 agsam
-authenticatable
+authenticatable 1
 archlute
 antemeridian 1
 aeroboat
