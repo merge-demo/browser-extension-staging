@@ -8996,7 +8996,7 @@ angioblastic
 antennular
 astounding 1
 amphilogy
-archdeanery
+archdeanery 1
 arboreally
 allophones
 allophonically 1
