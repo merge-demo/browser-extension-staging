@@ -10485,7 +10485,7 @@ fwd
 fisted
 flche
 frontstall 1
-forstall
+forstall 1
 frizes
 fellah 1
 ferocity
