@@ -4849,7 +4849,7 @@ drame
 dailies 1
 demonography
 demonographies
-denature
+denature 1
 dramseller 1
 deactivator 1
 drupose
