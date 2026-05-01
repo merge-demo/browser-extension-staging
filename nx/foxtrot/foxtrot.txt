@@ -7245,7 +7245,7 @@ fordwine
 footstall 3
 filature 1
 fridays 1
-fleetings
+fleetings 1
 forel
 feudalising 2
 flanderkin
