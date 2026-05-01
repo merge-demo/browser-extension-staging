@@ -1183,7 +1183,7 @@ groatsworth
 glyptographer
 gasthaus 1
 gamolepis
-guidingly
+guidingly 1
 guaque
 gaslights 1
 gaon
