@@ -4210,7 +4210,7 @@ disputatious
 deuteragonist 1
 delthyrial
 destructible 1
-dineros
+dineros 1
 deltohedron
 dogvanes
 delubra
