@@ -4121,7 +4121,7 @@ empestic
 earthwall
 ejacula
 enrooting
-eslabon
+eslabon 1
 entangler 1
 excursus
 envisaged
