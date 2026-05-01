@@ -6315,7 +6315,7 @@ esophoric
 extrovertish
 epuloid 1
 enseated
-exgorgitation
+exgorgitation 1
 endostylic
 enveigle
 enseating
@@ -12738,7 +12738,7 @@ eelback
 earcockle
 energizing 1
 exophasic
-embladder 2
+embladder 3
 etchers
 exalted
 embloom
