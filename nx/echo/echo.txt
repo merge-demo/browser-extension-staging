@@ -2793,7 +2793,7 @@ ethylene
 egyptological
 excalate
 ensnarling
-elenchic 1
+elenchic 2
 elves
 elenchize 3
 extrascientific 1
