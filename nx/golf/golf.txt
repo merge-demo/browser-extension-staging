@@ -4213,7 +4213,7 @@ gasconism
 gastroepiploic
 gnus
 gramineousness 1
-gaunty
+gaunty 1
 goon 1
 gantleting
 gramophones
