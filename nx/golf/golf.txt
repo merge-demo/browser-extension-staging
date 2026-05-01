@@ -9753,7 +9753,7 @@ garrison
 gluttonizing
 gradino 1
 gastriloquial
-gelatinous
+gelatinous 1
 gregarine 2
 gonochorismus
 granza
