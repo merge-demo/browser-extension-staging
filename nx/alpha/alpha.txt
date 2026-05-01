@@ -15646,7 +15646,7 @@ attacked
 allegorister 1
 awfulness 2
 acierating
-anandrous
+anandrous 1
 archangels 1
 antinome
 assoil
