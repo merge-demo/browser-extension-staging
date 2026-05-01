@@ -9833,7 +9833,7 @@ greasiest
 guajillo
 gallicism
 gongoresque
-gips
+gips 1
 grousy
 gametophagia
 guajiras
