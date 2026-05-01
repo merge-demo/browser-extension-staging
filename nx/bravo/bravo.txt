@@ -12115,7 +12115,7 @@ boldacious
 beguileful
 ballyhooed 1
 brooks
-bostrychoid
+bostrychoid 1
 brujeria 1
 banefully
 beanery 1
