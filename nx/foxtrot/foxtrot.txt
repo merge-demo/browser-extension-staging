@@ -7425,7 +7425,7 @@ figgum 1
 fille
 fawnlike 1
 fans 1
-faintful
+faintful 1
 fleckiest
 firefang 1
 ferrocerium
