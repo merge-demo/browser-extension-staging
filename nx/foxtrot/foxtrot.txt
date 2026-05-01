@@ -1394,7 +1394,7 @@ fountainlet 1
 fallibly
 firewood
 futchell
-forbar
+forbar 1
 ferreted
 fattest 1
 finickin 1
