@@ -6659,7 +6659,7 @@ dollmaker
 droplight
 decadianome
 drawarm 1
-donatistical
+donatistical 1
 dipneedle
 danders
 detonator

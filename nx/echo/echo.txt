@@ -5058,7 +5058,7 @@ electrosensitive
 emanatistic 1
 estray 1
 exsanguinous
-exprobratory
+exprobratory 1
 exsuscitate 2
 endocoele
 enaliosaurian
