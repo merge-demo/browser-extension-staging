@@ -836,7 +836,7 @@ acropolises
 abscision
 anthodia
 abruption
-addedly
+addedly 1
 arachnoiditis
 arthropomata
 abruptness 1
@@ -22670,7 +22670,7 @@ autocracy
 atheriogaean
 atheris
 annotto
-athermanous
+athermanous 1
 alley
 aerobic
 atheromatosis
