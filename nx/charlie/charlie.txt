@@ -26344,7 +26344,7 @@ costovertebral 1
 curialities
 costraight
 cloudberries
-chasteness
+chasteness 1
 choleromania
 costs
 certifying
