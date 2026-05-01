@@ -3261,7 +3261,7 @@ antimarian
 alstonine 2
 assident
 antennary
-abstersion
+abstersion 1
 aphis
 anisometropia
 ashlar
