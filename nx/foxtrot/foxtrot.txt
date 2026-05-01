@@ -3014,7 +3014,7 @@ functionnaire 1
 furiousness
 fossiform
 fruits
-faintheartedness
+faintheartedness 1
 forma
 fiascos 1
 ferricyanogen 1
