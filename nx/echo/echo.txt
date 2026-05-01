@@ -9,7 +9,7 @@ electrochronograph
 engirding
 erigeron
 evaporometer
-euchologion
+euchologion 1
 emigate
 erosivity 1
 evenmindedness 1
@@ -10908,7 +10908,7 @@ essayistical 1
 euphonically
 exemplaric
 epizoism
-exmoor
+exmoor 1
 endangerer
 electromyographically
 exothermic 2
