@@ -1155,7 +1155,7 @@ flavopurpurin
 forcer
 filicineae 1
 fraying
-friponerie
+friponerie 1
 focalize
 funder 1
 forepass
