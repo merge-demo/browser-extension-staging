@@ -4316,7 +4316,7 @@ demanganization
 dishonourableness
 ductal
 daunton
-dispersonalize
+dispersonalize 1
 digester
 demarcates
 defenestrated 1
