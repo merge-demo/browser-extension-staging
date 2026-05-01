@@ -8527,7 +8527,7 @@ bafaro
 baronne
 birch 2
 butyryl
-bisections 1
+bisections 2
 biliteral
 baywood 1
 brownistical 1
@@ -10216,7 +10216,7 @@ blackies
 bottomlessness
 bemuslined
 benty
-bryaceous
+bryaceous 1
 breads 1
 britany
 backwort
