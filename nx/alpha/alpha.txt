@@ -12604,7 +12604,7 @@ appositionally
 anthribid
 anencephalic
 angka
-alulae
+alulae 1
 archpatriarch
 argent
 arvo
