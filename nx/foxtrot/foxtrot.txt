@@ -40,7 +40,7 @@ furies 1
 farmscape 1
 flick
 fervently 2
-finically
+finically 1
 fabricature 2
 flamant
 figurette 1
