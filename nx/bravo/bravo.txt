@@ -12389,7 +12389,7 @@ bergeres
 beele 1
 boonk
 backtack
-bombonne 1
+bombonne 2
 bombora
 beswarmed
 bombus 1
