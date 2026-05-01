@@ -441,7 +441,7 @@ gammexane 1
 grapefruits
 garrote
 gallantness
-goldless
+goldless 1
 galipoidine 2
 galei 1
 gynecotelic

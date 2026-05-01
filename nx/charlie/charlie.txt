@@ -12827,7 +12827,7 @@ chunked
 circumumbilical
 crucifers
 chunkiest 1
-crumpy 1
+crumpy 2
 center
 cuartino
 comburimetry
@@ -13110,7 +13110,7 @@ cibophobia
 concavely
 cryptocarpic 1
 cyborg
-ceros
+ceros 1
 cibory
 ciboules
 cyc 1
