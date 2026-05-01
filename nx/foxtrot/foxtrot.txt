@@ -8926,7 +8926,7 @@ flatteners
 fouled 1
 fancywork 1
 fling
-fatiloquent
+fatiloquent 1
 ferie 1
 feedstuff
 forethough 1
