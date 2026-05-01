@@ -4292,7 +4292,7 @@ dura 1
 descriers
 demagogue
 diseducate
-demagoguery
+demagoguery 1
 demagogues 1
 demal 1
 diode
