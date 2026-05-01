@@ -2563,7 +2563,7 @@ fleerer
 flimp
 ferricyanide
 fervency
-freshmanship
+freshmanship 1
 feedsman 1
 femorotibial 1
 fiduciaries
@@ -7541,7 +7541,7 @@ fifths
 fameless
 forecast 1
 fallaciousness
-forestarling
+forestarling 1
 foams
 ferial
 ferrocyanhydric
