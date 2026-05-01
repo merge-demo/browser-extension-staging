@@ -8030,7 +8030,7 @@ antimicrobic
 argynnis 1
 aurigo
 aleuronic 1
-aleurons
+aleurons 1
 alevin 1
 autocade 1
 acrospire
@@ -8952,7 +8952,7 @@ allomorphism 3
 allomorphite 1
 alongst
 allonymous
-allonyms
+allonyms 1
 allonomous
 abortion
 apodan
