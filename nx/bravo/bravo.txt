@@ -1294,7 +1294,7 @@ brachytmema
 beclouds
 bawdyhouses
 bahada 1
-bombshells
+bombshells 1
 bogtrotter 1
 broderie 1
 balanitis
@@ -13957,7 +13957,7 @@ boxhauled
 brierberry 1
 bundle
 boxhauling
-boxhauls
+boxhauls 1
 bowwow
 bethels
 bumbershoot
