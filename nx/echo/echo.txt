@@ -4116,7 +4116,7 @@ electrovalence
 employe
 estado
 etamin
-epigene
+epigene 1
 empestic
 earthwall
 ejacula
@@ -6787,7 +6787,7 @@ emptins 1
 ectocarpales 1
 electrostatical 2
 examiningly
-entomical
+entomical 1
 empoisoning
 electroimpulse
 entomol 1
