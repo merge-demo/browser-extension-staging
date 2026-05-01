@@ -5086,7 +5086,7 @@ casanova
 casaques
 convulsibility
 casas
-cojudge
+cojudge 1
 coevolve
 colisepsis
 cerianthus
