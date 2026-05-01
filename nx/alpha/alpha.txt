@@ -2313,7 +2313,7 @@ apsid
 anabas
 arsenicate 1
 areographer
-archegosaurus 1
+archegosaurus 2
 acichloride
 aciculae
 amended
