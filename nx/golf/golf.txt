@@ -2973,7 +2973,7 @@ gorgoniacean
 gaps
 goatherdess 1
 guildsmen
-geomancy
+geomancy 1
 garnered 1
 glosser 1
 gauchest 2
