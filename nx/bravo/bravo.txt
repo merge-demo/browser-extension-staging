@@ -4081,7 +4081,7 @@ blitzkrieged 1
 beams
 bean
 boldness
-begottenness
+begottenness 1
 bedeafen
 beaner
 bolewort
