@@ -228,7 +228,7 @@ earwigs 1
 exulcerated 1
 easefully 1
 exigeante
-easel
+easel 1
 eumerism
 espresso
 executrix
