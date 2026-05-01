@@ -5084,7 +5084,7 @@ flagboat
 fishweir
 fibromyectomy
 frother
-fuss
+fuss 1
 flanders
 factorials
 felter 1
