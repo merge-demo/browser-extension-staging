@@ -6610,7 +6610,7 @@ berewick
 bradyseismic
 breth
 biunity
-banquettes 1
+banquettes 2
 bergall
 bergamasche 1
 bergamask
