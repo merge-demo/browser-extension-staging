@@ -1592,7 +1592,7 @@ floriage
 flappier 1
 frijol 2
 fervescence
-freightless
+freightless 1
 flannel
 fawkener 1
 favourably 1
