@@ -3956,7 +3956,7 @@ decides 1
 disintensify 1
 duplex 1
 deputized
-dereferences 1
+dereferences 2
 distune 1
 delectating 2
 damnously
