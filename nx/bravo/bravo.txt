@@ -9494,7 +9494,7 @@ byronesque 1
 birostrate
 byronite
 byronic
-binocles
+binocles 1
 beirut
 brahmaness 1
 beaconage
