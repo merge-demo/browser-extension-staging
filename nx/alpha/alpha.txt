@@ -12254,7 +12254,7 @@ astronautical
 angelin
 allodge
 andaman 1
-autobiographic 1
+autobiographic 2
 anchieutectic
 abience
 arteriectasia 1
@@ -16384,7 +16384,7 @@ anthropomorphitic
 antiwaste
 anonym
 ashwort
-antiwear
+antiwear 1
 abiological
 amictus 1
 anthraconite
