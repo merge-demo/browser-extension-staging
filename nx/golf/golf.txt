@@ -4994,7 +4994,7 @@ grizzlers
 gisarmes
 gassy
 gapped
-glandulousness
+glandulousness 1
 goalkeeper
 golconda
 gloat
