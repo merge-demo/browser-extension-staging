@@ -3182,7 +3182,7 @@ eichbergite
 eureka
 embosomed 1
 expounders
-electrifies 1
+electrifies 2
 equilibristat
 emblemize
 endocone 1
