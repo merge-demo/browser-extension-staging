@@ -7115,7 +7115,7 @@ expirer
 equestrians
 enwinding
 elemis 1
-entomoid
+entomoid 1
 emboltement
 enwing
 ecclesiasticus 2
