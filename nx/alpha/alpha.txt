@@ -11441,7 +11441,7 @@ autoelectrolytic
 amplificate
 aftercause 1
 amplificative
-avanguardisti
+avanguardisti 1
 amplitudinous 1
 asexualize
 accurate
