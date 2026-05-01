@@ -5026,7 +5026,7 @@ firman
 fenianism 1
 flammation 1
 flipping
-fallows
+fallows 1
 flutes
 flatbeds 1
 flanneling
@@ -10888,7 +10888,7 @@ functionally
 footholds
 fallings
 fossors
-flavor 1
+flavor 2
 frowardly 1
 fon
 fustianist
