@@ -17701,7 +17701,7 @@ catan
 cockroaches
 cozing
 clavicylinder
-cockscombed
+cockscombed 1
 coco
 cocoach
 cte
