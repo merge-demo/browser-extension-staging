@@ -3761,7 +3761,7 @@ fettlings 1
 fiducial 1
 fibrocystic 2
 futilous
-foreflipper
+foreflipper 1
 filmet 1
 filmgoers 1
 filmic 1
@@ -8718,7 +8718,7 @@ forbiddenness
 flatfooted
 flaunters
 fryers
-funiculate 2
+funiculate 3
 furicane
 flapless 1
 foregather
