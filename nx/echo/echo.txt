@@ -12472,7 +12472,7 @@ exhumate
 egoisms
 esquire
 evacuative
-eighteen
+eighteen 1
 endosymbiosis
 enlimn 2
 effectuate 1
