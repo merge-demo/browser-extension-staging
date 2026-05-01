@@ -7090,7 +7090,7 @@ grandfatherly
 germanist
 galactodendron 1
 glanderous 1
-gaertnerian
+gaertnerian 1
 governmentally
 grumly 1
 granum
