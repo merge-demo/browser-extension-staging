@@ -1089,7 +1089,7 @@ berkeleian
 bain
 bepraisement
 boogymen
-biogenic 1
+biogenic 2
 bedizenment
 baioc
 begattal
@@ -7577,7 +7577,7 @@ bywalker
 brakeages
 bewhiten 1
 bifocals
-bedrivel
+bedrivel 1
 breed
 bewhore
 borish 1
