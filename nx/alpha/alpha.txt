@@ -2560,7 +2560,7 @@ amidate
 arthropleura
 archdissembler
 autosymbiontic
-antluetic
+antluetic 1
 alpiste
 acomia
 anglicize 1
