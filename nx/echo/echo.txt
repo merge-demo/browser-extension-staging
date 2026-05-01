@@ -5147,7 +5147,7 @@ ethylin
 endointoxication
 euphonized
 emigrative
-expanses
+expanses 1
 endpaper
 endorser
 empathizing
@@ -8589,7 +8589,7 @@ epigrammatising
 embouchures
 electrovital
 espavel 1
-equielliptical 1
+equielliptical 2
 equigranular 3
 equilateral
 eriogonum
