@@ -15203,7 +15203,7 @@ chondrophyte
 clairvoyances
 contraposaune
 clairvoyancy
-clairvoyant
+clairvoyant 1
 ceratoduses 1
 chinaberry
 claystone
