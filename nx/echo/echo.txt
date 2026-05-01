@@ -8126,7 +8126,7 @@ engineering
 epistemonical
 euchromatin
 extemporalness
-expedientist
+expedientist 1
 evelong
 eyl 1
 essayette
