@@ -10345,7 +10345,7 @@ geum
 glee 2
 grover
 goadlike
-gallivorous 1
+gallivorous 2
 grouseberry 1
 garretmaster
 gynic 1
