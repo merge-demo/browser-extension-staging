@@ -12346,7 +12346,7 @@ ethic
 enhydrous
 etymologicon
 exercitation 1
-energetic
+energetic 1
 elecampane
 effortless
 enatant
