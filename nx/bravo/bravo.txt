@@ -9264,7 +9264,7 @@ butyrals 1
 bobsledding
 brighter 1
 bipyramid
-beaverism
+beaverism 1
 brrr
 bring
 bipyridyl
