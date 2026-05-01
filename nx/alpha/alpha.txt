@@ -15713,7 +15713,7 @@ aurothiosulphate
 antiparallel
 androidal
 antiviral 1
-algieba
+algieba 1
 anomer
 amphitokous
 antiparallelogram 1
