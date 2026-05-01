@@ -2106,7 +2106,7 @@ fleshen
 frument
 fayence
 federate
-fermentate
+fermentate 1
 fonding
 fluming
 feminist
