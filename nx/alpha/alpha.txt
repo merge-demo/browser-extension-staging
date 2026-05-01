@@ -20706,7 +20706,7 @@ accessively 1
 articulated
 apyrexial 2
 accidental
-articulately
+articulately 1
 abut
 amimia
 antiperistaltic 1
