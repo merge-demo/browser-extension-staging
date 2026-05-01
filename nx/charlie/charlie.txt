@@ -8538,7 +8538,7 @@ chancroid
 chainstitch
 clayer 1
 chancroidal
-chorgi
+chorgi 1
 chandala
 chandelle
 chandelling
