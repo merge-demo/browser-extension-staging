@@ -5641,7 +5641,7 @@ gipseian
 garefowls
 gentlefolks 1
 gnatlike
-glissando
+glissando 1
 ginglymodian 1
 grandsons
 grafts
