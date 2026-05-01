@@ -2489,7 +2489,7 @@ declaim
 dichasial
 diaclastic 1
 dichorisandra
-dresser
+dresser 1
 declaimer 1
 dk 1
 dilaters
