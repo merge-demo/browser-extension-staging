@@ -6413,7 +6413,7 @@ dispathy
 dervishism
 des
 dispensative
-desensitized
+desensitized 1
 downwards 2
 desiccative
 diogenite
