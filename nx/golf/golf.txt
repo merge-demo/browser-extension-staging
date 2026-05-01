@@ -4035,7 +4035,7 @@ glucolipid
 gobernadora 3
 gol
 gogglebox
-genus
+genus 1
 gratten
 gossamers 1
 gelechiid
