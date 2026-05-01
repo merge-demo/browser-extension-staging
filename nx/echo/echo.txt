@@ -13254,7 +13254,7 @@ ethanoyl
 excluders
 exoarteritis
 enchisel
-exanthalose
+exanthalose 1
 enlightenedness
 ethanolamine
 explanted
