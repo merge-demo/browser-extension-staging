@@ -2969,7 +2969,7 @@ aerobatics
 albugineous
 acrostichoid
 acrostichum 1
-adoptianism
+adoptianism 1
 acrosticism
 axiomatized
 areawide 2
@@ -19615,7 +19615,7 @@ absorbingly
 airheads 1
 apposing 1
 arikara
-anthracomartus
+anthracomartus 1
 aplastic
 annotate
 ark
