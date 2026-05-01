@@ -18278,7 +18278,7 @@ coffinless
 consoled
 chalcographer
 coffinmaking 1
-coffins 2
+coffins 3
 coffled
 coarbitrator
 coffling
