@@ -10994,7 +10994,7 @@ focaloid
 foremilk 1
 firstborn
 finland
-firebolt
+firebolt 1
 fleshlier 1
 furmities 2
 flatuous 1
