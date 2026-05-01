@@ -9258,7 +9258,7 @@ erron 1
 empathies
 electrotellurograph
 externalist
-exogamous
+exogamous 1
 expositional
 ebricty
 entertains
@@ -12453,7 +12453,7 @@ epistyle 1
 experient
 eyer
 elocutioner
-ergometer
+ergometer 1
 effude
 epapillate 1
 elengely
