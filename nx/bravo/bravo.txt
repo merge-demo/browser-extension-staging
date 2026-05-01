@@ -12324,7 +12324,7 @@ bombline
 bowdrill 1
 bombast
 buglers
-bezzi
+bezzi 1
 beldame
 baillie
 bonds 1
