@@ -829,7 +829,7 @@ gramary
 gamblesomeness
 greenback
 genseng
-gambogian
+gambogian 1
 grangerise 1
 greyhounds
 goban 2
@@ -2012,7 +2012,7 @@ givenness 1
 gyroscopics
 gerocomia
 gynandrous
-gavelocks 1
+gavelocks 2
 gattine 1
 goaf 1
 gallied
