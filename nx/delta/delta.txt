@@ -18532,7 +18532,7 @@ dissilition
 durbars
 dissonate
 diau
-dured
+dured 1
 decollated 1
 disparting
 dapperly
