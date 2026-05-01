@@ -8657,7 +8657,7 @@ ampelosicyos
 adjudicatory
 avizandum
 asterias 1
-abrine
+abrine 1
 accentuates
 antiexpressiveness
 antibishop
