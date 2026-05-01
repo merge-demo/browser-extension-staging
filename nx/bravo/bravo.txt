@@ -11992,7 +11992,7 @@ boardings 1
 batel 2
 bimillenary
 brother
-bogued
+bogued 1
 bogus
 bottled
 bohemianism 1
