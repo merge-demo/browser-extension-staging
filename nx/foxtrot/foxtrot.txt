@@ -1458,7 +1458,7 @@ frizzes 2
 flunkyhood
 feminise 2
 faecula
-fluoroscopist 1
+fluoroscopist 2
 folkish 1
 floatability
 fungillus 1
@@ -7651,7 +7651,7 @@ facsimiling
 fools 2
 faluns 1
 fubby
-fatiscent
+fatiscent 1
 flames 1
 forefield 1
 foreorlop 2
