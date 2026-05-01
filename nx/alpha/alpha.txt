@@ -15420,7 +15420,7 @@ antilithic 1
 antilitter
 aspiculous
 amla
-adjutancy
+adjutancy 1
 affirmed 1
 arbitrator 1
 antiliturgist
