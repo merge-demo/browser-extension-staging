@@ -4408,7 +4408,7 @@ gundog
 generaliter
 greffier
 graveyard 2
-gipsydom
+gipsydom 1
 giddyhead
 gepoun 1
 gastrotomies 1
@@ -8617,7 +8617,7 @@ guianan 1
 gypping 1
 goff
 gastrolatrous
-gemel
+gemel 1
 gonidioid 1
 gravure
 gathic 1
