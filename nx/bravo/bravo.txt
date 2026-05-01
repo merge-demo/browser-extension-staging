@@ -12697,7 +12697,7 @@ blunderheaded
 bipod
 bloatedness 1
 bowedness
-blipping
+blipping 1
 boohooing
 biaswise
 bidialectalism 2
