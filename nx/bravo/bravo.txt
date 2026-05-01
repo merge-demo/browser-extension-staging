@@ -4081,7 +4081,7 @@ blitzkrieged 1
 beams
 bean
 boldness
-begottenness
+begottenness 1
 bedeafen
 beaner
 bolewort
@@ -5965,7 +5965,7 @@ bloodspilling
 beadlike
 bionomy 1
 broads 1
-belute
+belute 1
 bhungini
 begirdles
 belvedere 1
