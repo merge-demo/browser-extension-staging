@@ -6980,7 +6980,7 @@ allene
 abstruseness
 ays
 anatomopathologic
-alogism 1
+alogism 2
 aissor
 age
 ashot
@@ -15498,7 +15498,7 @@ apselaphesia 1
 antimetrical
 autoeciousness 1
 antimetropic
-antimycotic
+antimycotic 1
 amber
 argyric
 achage
