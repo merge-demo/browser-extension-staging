@@ -829,7 +829,7 @@ gramary
 gamblesomeness
 greenback
 genseng
-gambogian
+gambogian 1
 grangerise 1
 greyhounds
 goban 2
