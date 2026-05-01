@@ -17493,7 +17493,7 @@ cleamer
 coboundless
 cobourg
 cueca
-coinitial
+coinitial 1
 circummigrate
 cobridgehead
 chrysostomic
