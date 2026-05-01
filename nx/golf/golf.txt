@@ -8758,7 +8758,7 @@ geraniaceous
 gismo 2
 groundenell 1
 grubby
-gambit
+gambit 1
 glucosuric
 games
 galyak 1
