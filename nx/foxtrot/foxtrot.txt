@@ -2563,7 +2563,7 @@ fleerer
 flimp
 ferricyanide
 fervency
-freshmanship
+freshmanship 1
 feedsman 1
 femorotibial 1
 fiduciaries
