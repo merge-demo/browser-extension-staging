@@ -10069,7 +10069,7 @@ gauntest
 graecize
 gramophonically 1
 gymnoglossate
-guesser
+guesser 1
 geoffroyin 1
 gonads
 gypsies
