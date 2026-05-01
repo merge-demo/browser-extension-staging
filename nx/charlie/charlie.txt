@@ -26723,7 +26723,7 @@ cammock
 careering
 counterattack
 centetid
-colonels
+colonels 1
 capellane 1
 counterattacked
 cacanthrax

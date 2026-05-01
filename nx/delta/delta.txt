@@ -15226,7 +15226,7 @@ dissociate
 dingmaul
 drabnesses
 disbursal
-demipriest
+demipriest 1
 dogsleep
 derotremate
 domicile
