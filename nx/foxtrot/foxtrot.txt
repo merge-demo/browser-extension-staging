@@ -8732,7 +8732,7 @@ fissility
 frankhearted
 favoress
 flattens 1
-feteless
+feteless 1
 fame
 faciendum
 forgive
