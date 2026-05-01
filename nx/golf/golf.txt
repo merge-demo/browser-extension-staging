@@ -7635,7 +7635,7 @@ gravimetrically
 greengroceries
 gloeosporium 4
 giornata
-grus
+grus 1
 graters
 grabhook
 grabouche 1

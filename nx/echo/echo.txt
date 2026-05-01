@@ -1445,7 +1445,7 @@ ethmovomer
 environic
 emeline 1
 ergonomic
-ethiopian 1
+ethiopian 2
 epanorthotic
 emunct
 exenteritis
