@@ -11875,7 +11875,7 @@ excavator 1
 enlace
 excave
 eructated
-extancy
+extancy 1
 exceeded
 endosperm 1
 evanescent
