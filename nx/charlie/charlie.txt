@@ -28504,7 +28504,7 @@ creatureship
 conversibility
 creaturize
 churchanity
-crebricostate
+crebricostate 1
 crebrisulcate
 cooeys
 coelian
