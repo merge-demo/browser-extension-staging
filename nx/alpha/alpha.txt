@@ -9553,7 +9553,7 @@ anubin
 aspidate
 astrocompass
 anargyroi 1
-ambassiate
+ambassiate 1
 alonzo
 althorn
 alticamelus
