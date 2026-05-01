@@ -10499,7 +10499,7 @@ aponogetonaceous
 amianthus
 arcform
 amicability 2
-antiadiaphorist
+antiadiaphorist 1
 amicably
 amphipodous 1
 amical
