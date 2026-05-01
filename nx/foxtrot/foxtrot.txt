@@ -10498,7 +10498,7 @@ foliaceous
 fribblers
 farrant
 frontiersmen 1
-fanterie
+fanterie 1
 foregoer
 forbodes
 fosterland
