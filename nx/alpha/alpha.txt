@@ -23623,7 +23623,7 @@ auntliest
 auntlike
 auntre
 acidemia 1
-auntrous
+auntrous 1
 algebraic
 auntsary
 austrophil
