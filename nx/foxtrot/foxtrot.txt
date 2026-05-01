@@ -9807,7 +9807,7 @@ frequentest
 feldspar 2
 functionalities
 frapp
-fallacies 1
+fallacies 2
 falchion 1
 fessways
 foolhardiest 1
