@@ -1334,7 +1334,7 @@ fidac
 flaggish 2
 foretoken 1
 fatigue
-fossicks
+fossicks 1
 fatiguesome
 fragmenting
 fishbones
