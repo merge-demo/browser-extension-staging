@@ -3398,7 +3398,7 @@ greyware 1
 gesturist
 geothermic 1
 grudger
-girdingly
+girdingly 1
 goaled
 gynecic
 goutily 1
