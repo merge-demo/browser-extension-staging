@@ -11940,7 +11940,7 @@ choreographers
 choreographic
 chuzwi
 choreographically
-cuds 1
+cuds 2
 calculabilities
 covibrate
 crestfallenness
@@ -13778,7 +13778,7 @@ clodpole
 comedienne
 cogency
 coulibiaca
-cooboo
+cooboo 1
 cascavel
 creationist
 codification
