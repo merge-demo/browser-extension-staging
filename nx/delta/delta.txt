@@ -5042,7 +5042,7 @@ dendritical
 deal
 derbyshire
 duchy
-diminishes
+diminishes 1
 derailed
 donatary
 decalogist
@@ -14979,7 +14979,7 @@ dirtied
 dipppy 1
 dyslogistic
 dogeys
-dipetto
+dipetto 1
 dogeship
 dagbane 1
 dicentrine
