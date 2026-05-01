@@ -8443,7 +8443,7 @@ empathy
 entrants 1
 enregiment
 ecyphellate
-enhemospore 1
+enhemospore 2
 escarmouche
 electrophotometry
 everness
