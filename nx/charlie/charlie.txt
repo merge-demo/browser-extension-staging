@@ -13110,7 +13110,7 @@ cibophobia
 concavely
 cryptocarpic 1
 cyborg
-ceros
+ceros 1
 cibory
 ciboules
 cyc 1
