@@ -816,7 +816,7 @@ excrescent 1
 extremest 1
 extradecretal
 encrust 1
-ectypography 1
+ectypography 2
 epitheton
 elbowchair
 entrecote
