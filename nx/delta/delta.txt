@@ -851,7 +851,7 @@ decrudescence
 dank 1
 delightful 1
 damenization
-danke 1
+danke 2
 drycoal 1
 dawted
 defix
@@ -2420,7 +2420,7 @@ dyssynergy
 diureide
 dacrya
 disobediently
-degorder
+degorder 1
 decimolar 1
 diplacusis
 deluminize
