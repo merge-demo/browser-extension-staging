@@ -3297,7 +3297,7 @@ grooverhead
 gerundial 1
 gentlewomanlike
 germier 1
-goatsfoot 2
+goatsfoot 3
 gasan
 gaetulian
 gomorrean
@@ -6100,7 +6100,7 @@ gurniad 1
 genuflections
 gastroid 1
 geissorhiza 2
-griege 1
+griege 2
 genep
 geitonogamous 1
 gnomologist
