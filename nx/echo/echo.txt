@@ -6614,7 +6614,7 @@ enterology
 epactal 1
 enterologic
 epanastrophe
-ethionamide
+ethionamide 1
 exhaled
 enteromegalia
 enteroneuritis
