@@ -662,7 +662,7 @@ flitwite
 fidgety 1
 focalised
 fizzier
-folliculina
+folliculina 1
 fireman
 floccing
 feathercut
