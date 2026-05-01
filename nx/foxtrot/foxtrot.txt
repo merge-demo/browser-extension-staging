@@ -10857,7 +10857,7 @@ flambeaux 1
 fumose 1
 fructifies
 fulfillment
-flus 1
+flus 2
 flavorous 1
 ferule
 fennici 1
