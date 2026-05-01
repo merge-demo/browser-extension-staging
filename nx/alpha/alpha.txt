@@ -7860,7 +7860,7 @@ adequative
 aflow 1
 acrylyl
 auriculoid
-amarantus
+amarantus 1
 ale
 adoze
 arctia
