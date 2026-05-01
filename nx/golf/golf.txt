@@ -4184,7 +4184,7 @@ gasteralgia
 garrisoning
 glacier 1
 gluttonise 1
-gynantherous 1
+gynantherous 2
 gonadectomized
 goliath
 gammoned
