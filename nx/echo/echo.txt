@@ -2716,7 +2716,7 @@ exponention
 estadal
 euphrates
 eyetooth
-electrostenolytic 1
+electrostenolytic 2
 enceint 1
 equipotent
 electees
