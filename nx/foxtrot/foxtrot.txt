@@ -3504,7 +3504,7 @@ fisetin 1
 farness
 fermentology 1
 fraternity 1
-fleches
+fleches 1
 falcones
 fastigiate 2
 flotsam
@@ -10123,7 +10123,7 @@ foredecree
 formalise
 fearfulness
 finfishes
-flightshot 1
+flightshot 2
 faussebrayed
 fluoborite
 fiddlewood 1
