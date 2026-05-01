@@ -3718,7 +3718,7 @@ bankrupted
 bucketmaker 1
 beltis
 batterie
-breck
+breck 1
 batterman
 blennemesis
 bullockman 1
@@ -8729,7 +8729,7 @@ brills
 bullethead
 betoss
 brachycephalies
-bottomry
+bottomry 1
 backlashed
 barhopping
 bimetals
