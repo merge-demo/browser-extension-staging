@@ -610,7 +610,7 @@ abnormalcies
 adrenalectomies
 acetylcyanide
 adjure
-anatomical
+anatomical 1
 amynodont
 abococket
 abode
