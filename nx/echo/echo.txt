@@ -3467,7 +3467,7 @@ ekhimi 1
 emotivity 1
 eversporting
 equivocalness
-expiative
+expiative 1
 eleutherosepalous 1
 ennuis
 expediters 1
