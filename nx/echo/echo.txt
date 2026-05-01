@@ -362,7 +362,7 @@ englishry 2
 electrepeter 1
 entelodont
 eighteenfold
-equipotentiality
+equipotentiality 1
 educ 1
 exoneural 2
 ebionite
