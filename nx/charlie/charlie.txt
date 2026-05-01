@@ -26253,7 +26253,7 @@ cosseting
 cossette
 catalowne
 chokestrap
-calmingly
+calmingly 1
 cosshen
 cossic 1
 cossidae 1
