@@ -25077,7 +25077,7 @@ acromyodian
 anural
 antipapistic
 ax
-abasia
+abasia 1
 ascochyta
 axebreaker 1
 afterglide
