@@ -8976,7 +8976,7 @@ gunmaker
 gedd 1
 goldanged
 getae
-gallicola
+gallicola 1
 grizzlyman
 groutiest 1
 gesso 1
