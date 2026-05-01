@@ -8569,7 +8569,7 @@ fissiparous
 flatwise
 foramen 1
 forinsec 1
-fream
+fream 1
 fraxetin
 futuristically
 foreseeing
