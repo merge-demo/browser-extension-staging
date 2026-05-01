@@ -3209,7 +3209,7 @@ aromatophore
 amphogenic
 ableptical
 activated 1
-achtel
+achtel 1
 advolution
 active
 aweather
@@ -23756,7 +23756,7 @@ amyotrophy
 ausforming
 ajog
 arrent 1
-auslaute
+auslaute 1
 auspex
 approvability
 anisopodous 1
