@@ -3975,7 +3975,7 @@ giliak
 garter
 glochidium 1
 galabiya
-georgium
+georgium 1
 greasier
 gilles
 gynostegium
