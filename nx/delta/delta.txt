@@ -18235,7 +18235,7 @@ delamination 1
 donjons
 dispensary
 duncish
-dechlog
+dechlog 1
 duncishness
 dermataneuria
 decener
