@@ -3582,7 +3582,7 @@ catechized
 captured
 captures
 capturing 1
-curricular
+curricular 1
 capuan
 capuched
 chortler
