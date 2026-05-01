@@ -13786,7 +13786,7 @@ cosenator
 cogences
 contemperature 1
 chroniclers
-cantons
+cantons 1
 carrageen
 cochromatography
 cinematically
