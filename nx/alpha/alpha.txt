@@ -22295,7 +22295,7 @@ addressees
 ail 1
 astragalotibial
 athermic
-astragalus
+astragalus 1
 astrain
 apostils
 ansation 1
