@@ -19968,7 +19968,7 @@ cyp
 coruler
 crepidoma
 commandment 1
-chronophotographic
+chronophotographic 1
 cognisant
 conglobated
 cozzes
@@ -25789,7 +25789,7 @@ conditionate
 clamjamfry
 counterswing
 corroboration
-canterburianism
+canterburianism 1
 cancellated
 cephalotheca
 corroborations
