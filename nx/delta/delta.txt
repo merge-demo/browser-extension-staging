@@ -2972,7 +2972,7 @@ danseuses
 decannulation
 dyadically
 democratist 1
-dodecamerous
+dodecamerous 1
 decede
 decillion
 deedily
@@ -12549,7 +12549,7 @@ dotonidae
 diamonding 1
 daffed
 disintegrated
-dipterological
+dipterological 1
 denotation
 dispersoid
 disfavorer
