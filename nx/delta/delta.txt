@@ -5585,7 +5585,7 @@ desaturation 1
 depetalize 1
 disorganiser
 dottrels
-disprivilege
+disprivilege 1
 detainingly
 depravingly
 drachma
