@@ -2883,7 +2883,7 @@ counsinhood
 canopy
 canopid
 canopies
-clarigate
+clarigate 1
 corticated
 canopying
 cours 1
