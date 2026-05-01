@@ -3929,7 +3929,7 @@ dealkalize
 dort 1
 decorous 1
 dooley
-delvers 1
+delvers 2
 dissertating
 dominatingly
 ditchdigging
