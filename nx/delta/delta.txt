@@ -12613,7 +12613,7 @@ drate 1
 delegant 1
 dertrotheca
 defaultant
-descendentalist
+descendentalist 1
 descrial
 dodgeries
 duplicidentate
@@ -16818,7 +16818,7 @@ dyscrasial
 detritivorous
 diprimary
 drawbore 1
-discontiguous
+discontiguous 1
 dissenters
 dreeing
 difficult
