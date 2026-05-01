@@ -1679,7 +1679,7 @@ deamination
 deammonation
 deashing
 dichastic
-dandle
+dandle 1
 deanships
 defending
 dothiorella 1
