@@ -5708,7 +5708,7 @@ engirds 1
 electroblasting
 eyeglance
 etheling 1
-extraverted
+extraverted 1
 extemporised
 endofaradism 1
 encyclopaedism
