@@ -90,7 +90,7 @@ falsest 1
 fondue
 furfuroid
 fingerprints
-facetiae
+facetiae 1
 foxiest
 facilitations 1
 fabulists
