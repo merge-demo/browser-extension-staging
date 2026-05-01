@@ -8900,7 +8900,7 @@ antlike
 archtempter
 askant
 ambilevous
-azurous
+azurous 1
 adscititiously 1
 amakebe
 allocyanine
