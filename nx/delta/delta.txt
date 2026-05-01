@@ -8092,7 +8092,7 @@ demetallize
 demineralize 1
 denominative 2
 dwarfling
-diplopodic
+diplopodic 1
 deidealize 1
 diospyraceae
 dharmsala
