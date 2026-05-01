@@ -2303,7 +2303,7 @@ diverting
 dinman
 diocesans
 dynamical
-deliberant
+deliberant 1
 decentralising 1
 duckhunting
 decentralize

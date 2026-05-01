@@ -3231,7 +3231,7 @@ bodiless
 bedights
 bathtub
 blatters
-barkpeel
+barkpeel 1
 basigynium 2
 basilarchia
 beware
@@ -15318,7 +15318,7 @@ biochemics 1
 bosk
 bullying 2
 belles
-bastian
+bastian 1
 bridewell
 birdwitted
 bridewort
