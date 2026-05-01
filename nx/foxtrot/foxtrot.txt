@@ -2419,7 +2419,7 @@ frenchness
 ferities 1
 fulgoridae
 falsiteit
-fashionable
+fashionable 1
 fifie 1
 ferlying
 foiler 1
