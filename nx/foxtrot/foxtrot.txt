@@ -112,7 +112,7 @@ featheredges
 fluidization
 facient
 furaldehyde
-facilitate 1
+facilitate 2
 flocks 2
 facilitation
 fluosilicate
