@@ -8184,7 +8184,7 @@ foretrace 1
 forecastleman 1
 fountful
 frequentable
-forwake
+forwake 1
 foreuse
 fillercap
 fetishistic
