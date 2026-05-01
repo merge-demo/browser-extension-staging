@@ -9070,7 +9070,7 @@ dropsywort
 disembattle 1
 danglingly
 dyester
-discommodity
+discommodity 1
 diluvy 1
 dictyota
 dictyotales
