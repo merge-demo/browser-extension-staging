@@ -18578,7 +18578,7 @@ arbusta
 antidiastase
 arbutean 1
 anthropomorphite
-abrogates
+abrogates 1
 abbotship
 alarmisms
 amboyna
