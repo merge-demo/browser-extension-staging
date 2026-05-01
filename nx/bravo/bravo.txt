@@ -12241,7 +12241,7 @@ broos
 brailling
 biriani
 bolographic
-broggerite
+broggerite 1
 baluchitherium 2
 bookshelf
 boloism
