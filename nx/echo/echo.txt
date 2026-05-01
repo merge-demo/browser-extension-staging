@@ -1796,7 +1796,7 @@ effetely
 enamors
 eroding 1
 encroached 1
-egotheism
+egotheism 1
 epithalamy
 ergatogyny 1
 ectepicondylar
