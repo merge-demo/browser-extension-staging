@@ -11925,7 +11925,7 @@ amuguis 1
 archai
 aissaoua
 anamorphoscope 1
-agalawood
+agalawood 1
 apophlegmatism
 ankylenteron 1
 anamorphosis
@@ -24806,7 +24806,7 @@ avions
 affair 1
 adieux
 avirulence 1
-automaton
+automaton 1
 algolagny 1
 anxious
 axle 2
