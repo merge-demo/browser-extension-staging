@@ -8646,7 +8646,7 @@ arboricultural
 allegorisation
 allegorise
 afear
-abscising
+abscising 1
 admirance 1
 aerodynamic
 allegoriser
