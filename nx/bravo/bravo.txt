@@ -11668,7 +11668,7 @@ biogenetic 1
 boats
 boatsetter 2
 bisymmetric
-badju
+badju 1
 bougeron 1
 boatsteerer
 broomstraw
