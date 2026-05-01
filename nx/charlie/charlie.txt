@@ -22206,7 +22206,7 @@ compeered
 congealableness
 criticises 1
 congealing
-counterrate
+counterrate 1
 contraband
 crematoriums
 cresotate 1
