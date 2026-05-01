@@ -2420,7 +2420,7 @@ dyssynergy
 diureide
 dacrya
 disobediently
-degorder
+degorder 1
 decimolar 1
 diplacusis
 deluminize
