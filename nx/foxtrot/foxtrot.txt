@@ -7790,7 +7790,7 @@ fianced
 flickery
 faint 1
 fraenum
-forgathering
+forgathering 1
 finning
 fluorescein
 ferrotyped 1
