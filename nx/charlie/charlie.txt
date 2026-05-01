@@ -17861,7 +17861,7 @@ codical
 chlamys
 camas
 codicils
-codicology
+codicology 1
 codifications 1
 cycasin
 canis
