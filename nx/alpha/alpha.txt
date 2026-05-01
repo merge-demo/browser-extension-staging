@@ -12754,7 +12754,7 @@ anoretic
 acalyptrate
 angelomachy 1
 arragonite 2
-arks
+arks 1
 affaires
 akhmimic 1
 antimedicative
