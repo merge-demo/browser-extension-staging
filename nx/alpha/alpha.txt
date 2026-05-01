@@ -3262,7 +3262,7 @@ alstonine 2
 assident
 antennary
 abstersion
-aphis
+aphis 1
 anisometropia
 ashlar
 activation 2
