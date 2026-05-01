@@ -3318,7 +3318,7 @@ feture
 folletto 1
 flabbergastation 1
 fretfulness 1
-flexility
+flexility 1
 fracted 2
 fidejussor
 furfur
