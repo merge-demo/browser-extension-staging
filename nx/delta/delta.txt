@@ -9356,7 +9356,7 @@ differer
 differs
 duncify 1
 deprive
-difficileness
+difficileness 1
 difficilitate
 doctorship
 dignosle
