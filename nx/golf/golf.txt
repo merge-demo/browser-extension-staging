@@ -3758,7 +3758,7 @@ gavelet
 guttiform
 gibstaff
 greyhound 1
-gratefulness
+gratefulness 1
 greyling 2
 greenbugs 1
 greenland
@@ -8488,7 +8488,7 @@ gomphosis 1
 garancine 1
 goatishness
 galeeny
-gorily
+gorily 1
 grinnie
 galactonic
 gratulation 1
