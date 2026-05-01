@@ -20581,7 +20581,7 @@ analytic
 aristotelian
 alkoxy
 assimilations
-administerings
+administerings 1
 amniote
 androgonium
 arthrodirous
