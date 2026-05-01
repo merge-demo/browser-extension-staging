@@ -715,7 +715,7 @@ caffre
 camouflet 1
 cafh
 coelanaglyphic 1
-cafila
+cafila 1
 chondroendothelioma
 cafiz
 cabdriver
@@ -27320,7 +27320,7 @@ cleric
 couplings
 chelifer
 cremates
-cattiness
+cattiness 1
 coupon
 cornbrash
 cowal
