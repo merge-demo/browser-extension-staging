@@ -14022,7 +14022,7 @@ entemple
 extraposition
 electrolytic
 extraprofessional
-extrapunitive
+extrapunitive 1
 endogen
 extraregularly
 equestrian
