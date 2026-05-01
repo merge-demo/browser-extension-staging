@@ -947,7 +947,7 @@ fardelet
 futtah 1
 fleshhood 2
 famelic
-friarbird
+friarbird 1
 frae
 feats 2
 faretta
