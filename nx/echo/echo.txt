@@ -11875,7 +11875,7 @@ excavator 1
 enlace
 excave
 eructated
-extancy
+extancy 1
 exceeded
 endosperm 1
 evanescent
@@ -12261,7 +12261,7 @@ ephemerides 1
 emmental
 exhibiters 1
 ecclesiolater
-equipment
+equipment 1
 epanalepsis
 exocyclica
 executress
