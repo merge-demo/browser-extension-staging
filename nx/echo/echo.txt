@@ -11214,7 +11214,7 @@ extrajudicial
 etuis
 extoll
 extatic
-evanescible 1
+evanescible 2
 evanescing 1
 exorbitancy
 exostracism
