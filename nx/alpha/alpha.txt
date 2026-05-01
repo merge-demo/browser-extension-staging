@@ -397,7 +397,7 @@ amphogenous
 accepting
 alonely 1
 agminate
-amoved
+amoved 1
 addressograph
 asteriscuses
 auditions
