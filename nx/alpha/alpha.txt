@@ -1471,7 +1471,7 @@ anhimidae
 anesthesiologists
 aphyllose
 accipient 1
-accipitrine
+accipitrine 1
 adeuism
 amplitude
 accite
