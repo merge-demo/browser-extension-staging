@@ -9331,7 +9331,7 @@ despouse
 dressers
 differenced
 differences
-dissentaneous
+dissentaneous 1
 dryad
 destroyable
 dunces 2
@@ -14656,7 +14656,7 @@ decanically 1
 distruss
 dampest
 djerib
-demonolatrous
+demonolatrous 1
 dialogizing
 djersa
 dschubba
