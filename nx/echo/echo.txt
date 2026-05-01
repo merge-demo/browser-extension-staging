@@ -3150,7 +3150,7 @@ ethnarchs
 eskimoes
 euryphage
 eloining
-explore
+explore 1
 expurgators
 extinguishment
 epiphora
