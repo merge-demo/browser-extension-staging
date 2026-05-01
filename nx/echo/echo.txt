@@ -10213,7 +10213,7 @@ erroneous
 emptores 1
 executant
 ethicoaesthetic
-exorcismal
+exorcismal 1
 ethicopolitical
 emoter
 eczematization
