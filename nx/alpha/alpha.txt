@@ -3735,7 +3735,7 @@ antislickens
 alphabetist 1
 aeonicaeonist
 ashier
-antiatom
+antiatom 1
 anachoret
 alimenting
 attempre
@@ -4092,7 +4092,7 @@ atalan
 ailurophilia
 abiotrophic
 amyotaxia
-allylic
+allylic 1
 autorotational
 aloyau 1
 afric
