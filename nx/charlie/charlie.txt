@@ -208,7 +208,7 @@ cabrestas 1
 classicalities
 contrivement
 cabresto
-cabrestos
+cabrestos 1
 cabrettas
 cerumniparous
 cabreuva 1
@@ -13681,7 +13681,7 @@ chagal
 cyanometry
 closeups
 cynareous
-cynaroid
+cynaroid 1
 chromatical
 cinch
 colleges
