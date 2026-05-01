@@ -266,7 +266,7 @@ admonition
 aquamaniles
 anallagmatis
 aristolochiales 1
-anchovy
+anchovy 1
 abdicant 1
 abhorrence
 abdications
