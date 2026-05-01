@@ -4327,7 +4327,7 @@ exsufflation
 eggars
 excrescence
 embody
-emphlysis
+emphlysis 1
 eritrean 1
 eremacausis
 esoenteritis
