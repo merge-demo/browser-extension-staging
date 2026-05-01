@@ -20999,7 +20999,7 @@ ascertainably
 ascertaining
 ametoecious
 ascertains
-ascendant
+ascendant 1
 arthropterous
 ascescency 1
 ascescent
