@@ -2304,7 +2304,7 @@ gelatinizer 1
 gradates
 giornatate 1
 gadbee
-gavials 1
+gavials 2
 guaiacols
 goloe
 gibbartas
@@ -2708,7 +2708,7 @@ gorlois
 grenades 1
 gristmiller
 gliadins 1
-guillotine 1
+guillotine 2
 gunboats 2
 gaedelian
 grooms
