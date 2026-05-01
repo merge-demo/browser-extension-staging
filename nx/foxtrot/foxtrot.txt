@@ -6663,7 +6663,7 @@ furuncles
 featherier 2
 frontad
 felonous
-figurism 1
+figurism 2
 foeti 1
 fumigatory
 fica
@@ -9824,7 +9824,7 @@ fascists
 fencers
 frescoed
 fresheners
-freshening
+freshening 1
 foraminifera 1
 freshets
 finals
