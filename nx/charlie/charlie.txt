@@ -18430,7 +18430,7 @@ cystathionine
 cathedral
 cognominated
 cognomination
-cognoscent
+cognoscent 1
 changeling
 cognoscente
 cognoscing
