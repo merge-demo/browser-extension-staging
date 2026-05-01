@@ -22670,7 +22670,7 @@ autocracy
 atheriogaean
 atheris
 annotto
-athermanous
+athermanous 1
 alley
 aerobic
 atheromatosis
