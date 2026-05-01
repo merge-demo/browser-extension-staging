@@ -4482,7 +4482,7 @@ globoids
 gmelinite
 gingering
 gyrated
-gosain 1
+gosain 2
 grandfatherish 2
 germinable
 gainpain 1
