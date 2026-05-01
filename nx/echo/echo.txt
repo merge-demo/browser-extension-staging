@@ -1710,7 +1710,7 @@ employ
 epistilbite
 evang
 eyeground 1
-epornitically 1
+epornitically 2
 encephaloid 1
 enginery
 exasper 1
@@ -5395,7 +5395,7 @@ elaboratory
 equilaterally 1
 epigynies 1
 endocrin
-exaggerations
+exaggerations 1
 evulsion 1
 emydosauria
 empetraceae 1
