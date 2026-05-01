@@ -11911,7 +11911,7 @@ amphibium 1
 angelus 2
 aminoformic
 aquashow
-acyanopsia
+acyanopsia 1
 awink 1
 ancerata
 asperous
