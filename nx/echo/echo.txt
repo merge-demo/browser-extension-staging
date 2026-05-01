@@ -7708,7 +7708,7 @@ ethinamate
 empasma
 eggshells
 exarchy 1
-epicondylian
+epicondylian 1
 executable 1
 epidiascope 1
 expectorants 2
