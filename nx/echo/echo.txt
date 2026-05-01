@@ -6618,7 +6618,7 @@ ethionamide 1
 exhaled
 enteromegalia
 enteroneuritis
-effectuates
+effectuates 1
 entomophthoraceous 1
 engrafted
 enhappy
