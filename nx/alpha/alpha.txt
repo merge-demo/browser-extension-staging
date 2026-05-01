@@ -5128,7 +5128,7 @@ andrenidae
 amygdophenin
 acyclic
 agonies
-archaised
+archaised 1
 aesculin 1
 aplacophora
 archizoic
