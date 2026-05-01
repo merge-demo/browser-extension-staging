@@ -10539,7 +10539,7 @@ bashlik 1
 blastoporal 1
 blastosphere
 balanus
-bromal
+bromal 1
 buttonhold
 belligerent
 braise
