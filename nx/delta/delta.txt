@@ -14586,7 +14586,7 @@ duckeries 1
 diurn
 deoxyribonucleoprotein 1
 dismemberment
-demureness
+demureness 1
 denotive
 disastrousness
 dysfunction
