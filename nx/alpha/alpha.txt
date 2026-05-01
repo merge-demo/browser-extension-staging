@@ -2313,7 +2313,7 @@ apsid
 anabas
 arsenicate 1
 areographer
-archegosaurus 1
+archegosaurus 2
 acichloride
 aciculae
 amended
@@ -22761,7 +22761,7 @@ asthenobiotic
 advantageousness
 attainture
 atypy
-ashame
+ashame 1
 aprickle 1
 acidulent
 averring 1
