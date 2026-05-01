@@ -8005,7 +8005,7 @@ glottologies
 goldenmouthed
 garmentless 1
 gasifiable
-gainer
+gainer 1
 guttee
 glouts
 goodhap
