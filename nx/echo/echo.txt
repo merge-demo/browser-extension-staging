@@ -7884,7 +7884,7 @@ entreater
 epizootiology
 epilogical
 entomophaga 1
-eurystomatous
+eurystomatous 1
 emitter
 eatery
 exudates
