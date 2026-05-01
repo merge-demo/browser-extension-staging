@@ -10814,7 +10814,7 @@ direnesses
 demophil 1
 distilment 1
 drier 1
-debunkment
+debunkment 1
 diletant 1
 dashwheel
 diadematoida
