@@ -1719,7 +1719,7 @@ gastropexy
 gutte 1
 greaseproof 2
 gastrophile
-garroo
+garroo 1
 gorgonacea 1
 gastrophilism 1
 gyrofrequencies 2
