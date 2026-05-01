@@ -8163,7 +8163,7 @@ bloodbird
 bateaux
 bieldy
 bossa
-bellicoseness
+bellicoseness 1
 bielding
 bastnasite
 bewinter
