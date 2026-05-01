@@ -849,7 +849,7 @@ epiderms
 emraud
 englobement
 eddic
-epistolizer 1
+epistolizer 2
 eigenfunction
 erythrocytolysin 1
 electrocution
