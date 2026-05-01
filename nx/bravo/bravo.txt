@@ -8393,7 +8393,7 @@ biomass
 beryllia
 babu
 brombenzene 1
-brachygraphic
+brachygraphic 1
 baronetized
 byhand
 bicarpellate
@@ -11992,7 +11992,7 @@ boardings 1
 batel 2
 bimillenary
 brother
-bogued
+bogued 1
 bogus
 bottled
 bohemianism 1
