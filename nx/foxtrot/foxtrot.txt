@@ -6906,7 +6906,7 @@ fleme 1
 felafel 1
 fanakalo 1
 flintwood
-flosculous
+flosculous 1
 februaries
 feculence
 forswear 2
