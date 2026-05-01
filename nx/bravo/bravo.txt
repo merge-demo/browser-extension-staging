@@ -6993,7 +6993,7 @@ basilian 1
 besmouch
 bloodying
 bacteritic
-besmudge
+besmudge 1
 beamless
 bronzite
 bespouses

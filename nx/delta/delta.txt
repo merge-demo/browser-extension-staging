@@ -6171,7 +6171,7 @@ disenact 1
 derisively
 dejeuners
 deferable 1
-derivant
+derivant 1
 dendrogaea
 drawling
 dillier
