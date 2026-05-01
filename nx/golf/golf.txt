@@ -2067,7 +2067,7 @@ ginglmi 1
 gnomist
 gelndesprung
 gawkhammer
-gamophagy 1
+gamophagy 2
 greasehorn 1
 gimmicky
 giggledom
