@@ -1731,7 +1731,7 @@ bedumbing
 benzalphthalide
 beseeches
 bohea
-blur 1
+blur 2
 bravehearted
 biasing
 buccate 1
