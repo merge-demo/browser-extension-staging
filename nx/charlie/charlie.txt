@@ -25550,7 +25550,7 @@ coronate
 calp
 corrosible 1
 calibrators
-coronations
+coronations 1
 chitchatty
 coronel
 chamaerrhine
