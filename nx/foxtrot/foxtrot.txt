@@ -47,7 +47,7 @@ figurette 1
 flatuosity
 fruited
 finds
-floorboard
+floorboard 1
 foolhardihood 2
 few
 feedway
