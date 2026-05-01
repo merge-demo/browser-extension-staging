@@ -9689,7 +9689,7 @@ disembroilment
 diethylamide
 dilapidation
 depoliticizes 1
-dilatably
+dilatably 1
 deters
 desiderate
 dilatants
@@ -14351,7 +14351,7 @@ dittographic 2
 dutcher
 ditrochean
 deign
-deanship
+deanship 1
 desoxyribose
 dishallucination 1
 decimestrial
