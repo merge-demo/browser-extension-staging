@@ -8424,7 +8424,7 @@ gjetost 2
 gleds
 gauziness
 gittern
-gelid
+gelid 1
 gurging
 grumpiness 1
 graith
