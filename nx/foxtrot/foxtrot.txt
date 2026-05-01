@@ -2511,7 +2511,7 @@ flipflop 1
 femorocele
 faction
 farted
-facinorousness
+facinorousness 1
 formability 1
 fluxgraph 1
 fatihah
@@ -6117,7 +6117,7 @@ flotson
 fustanella
 frightenedly 1
 foxtongue
-fenster
+fenster 1
 flounce
 flounced
 flounder 1
