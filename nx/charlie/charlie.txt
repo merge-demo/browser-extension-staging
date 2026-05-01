@@ -2168,7 +2168,7 @@ channelizing
 coalbin
 conterminate
 cymba 1
-corduroy
+corduroy 1
 campho
 castrations
 camphocarboxylic 1
@@ -6335,7 +6335,7 @@ causally
 causans 1
 cyphellate
 causate
-causationism
+causationism 1
 crapefish
 compatient
 causator
@@ -6608,7 +6608,7 @@ chlorophyllan
 contributors
 cebil
 ceboids
-chondritis
+chondritis 1
 congenitalness
 ceratitic
 creesh
@@ -25941,7 +25941,7 @@ corticiferous
 cordula
 corticifugally
 catchier
-corticine
+corticine 1
 corticipetal 1
 collegiate
 corticoafferent
@@ -26554,7 +26554,7 @@ camomile
 cymarose 1
 campyloneuron
 cottontails
-cabuyas 1
+cabuyas 2
 compatible
 cottontop
 cassias
