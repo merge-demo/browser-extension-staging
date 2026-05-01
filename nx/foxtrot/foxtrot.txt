@@ -2847,7 +2847,7 @@ flowerets
 feticide
 front
 flossie
-fatter
+fatter 1
 freeways 2
 fizzy 1
 fatigating 1
