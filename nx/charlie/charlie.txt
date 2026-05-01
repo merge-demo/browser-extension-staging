@@ -19372,7 +19372,7 @@ connectionism 1
 captainships
 circumambulation
 cherubin
-consecrating
+consecrating 1
 colorant
 colorants 1
 colorate
