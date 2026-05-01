@@ -2380,7 +2380,7 @@ acephalism
 acidurias
 arteriole
 annihil
-aulacodus 1
+aulacodus 2
 archdukes
 ambrosterol
 androcles
@@ -15023,7 +15023,7 @@ agamospermy 1
 affusedaffusing
 automatized
 anticosmetics
-agamogenesis
+agamogenesis 1
 anticouncil
 archrepresentative
 antenati
