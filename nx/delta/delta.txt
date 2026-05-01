@@ -8724,7 +8724,7 @@ diastase 1
 din
 domelike
 disproportionateness
-discriminate
+discriminate 1
 diatomales
 dedicated 1
 deplorer
