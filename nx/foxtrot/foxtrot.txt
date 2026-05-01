@@ -193,7 +193,7 @@ felsitic
 ferrihemoglobin
 frasier
 factrix 3
-footmanship 1
+footmanship 2
 fanons 1
 fatiscence 2
 forborne 1
