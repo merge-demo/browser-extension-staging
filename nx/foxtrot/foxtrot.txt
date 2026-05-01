@@ -7293,7 +7293,7 @@ fishyard 1
 footwarmers
 fibulocalcaneal
 fidelity 1
-fishmonger
+fishmonger 1
 fozy
 flavobacteria
 foliobranchiate
@@ -11290,7 +11290,7 @@ fricandeaus
 faveolate
 fantasticism
 familiarizer 1
-furlane
+furlane 1
 filers
 fractionary
 friskets
