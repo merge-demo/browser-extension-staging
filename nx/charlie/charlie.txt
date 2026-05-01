@@ -29243,7 +29243,7 @@ cryptarchy
 caracols 1
 crypteroniaceae
 cryptical
-cryptically
+cryptically 1
 crypticness
 cosmognosis
 covenantally
