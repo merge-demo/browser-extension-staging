@@ -6132,7 +6132,7 @@ gardy
 grumpish
 gnapweed
 gallification
-gyrates
+gyrates 1
 gowiddie 1
 glossolalist
 goblinry 1
@@ -10848,7 +10848,7 @@ grudgefully
 guzul
 gasworker
 grailer 1
-gymnasiarch 1
+gymnasiarch 2
 genesiurgic
 galianes
 gunneress 1
