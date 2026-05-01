@@ -172,7 +172,7 @@ glamour
 greyhen
 groggily
 goliathize
-gluteoperineal
+gluteoperineal 1
 guesting
 gradgrind
 golfer

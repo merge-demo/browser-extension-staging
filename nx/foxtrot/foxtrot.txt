@@ -8183,7 +8183,7 @@ fossilology
 foretrace 1
 forecastleman 1
 fountful
-frequentable
+frequentable 1
 forwake 1
 foreuse
 fillercap
