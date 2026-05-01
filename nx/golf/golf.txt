@@ -2022,7 +2022,7 @@ gazzetta 1
 gavels
 gavia
 geminiform
-gederathite
+gederathite 1
 gasometrically
 gio
 grapheme
