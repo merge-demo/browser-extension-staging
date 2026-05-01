@@ -7759,7 +7759,7 @@ firearms
 foremast 2
 fritters
 fidicula
-franciscanism
+franciscanism 1
 fisticuffery
 forbiddenly 2
 favillous 1
