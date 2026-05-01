@@ -4482,7 +4482,7 @@ globoids
 gmelinite
 gingering
 gyrated
-gosain 1
+gosain 2
 grandfatherish 2
 germinable
 gainpain 1
@@ -9679,7 +9679,7 @@ groundwood
 gosther
 granuliform 1
 gruellings
-gruesome 1
+gruesome 2
 galeod 2
 gasp
 grassworm
