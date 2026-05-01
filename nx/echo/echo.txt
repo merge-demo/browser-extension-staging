@@ -3274,7 +3274,7 @@ exdividend
 edgiest
 electrotonicity
 ensandal
-etoiles
+etoiles 1
 epiphyllospermous
 ensnaring
 enrages
