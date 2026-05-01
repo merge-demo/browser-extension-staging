@@ -4598,7 +4598,7 @@ amandine
 attunes
 annonaceous
 albication
-assuagable
+assuagable 1
 adjuvant
 allobars
 antirationalistic 2
