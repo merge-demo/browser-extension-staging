@@ -6876,7 +6876,7 @@ beryllosis
 beastie
 beseemliness
 benignancies
-beseems
+beseems 1
 beseen 1
 burglariously
 bullfrogs
