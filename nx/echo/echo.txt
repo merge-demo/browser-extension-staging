@@ -5080,7 +5080,7 @@ endocrines
 endocrinic
 edibile
 existentialistic
-emergencies
+emergencies 1
 entogenous
 enteroptotic
 elementals
