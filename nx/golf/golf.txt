@@ -9246,7 +9246,7 @@ glagolitic 2
 gravigrade 1
 grahamite 1
 grist 2
-guanase
+guanase 1
 gluttons 1
 glucagon
 gyroceran
