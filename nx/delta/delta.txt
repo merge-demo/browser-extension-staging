@@ -5428,7 +5428,7 @@ donation 1
 disenablement
 deorsum
 deossification
-deuterostomatous 1
+deuterostomatous 2
 dissipates
 deoxycorticosterone
 dandically
@@ -8503,7 +8503,7 @@ duvetines
 dealkylation
 diffided
 diantre
-disfavored
+disfavored 1
 dispensableness 1
 desilvering
 disquisitively
