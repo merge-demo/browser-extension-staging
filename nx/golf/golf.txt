@@ -717,7 +717,7 @@ gawn
 gladdest 1
 grissen 1
 genomic
-gersdorffite
+gersdorffite 1
 gentianic
 gor
 gentlepeople 1
