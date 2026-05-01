@@ -8845,7 +8845,7 @@ ammonolyses
 adolescency
 anthophore
 allobrogical 1
-abidance
+abidance 1
 atturn
 adelina 1
 anglophobes
