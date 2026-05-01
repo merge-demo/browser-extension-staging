@@ -4248,7 +4248,7 @@ gyneolater 1
 gynetype
 gymnadenia
 glazieries
-glazings 1
+glazings 2
 gippy
 grads
 gluttonous
