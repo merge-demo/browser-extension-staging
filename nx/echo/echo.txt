@@ -557,7 +557,7 @@ enthean
 emulations 1
 euglenas
 echitamine
-eccentrical
+eccentrical 1
 epigynum
 excision
 esophagoscopy
