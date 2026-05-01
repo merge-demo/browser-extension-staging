@@ -1565,7 +1565,7 @@ enterokinetic
 eglamore
 eglandular
 electrosynthetically 1
-eglantines 1
+eglantines 2
 endocardia
 ethnogenist 1
 exobiologist 1
