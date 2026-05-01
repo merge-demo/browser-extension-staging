@@ -8549,7 +8549,7 @@ forming
 formless 1
 forwoden
 faveolus
-foxtrot 1
+foxtrot 2
 flabbergasted 1
 flunkydom
 fistiana
