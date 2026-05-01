@@ -9514,7 +9514,7 @@ checklist
 checkman 1
 congruencies
 checkmate
-chirosophist 1
+chirosophist 2
 cautioning
 circumferences
 checkpointed
