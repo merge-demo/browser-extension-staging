@@ -7146,7 +7146,7 @@ entender
 epistasis 1
 euphonym
 enchesoun
-ensample 1
+ensample 2
 enzootically
 evenlight
 exposed
@@ -13616,7 +13616,7 @@ eremiteship
 extracutaneous
 evasions
 echidnas
-escheating
+escheating 1
 enjoinder 1
 embroiders 1
 epoxides
