@@ -3582,7 +3582,7 @@ catechized
 captured
 captures
 capturing 1
-curricular
+curricular 1
 capuan
 capuched
 chortler
@@ -28278,7 +28278,7 @@ crassulaceae
 crataeva
 champlain 1
 cratches
-curtnesses
+curtnesses 1
 cratchins
 conicine
 crate
