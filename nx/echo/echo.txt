@@ -8728,7 +8728,7 @@ expatiator 1
 equivocal 1
 exuperable 1
 extermination
-encystment
+encystment 1
 eulogising
 emphractic
 enstrengthen 1

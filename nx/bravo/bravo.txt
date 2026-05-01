@@ -1859,7 +1859,7 @@ bullose 1
 bialystoker
 bandaged
 bandaging 1
-berylloid
+berylloid 1
 bowlin 1
 bushranging
 bandala 1
