@@ -626,7 +626,7 @@ glutathione 1
 gallon
 gussying
 gonapophysis
-gonangial
+gonangial 1
 gabionage
 gardenesque 1
 gastaldo 1
