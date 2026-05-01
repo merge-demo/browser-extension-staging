@@ -18583,7 +18583,7 @@ coction 1
 cyrtidae 1
 coyish
 coleseeds
-chrometophobia 1
+chrometophobia 2
 coyishness
 conculcation
 cunner
@@ -24910,7 +24910,7 @@ coralist
 coralita
 coralla
 clavodeltoid
-corallian
+corallian 1
 crucilly
 corallidae
 corallidomous
@@ -25602,7 +25602,7 @@ corpn
 corpora
 corporacy
 commensally 1
-corporacies
+corporacies 1
 calcic
 corporalcy
 corporale
