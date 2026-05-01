@@ -5221,7 +5221,7 @@ ambilaevous 1
 antiquartan
 antichlor
 achen
-affaite
+affaite 1
 affect 1
 anaxonia
 aflicker
@@ -21042,7 +21042,7 @@ authorizable
 ahmet
 azoxynaphthalene
 acknowledgedly
-accumulators 2
+accumulators 3
 amphithalamus 1
 ascite
 ashluslay
