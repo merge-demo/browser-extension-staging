@@ -9086,7 +9086,7 @@ biopsic
 byssaceous
 bespice 1
 benightmare
-belgic
+belgic 1
 biopsychological
 breunnerite
 brittlewort
