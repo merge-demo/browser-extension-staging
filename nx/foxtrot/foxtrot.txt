@@ -7723,7 +7723,7 @@ fellmonger
 frate
 fossa 1
 fidessa 1
-flinchingly 2
+flinchingly 3
 foreignly
 foreignness
 filigrained
