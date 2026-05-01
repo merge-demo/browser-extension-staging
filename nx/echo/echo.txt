@@ -12420,7 +12420,7 @@ electrolyze
 eucleidae
 eluviation
 estriol
-encephalology 1
+encephalology 2
 ephemerida 2
 exposures
 exhibition 1
