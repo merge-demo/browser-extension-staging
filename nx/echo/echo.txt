@@ -1861,7 +1861,7 @@ encomiast 1
 eyoty
 elapsed 1
 endamage 1
-everwho
+everwho 1
 eightball
 eclat
 earthstar
@@ -3795,7 +3795,7 @@ extracolumella 1
 endodontically 1
 ensindon 1
 exclam
-enterprisingly
+enterprisingly 1
 expiratory
 esthetical
 exla 2
