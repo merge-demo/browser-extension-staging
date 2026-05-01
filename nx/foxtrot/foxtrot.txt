@@ -2194,7 +2194,7 @@ fishworker
 feltwort 1
 fastidiosity
 felwort
-fitting 1
+fitting 2
 fathearted
 factitial
 faciobrachial
@@ -4369,7 +4369,7 @@ fixion
 fishboats
 fonduk 1
 flubdubberies
-fishbolts
+fishbolts 1
 flechette 1
 funt 1
 flagged
