@@ -57,7 +57,7 @@ exhibiter
 earldoms
 earless
 extradomestic
-excuss
+excuss 1
 estuarine
 empaneling 2
 earliest
