@@ -7265,7 +7265,7 @@ eurypylous
 eternises 1
 enolize
 ephah
-eductors
+eductors 1
 each
 electrooptics
 escaping
