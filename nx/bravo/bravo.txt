@@ -7669,7 +7669,7 @@ bezan
 biplace 2
 bezanty
 brassiness
-bargain
+bargain 1
 bezants 1
 bugseed
 bezazzes
