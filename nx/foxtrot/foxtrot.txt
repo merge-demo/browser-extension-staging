@@ -2699,7 +2699,7 @@ ferventness
 frighteningness
 floodwall
 fishify
-fuminess
+fuminess 1
 ferrometer 1
 faithing
 factioneer 1
