@@ -556,7 +556,7 @@ echis 1
 enthean
 emulations 1
 euglenas
-echitamine
+echitamine 1
 eccentrical
 epigynum
 excision
