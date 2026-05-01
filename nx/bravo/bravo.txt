@@ -18268,7 +18268,7 @@ bootblacks
 bastardy
 buttermonger
 bice 1
-bagworm 1
+bagworm 2
 bronzier
 butternuts
 bunuelo 1
