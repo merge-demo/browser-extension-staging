@@ -6698,7 +6698,7 @@ dissentiously
 dialectologist
 dahabiyas
 danaid
-desiderated
+desiderated 1
 diacoustics 1
 dropforge 1
 desideration
