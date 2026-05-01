@@ -584,7 +584,7 @@ gyrinidae
 geist 1
 geocronite 1
 germanity
-gigue
+gigue 1
 gomashta 1
 guarauno
 galactose
