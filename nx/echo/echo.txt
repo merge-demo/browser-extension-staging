@@ -10863,7 +10863,7 @@ envineyard 1
 elaeoblastic
 enchase
 eisteddfodau 2
-euphotic
+euphotic 1
 entailable
 eradicatory
 equitability 2
