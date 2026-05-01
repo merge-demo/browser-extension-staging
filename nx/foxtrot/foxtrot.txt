@@ -2734,7 +2734,7 @@ fleuronne 2
 filmish 1
 fetation
 flunkeydom 1
-fraternization
+fraternization 1
 forelimbs
 fyce
 feod 1
