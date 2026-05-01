@@ -4014,7 +4014,7 @@ adjutant
 anesthetic
 adjutator
 aqueity
-apologer
+apologer 1
 adjutrice 1
 ambassage
 ameba
