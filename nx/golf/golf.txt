@@ -2938,7 +2938,7 @@ gigantomachy
 glueing
 glitterance
 geogeny
-gerara
+gerara 1
 grozart
 gullability 1
 grogger
