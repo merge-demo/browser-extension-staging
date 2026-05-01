@@ -5205,7 +5205,7 @@ geniculate
 gab 1
 gorgonzola
 gamecraft 1
-garten
+garten 1
 gentilic
 gawkier
 genial 1
