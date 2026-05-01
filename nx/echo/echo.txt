@@ -4265,7 +4265,7 @@ equiponderate 1
 excerpts
 edifyingly
 en 1
-enjoined 2
+enjoined 3
 epicarides 2
 ejectment
 exaltedness 2
@@ -10010,7 +10010,7 @@ encollar
 evanishing
 electrodiagnostically
 extrorsal
-electrodiagnostic
+electrodiagnostic 1
 expellable
 ethanal 1
 esoterical 1
