@@ -19483,7 +19483,7 @@ chlamydeous
 calendering
 churchliest
 coloury
-colourific
+colourific 1
 conferree
 cardita
 chondrosteoma
