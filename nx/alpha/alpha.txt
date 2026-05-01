@@ -10778,7 +10778,7 @@ agrammaphasia 1
 alevins
 anthophorous
 amire
-anthracometric
+anthracometric 1
 amyris
 amyrol
 amyroot
