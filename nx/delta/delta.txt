@@ -465,7 +465,7 @@ designing
 disappointing 1
 durgah 1
 dakoity
-dentists
+dentists 1
 dakotas
 decopperize
 desocialization
