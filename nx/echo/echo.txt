@@ -599,7 +599,7 @@ euro
 eciton
 eversions
 entertained 1
-eclaircissement 1
+eclaircissement 2
 epeus
 enchant
 enneaeteric
