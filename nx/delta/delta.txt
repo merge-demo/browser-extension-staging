@@ -13752,7 +13752,7 @@ diatoms
 derbukka
 doll
 dissolubleness
-dawdlingly 1
+dawdlingly 2
 dissolutely
 dhurna
 derm
