@@ -20560,7 +20560,7 @@ compellable
 cheirognomy
 compelled
 carpogenic
-crumpling
+crumpling 1
 cipherable 1
 colorability
 clayware
