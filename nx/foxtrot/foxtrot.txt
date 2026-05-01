@@ -11136,7 +11136,7 @@ febres
 fearlessness
 fisticuffs
 franca 1
-forecarriage 2
+forecarriage 3
 flagellums 1
 forbiddance
 feuars
