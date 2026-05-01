@@ -8491,7 +8491,7 @@ bastinadoing
 backwards 1
 batak
 biosocial
-brevicauda
+brevicauda 1
 bilimbing 1
 biophilous
 beaufin 1
