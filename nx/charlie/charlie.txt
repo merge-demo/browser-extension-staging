@@ -1619,7 +1619,7 @@ callousness
 callowest
 cretinization
 clothmaker 1
-callowman
+callowman 1
 cleistogamic
 cholecystalgia
 clarice
