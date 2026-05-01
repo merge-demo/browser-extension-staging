@@ -7619,7 +7619,7 @@ ascophyllum
 anastomos
 astragal
 alcazaba
-apophonic
+apophonic 1
 anisomeles
 agrafe
 adamance 1
