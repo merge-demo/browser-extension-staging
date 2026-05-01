@@ -10743,7 +10743,7 @@ gustfully
 groundlessly
 gypsyisms
 glaciologists
-gnomonological
+gnomonological 1
 gavage
 galloot
 garnish
