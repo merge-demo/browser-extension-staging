@@ -10462,7 +10462,7 @@ ametabolic 1
 accidents 1
 ametallous
 austemper 1
-apa
+apa 1
 autogenetic
 alkanna
 abbeys
