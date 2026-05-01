@@ -10647,7 +10647,7 @@ deprecates 1
 dioti 1
 disaccordance 2
 delegati
-dermostenosis
+dermostenosis 1
 danainae
 dinornithoid
 dankali 1
