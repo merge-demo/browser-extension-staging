@@ -7061,7 +7061,7 @@ burleycue
 bespattered
 batara
 bannerette
-bespeak
+bespeak 1
 bodyless
 biggings
 bankrupcy 1
