@@ -487,7 +487,7 @@ girkin
 gravimetrical
 gelatin
 gye
-glaucodot
+glaucodot 1
 gluteus
 gulaman
 grama
