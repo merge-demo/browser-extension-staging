@@ -12142,7 +12142,7 @@ excubitoria
 eradicator
 entwisting
 excud
-europeanize
+europeanize 1
 encharge 1
 entwite
 ennoblment
