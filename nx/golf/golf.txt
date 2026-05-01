@@ -3064,7 +3064,7 @@ glossarist
 garo 1
 gleemaiden 1
 geophilid
-galvanoscopic
+galvanoscopic 1
 granula 1
 garaged
 groined
