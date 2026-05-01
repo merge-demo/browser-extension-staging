@@ -558,7 +558,7 @@ dromon
 disbursable
 disfranchiser
 damaskeen
-dod 1
+dod 2
 dravya
 dynamoneure
 diethylmalonylurea
