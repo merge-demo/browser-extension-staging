@@ -9270,7 +9270,7 @@ epitaphize
 elytrin
 errors
 estramazone 1
-ecrustaceous
+ecrustaceous 1
 excerpting 2
 electroethereal
 erse
