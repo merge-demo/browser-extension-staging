@@ -1765,7 +1765,7 @@ gasterosteid
 gynandrism 1
 gutterblood 2
 gelatinotype 1
-grippelike 1
+grippelike 2
 ghyll
 glutinate 1
 gestalten
