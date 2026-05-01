@@ -2501,7 +2501,7 @@ fortunize
 fluters 2
 fatales
 faradising 2
-ferociously
+ferociously 1
 flashforward
 fumarin 1
 fastus
