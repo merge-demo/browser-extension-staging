@@ -1886,7 +1886,7 @@ daleswoman 1
 debonairness
 deboned
 dioxin
-debones
+debones 1
 deafening
 daktylos
 disinfection
