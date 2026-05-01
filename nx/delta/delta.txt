@@ -11045,7 +11045,7 @@ disappreciate
 detergents 1
 deciatine 2
 disapprobatory
-disappropriate
+disappropriate 1
 drakonite
 disapprovals
 demagog 1
