@@ -3538,7 +3538,7 @@ additive
 additivity
 apesthesia
 aloysia
-additory
+additory 1
 augustin
 appointively
 additum
