@@ -4473,7 +4473,7 @@ dialyzer
 demiculverin
 dodgiest
 demidistance
-diaphane
+diaphane 1
 diabetogenic
 downtrend
 deityship
