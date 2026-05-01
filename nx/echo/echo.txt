@@ -3606,7 +3606,7 @@ eyeliner
 embracement
 elders 1
 expanse
-enquiry
+enquiry 1
 existability
 epicauta
 erythraean
