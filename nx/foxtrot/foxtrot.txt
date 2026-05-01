@@ -8804,7 +8804,7 @@ felsosphaerite
 forellenstein
 forwarded
 faceless 1
-frondation
+frondation 1
 facelifts 1
 fascinatedly
 foreplace 2
@@ -9372,7 +9372,7 @@ freath
 flees 2
 flane 2
 fewmets
-fortuuned 1
+fortuuned 2
 fromward
 ferromagnesian
 frangulic 1
