@@ -12524,7 +12524,7 @@ exaggeration 1
 enteropneusta 1
 erythrophage
 epicentral
-embosture 1
+embosture 2
 executrixship
 emittance
 expertize 1
