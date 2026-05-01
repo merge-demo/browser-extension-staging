@@ -10948,7 +10948,7 @@ filtration 1
 flavorful 2
 forge 1
 formalins
-fub
+fub 1
 foehn 1
 flexure
 field
