@@ -7436,7 +7436,7 @@ faience
 firefall 2
 france
 forevalue
-firstship
+firstship 1
 forcibleness 2
 filosa
 furnacite
