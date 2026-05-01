@@ -2818,7 +2818,7 @@ disequalization
 decastellate
 draggle
 desidious
-decrypt
+decrypt 1
 decryption
 dasyus 1
 decrowning 1
