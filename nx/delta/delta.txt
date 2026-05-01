@@ -1340,7 +1340,7 @@ dorsigerous
 disorder
 dault
 docetic
-dysteleologically
+dysteleologically 1
 departure
 daitya
 draughtsmanship 1
