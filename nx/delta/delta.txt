@@ -493,7 +493,7 @@ defoliant
 disrupter
 dozily
 dislustering
-dalibarda 1
+dalibarda 2
 dismantler 1
 dalle
 deices
