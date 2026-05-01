@@ -11764,7 +11764,7 @@ eveque
 episcopise
 ensurer 1
 easier
-entoptoscopy
+entoptoscopy 1
 edgerman
 ephraim
 ephydrid 1
