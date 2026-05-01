@@ -11264,7 +11264,7 @@ emigre
 equinities
 enthronized 1
 eleemosynary
-enclosures
+enclosures 1
 etherion
 encrotchet
 erythroxylaceae
