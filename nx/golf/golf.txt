@@ -2735,7 +2735,7 @@ gung 1
 granulitic 2
 gippers
 garbs 1
-garnished 1
+garnished 2
 gelotometer
 glottochronological
 gristly
