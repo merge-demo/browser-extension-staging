@@ -9031,7 +9031,7 @@ allothogenic
 astrakanite
 angora
 allotypes
-annotates
+annotates 1
 anthroropolith
 angelon
 allineate
@@ -24335,7 +24335,7 @@ autopsical
 adsessor
 autopsychoanalysis
 autopsychosis
-autopsied
+autopsied 1
 autopsies
 ambrose 1
 archprophet
