@@ -11243,7 +11243,7 @@ flexuosities
 ferned
 flemished 1
 fluorescing
-funked
+funked 1
 finalism
 flatbrod 1
 forbearable
