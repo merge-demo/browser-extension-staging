@@ -930,7 +930,7 @@ flenched 1
 facetiousness
 fluorids
 fastigiums
-forkers
+forkers 1
 fillagreed
 fardage
 farded
