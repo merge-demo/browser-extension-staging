@@ -8037,7 +8037,7 @@ electrooculogram
 ephthianura 1
 extraprovincial
 epiphragm
-enlargedness
+enlargedness 1
 encover 1
 extrasyphilitic
 extraordinaries
