@@ -2568,7 +2568,7 @@ electrodiagnoses 1
 entrenched
 ethylhydrocupreine 2
 euphausia
-entertainable
+entertainable 1
 earth 1
 etua
 enantioblastous
