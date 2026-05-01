@@ -8646,7 +8646,7 @@ arboricultural
 allegorisation
 allegorise
 afear
-abscising
+abscising 1
 admirance 1
 aerodynamic
 allegoriser
@@ -14186,7 +14186,7 @@ aphtha
 artocarpaceae
 amani
 antepectus
-anthropopsychic
+anthropopsychic 1
 agatine 1
 anaces
 airwomen 1
