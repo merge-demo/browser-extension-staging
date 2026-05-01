@@ -10775,7 +10775,7 @@ directer 1
 domite
 deboist
 decreement
-divaricatingly
+divaricatingly 1
 diseur
 directionalize
 directionally 1
