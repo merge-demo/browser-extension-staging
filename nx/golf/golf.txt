@@ -1677,7 +1677,7 @@ gamebag 1
 gazetteerish
 gane 2
 grassquit 1
-grooved
+grooved 1
 gluttery 1
 glaciation
 gloated
@@ -6471,7 +6471,7 @@ gurry
 grit 2
 guirlande
 graduatical 1
-genteel 1
+genteel 2
 ghazel
 gliming
 grooving
