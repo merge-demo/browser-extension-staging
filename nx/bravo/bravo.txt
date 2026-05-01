@@ -1859,7 +1859,7 @@ bullose 1
 bialystoker
 bandaged
 bandaging 1
-berylloid
+berylloid 1
 bowlin 1
 bushranging
 bandala 1
@@ -2376,7 +2376,7 @@ bubbletops
 bourignianist
 bagging
 boxboards
-barbotine
+barbotine 1
 bones
 butterless
 bluelines
