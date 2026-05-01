@@ -3970,7 +3970,7 @@ calcaneoastragalar 1
 calendared
 carburised
 contributed
-carlylism
+carlylism 1
 cissoidal
 carburiser
 cerulescent 1
@@ -29243,7 +29243,7 @@ cryptarchy
 caracols 1
 crypteroniaceae
 cryptical
-cryptically
+cryptically 1
 crypticness
 cosmognosis
 covenantally
