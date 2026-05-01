@@ -5318,7 +5318,7 @@ gadgetry 1
 glycosidically
 granulite 1
 gitter
-gelandejump
+gelandejump 1
 gunplays
 glazework
 guerre
