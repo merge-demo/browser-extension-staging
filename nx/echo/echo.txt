@@ -7898,7 +7898,7 @@ ensilation
 expounds
 epimanikion 1
 epimeres
-enterolithiasis
+enterolithiasis 1
 evangels
 epitomate
 encephalonarcosis
