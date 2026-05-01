@@ -4170,7 +4170,7 @@ avell
 autobus
 antiphlogistin
 acylamino 1
-adnephrine
+adnephrine 1
 anthracene
 atabal
 annuent
@@ -15699,7 +15699,7 @@ atrazine
 achromatism
 armoury
 antiskepticism
-antipacifistic
+antipacifistic 1
 aplobasalt
 angriest
 antipacifists
