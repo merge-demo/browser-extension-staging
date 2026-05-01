@@ -1015,7 +1015,7 @@ gurnetty
 granitizing
 geophilous 2
 gully 1
-geodetician
+geodetician 1
 guesten
 guesdism
 genthite
@@ -5813,7 +5813,7 @@ geometrize
 gorgeable 1
 gaupus
 glissades
-greggle 1
+greggle 2
 gather 1
 greekish 1
 gradation
