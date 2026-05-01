@@ -4534,7 +4534,7 @@ exition
 enteromegaly
 expel
 expatiations
-endpleasure
+endpleasure 1
 enam
 effigies
 ectochondral 1
