@@ -4683,7 +4683,7 @@ didappers 1
 deflexionize 2
 derf
 disputatively
-datatypes
+datatypes 1
 desperateness
 disnaturalize
 dolente
