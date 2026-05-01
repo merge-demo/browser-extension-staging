@@ -3771,7 +3771,7 @@ deicers
 doctordom
 defacingly
 deicides
-dismutation
+dismutation 1
 deictical
 devilkin
 dreissiger
@@ -9097,7 +9097,7 @@ didacticality 1
 drassidae
 dichondraceae
 daleman
-dragomanish
+dragomanish 1
 didacticism
 defile
 dispireme
