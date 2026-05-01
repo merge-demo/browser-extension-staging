@@ -12574,7 +12574,7 @@ embezzle 1
 exit
 encrypted
 exsects
-exite 1
+exite 2
 eranist
 extinction
 envied
