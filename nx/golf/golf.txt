@@ -1015,7 +1015,7 @@ gurnetty
 granitizing
 geophilous 2
 gully 1
-geodetician
+geodetician 1
 guesten
 guesdism
 genthite
