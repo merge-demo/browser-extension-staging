@@ -2825,7 +2825,7 @@ decrowning 1
 dustier
 decubital
 dezincked
-duodenums
+duodenums 1
 downstater
 daur 1
 desiring
@@ -9128,7 +9128,7 @@ dauphines
 detriment
 disdiaclasis
 disgracement
-digger
+digger 1
 didie
 deserves
 didies
@@ -10013,7 +10013,7 @@ dermatopnagic 1
 dummkopfs 1
 disbanded 2
 dimplier 1
-deadcenter
+deadcenter 1
 denudement 1
 dimwittedly
 demodulation
