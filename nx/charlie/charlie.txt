@@ -14307,7 +14307,7 @@ clavierist
 cautelous
 circumpose 1
 condite
-circumquaque
+circumquaque 1
 circumradius
 circumradiuses
 charitable
