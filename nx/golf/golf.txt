@@ -7662,7 +7662,7 @@ gunpaper
 greyly
 graft
 gyal 1
-glossoepiglottic
+glossoepiglottic 1
 gunkholing 1
 girlies
 ghoster 1
