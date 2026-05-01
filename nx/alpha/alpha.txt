@@ -10514,7 +10514,7 @@ amice
 anatriptic
 amicron
 algomian
-aasvogels
+aasvogels 1
 amyclaean
 absinthism
 alisonite
@@ -14703,7 +14703,7 @@ antiarins
 actuate 1
 aggressively
 arylate
-aerothermodynamics
+aerothermodynamics 1
 antiaristocracies 1
 attendees 1
 arauna
