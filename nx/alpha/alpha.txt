@@ -6487,7 +6487,7 @@ aguilt
 astucious
 antiweed
 aguirage
-aguise
+aguise 1
 antimeter
 axanthopsia
 antignostical
