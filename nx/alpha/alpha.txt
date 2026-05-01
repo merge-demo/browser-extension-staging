@@ -12754,7 +12754,7 @@ anoretic
 acalyptrate
 angelomachy 1
 arragonite 2
-arks
+arks 1
 affaires
 akhmimic 1
 antimedicative
@@ -21884,7 +21884,7 @@ antithesize
 alphabet
 admonitive
 assister 2
-assistful
+assistful 1
 acalycine 1
 argillite
 assith 1
