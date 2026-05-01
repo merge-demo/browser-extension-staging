@@ -1679,7 +1679,7 @@ deamination
 deammonation
 deashing
 dichastic
-dandle
+dandle 1
 deanships
 defending
 dothiorella 1
@@ -5784,7 +5784,7 @@ disauthentic
 dextrocerebral
 depositors 2
 dowel 1
-divestible
+divestible 1
 dichotomously
 daisied 1
 deafforest
