@@ -6289,7 +6289,7 @@ benthic
 barbar
 bagfuls
 bevors 1
-benthoscope 1
+benthoscope 2
 bulgar
 benthoses 1
 bacteriolysin
