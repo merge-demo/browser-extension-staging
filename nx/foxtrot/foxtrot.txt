@@ -5888,7 +5888,7 @@ feague 1
 fangas
 flinted
 ferrichloride
-furnishings
+furnishings 1
 flushes 1
 flaxier 1
 furandi
