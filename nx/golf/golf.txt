@@ -9245,7 +9245,7 @@ grisly 1
 glagolitic 2
 gravigrade 1
 grahamite 1
-grist 1
+grist 2
 guanase
 gluttons 1
 glucagon
