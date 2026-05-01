@@ -4384,7 +4384,7 @@ gregarianism
 grazierdom 1
 grainsickness 1
 gosplan
-gammelost
+gammelost 1
 gunshots
 graminology
 gommelin
