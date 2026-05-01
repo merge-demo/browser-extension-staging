@@ -9384,7 +9384,7 @@ dist
 diffranchise
 diadumenus
 durabilities
-decadic
+decadic 1
 discontentive
 dram
 dissoluble
