@@ -2739,7 +2739,7 @@ acridiidae 1
 allochiral
 amreetas
 ankylophobia 1
-acridity
+acridity 1
 aerobee 1
 acridities
 acrydium
