@@ -7570,7 +7570,7 @@ corydaline
 cophouse
 cerebrifugal
 cartoonists
-cerebrize
+cerebrize 1
 cerebrocardiac
 chairman
 cerebroganglionic
