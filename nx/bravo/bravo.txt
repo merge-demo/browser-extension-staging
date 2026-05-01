@@ -9421,7 +9421,7 @@ bargehouse
 brimmering 1
 borak 1
 befitting 1
-basichromatic
+basichromatic 1
 bluegums 1
 belabours
 biophotometer
