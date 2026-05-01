@@ -1622,7 +1622,7 @@ bursati 1
 baudronses
 bilamellate
 ballo
-brachydactylic
+brachydactylic 1
 blumea
 begluc 1
 banneret
@@ -6103,7 +6103,7 @@ bhd
 barricader
 bend
 bub
-bendee
+bendee 1
 bullwhips
 beamier
 bibliographical
