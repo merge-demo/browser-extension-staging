@@ -4756,7 +4756,7 @@ engrid
 encomiastically
 extols
 emulously
-encomic
+encomic 1
 executory
 excipient
 encomiumia 1
