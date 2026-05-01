@@ -3255,7 +3255,7 @@ biotechnological
 basilic
 bantingize
 bedouin
-basilica
+basilica 1
 belverdian 1
 brookable
 backoff
@@ -5457,7 +5457,7 @@ behymn
 brutes
 behither
 bendways
-bechamel
+bechamel 1
 bonce
 bahmani 1
 bronchotome
