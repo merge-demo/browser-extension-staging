@@ -8823,7 +8823,7 @@ endocellular
 eremitism 1
 ecuelling
 epitheloid
-enkernel 1
+enkernel 2
 ecospecifically 1
 esthesiometer
 eremuri
@@ -11442,7 +11442,7 @@ expenditor 2
 encephalosis 1
 edgebone
 ependymary 1
-encolour
+encolour 1
 everted
 euouae 1
 eli
