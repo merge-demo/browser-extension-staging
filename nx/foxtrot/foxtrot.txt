@@ -4095,7 +4095,7 @@ felicitously 1
 femic
 foresightless
 fungusy
-frostation
+frostation 1
 florizine
 fergusonite 1
 featherbrain 1
