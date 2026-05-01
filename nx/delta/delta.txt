@@ -9747,7 +9747,7 @@ decence
 duct
 discapacitate 1
 directional
-decider
+decider 1
 danewort 1
 divulgating
 defensibly
