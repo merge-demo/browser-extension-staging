@@ -12549,7 +12549,7 @@ dotonidae
 diamonding 1
 daffed
 disintegrated
-dipterological
+dipterological 1
 denotation
 dispersoid
 disfavorer
