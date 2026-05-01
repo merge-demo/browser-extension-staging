@@ -6251,7 +6251,7 @@ chelicere 1
 cavillers
 coconqueror
 codeword
-conically
+conically 1
 cauking
 cyrtoceracone
 cutinises 1
