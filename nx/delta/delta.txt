@@ -11086,7 +11086,7 @@ descriptors
 delphinoidine
 deaminated
 discographic
-disassent
+disassent 1
 darin
 disassimilative
 disinherits 1
