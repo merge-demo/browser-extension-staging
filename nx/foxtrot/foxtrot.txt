@@ -10180,7 +10180,7 @@ felled
 forgives 1
 fliting
 fenite
-fissile 1
+fissile 2
 fluoride
 frontlet
 fitter
