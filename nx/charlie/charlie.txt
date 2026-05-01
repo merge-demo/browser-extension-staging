@@ -12511,7 +12511,7 @@ childage
 chromophobia
 chromophobic
 calamistrate
-clairvoyants
+clairvoyants 1
 chromophore 1
 chads
 calycular
