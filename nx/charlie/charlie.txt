@@ -30020,7 +30020,7 @@ crotonyl
 crotonylene
 crotonization
 chitchat
-corrump
+corrump 1
 crotophaga
 carbonify
 crottal
@@ -30444,7 +30444,7 @@ cantaloupe
 carpetwork
 csch 1
 csect
-cpu
+cpu 1
 cholecystectomies
 csmp
 csp
