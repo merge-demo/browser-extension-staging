@@ -2891,7 +2891,7 @@ footwear
 frabjously
 foaled
 flowstone
-farcin
+farcin 1
 fackins
 firefighters 1
 fettucini 1
