@@ -16197,7 +16197,7 @@ drupetum
 draconic
 dialector 1
 deerskins 1
-dewy
+dewy 1
 dalk 1
 dizens
 deallocates
