@@ -2131,7 +2131,7 @@ gharris
 gyrocompass
 gerontine
 gdinfo
-gerahs
+gerahs 1
 glossography
 golfings 1
 genets 1
