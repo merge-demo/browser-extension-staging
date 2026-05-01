@@ -5824,7 +5824,7 @@ edwardine 1
 elevenfold
 eudaemonistical
 elia
-esox
+esox 1
 engrandize
 ebrillade
 ectogeneous
