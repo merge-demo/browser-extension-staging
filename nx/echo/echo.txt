@@ -9258,7 +9258,7 @@ erron 1
 empathies
 electrotellurograph
 externalist
-exogamous
+exogamous 1
 expositional
 ebricty
 entertains
