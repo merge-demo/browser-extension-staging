@@ -8614,7 +8614,7 @@ equilibriums
 etherialization 2
 equimodal 1
 eunomia
-espantoon 1
+espantoon 2
 endbrain 1
 erythrogonium
 erineum 1
