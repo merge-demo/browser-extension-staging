@@ -1869,7 +1869,7 @@ grittiness 2
 guayabo 1
 gaucho
 geniohyoid
-generalists
+generalists 1
 gerbillus 1
 groundable
 gowd
