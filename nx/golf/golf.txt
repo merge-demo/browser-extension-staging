@@ -6759,7 +6759,7 @@ glossospasm
 galiot 3
 goniatitic 1
 ganglioside
-gossiping 1
+gossiping 2
 geront 1
 gymnogyps 1
 gabon
