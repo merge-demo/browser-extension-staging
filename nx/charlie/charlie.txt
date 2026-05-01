@@ -17238,7 +17238,7 @@ cephalacanthidae
 counterbalances
 confederated
 cytoplasm
-cleans
+cleans 1
 crumple
 coalizer
 coalless
@@ -17493,7 +17493,7 @@ cleamer
 coboundless
 cobourg
 cueca
-coinitial
+coinitial 1
 circummigrate
 cobridgehead
 chrysostomic
