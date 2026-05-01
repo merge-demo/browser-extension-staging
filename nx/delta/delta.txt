@@ -7896,7 +7896,7 @@ decongested 1
 desecration 1
 delphinite 2
 draconianism
-desperadoes
+desperadoes 1
 defrock 1
 droughty
 diminuting
