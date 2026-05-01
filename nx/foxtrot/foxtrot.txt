@@ -11700,7 +11700,7 @@ fas
 far
 foretellableness
 flugelhorn
-fasciola 1
+fasciola 2
 fernsick
 frameless 1
 flaw
