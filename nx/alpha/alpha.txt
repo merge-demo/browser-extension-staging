@@ -24092,7 +24092,7 @@ autoecism
 alloimmune
 anacondas
 apogenous
-arrtez
+arrtez 1
 autoette
 antigenicity
 autofrettage
