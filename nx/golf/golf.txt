@@ -5557,7 +5557,7 @@ glucaemia
 gumming 2
 gaysome 1
 gripless
-geophysical
+geophysical 1
 gefilte
 grandame
 galliardize
