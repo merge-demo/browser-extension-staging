@@ -1405,7 +1405,7 @@ fiddled 1
 fisheries 1
 funis 1
 fattishness
-fother 1
+fother 2
 frimitts 1
 flings
 freewheel
@@ -11030,7 +11030,7 @@ famelessness
 funkia 1
 floodlight
 fabliaux
-fy
+fy 1
 fusuma
 farmery 1
 forcipate 1
