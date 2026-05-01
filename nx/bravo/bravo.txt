@@ -3255,7 +3255,7 @@ biotechnological
 basilic
 bantingize
 bedouin
-basilica
+basilica 1
 belverdian 1
 brookable
 backoff
