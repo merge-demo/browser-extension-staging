@@ -7377,7 +7377,7 @@ fortunous
 feedlots 1
 flyness
 fistnote 1
-flaccidity 1
+flaccidity 2
 forbidals 1
 fasted
 featous
