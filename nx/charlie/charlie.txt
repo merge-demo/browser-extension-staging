@@ -1486,7 +1486,7 @@ calite 2
 calyx
 coecal
 continents
-careening
+careening 1
 calkers 2
 chowse 1
 calkin
@@ -23454,7 +23454,7 @@ contemplatist
 coshered
 creatureless
 centenaries
-contemple 1
+contemple 2
 campanularia
 contemporaneous
 cubbyu
