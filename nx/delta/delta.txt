@@ -511,7 +511,7 @@ dup
 dextromanual
 dribs
 diminishingturns
-discustom
+discustom 1
 dromotropic
 dinophilus
 douse
