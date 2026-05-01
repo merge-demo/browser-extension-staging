@@ -11633,7 +11633,7 @@ discotheque
 discothque
 disengirdle
 diagramed 1
-discountable
+discountable 1
 distastes 1
 discountenances
 drunkometer
@@ -14442,7 +14442,7 @@ dijudicating
 defunctionalization 1
 diadoumenos
 disdeify 1
-daltonian
+daltonian 1
 diverters
 disillusionized
 disjointing
