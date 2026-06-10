@@ -88,13 +88,11 @@ jobs:
       # bundles under flaky/, upload each file as its own bundle so the Trunk
       # extension's PR test-results panel has data to render. Normal PRs (no
       # flaky/ files) are unaffected.
-      - name: Upload flaky-test e2e bundles
+      - name: Upload flaky-test e2e bundles 
         if: steps.duplicate.outputs.skip_duplicate != 'true' && github.event_name == 'pull_request'
         env:
           TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
           TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
-          TRUNK_REPO_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-          TRUNK_REPO_HEAD_BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
           shopt -s nullglob
           bundles=(flaky/*.xml)
