@@ -29,6 +29,10 @@ jobs:
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
+          # release-downloader >=1.13 changed the default of `fileName` from "*"
+          # to empty (download no assets). Set it explicitly so the mq release
+          # assets are downloaded, not just the source tarball.
+          fileName: "*"
           tarBall: true
           preRelease: true
           extract: true
