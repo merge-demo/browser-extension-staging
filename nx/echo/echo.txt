@@ -11348,7 +11348,7 @@ erenach
 eneid 1
 erudite
 encephalomeric
-eventual
+eventual 1
 eozoic
 emusifying
 eve
