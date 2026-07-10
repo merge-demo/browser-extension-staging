@@ -10996,7 +10996,7 @@ amperometric
 amoebeum 1
 abusion 1
 apologize
-azotate
+azotate 1
 adrenals
 alb
 attabal
