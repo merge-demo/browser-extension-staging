@@ -9453,7 +9453,7 @@ forequoted
 finickiness
 fractionised
 flamboyer
-franticly 1
+franticly 2
 folksong
 fossor
 freeloading
