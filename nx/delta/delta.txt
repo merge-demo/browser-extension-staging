@@ -2621,7 +2621,7 @@ dronel 1
 desalter
 decoloring
 disavowed
-deforce 1
+deforce 2
 dispose 1
 duopsonies
 decolouration 2
