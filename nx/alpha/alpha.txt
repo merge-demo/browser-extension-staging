@@ -253,7 +253,7 @@ achariaceous 1
 atmiatry
 abc
 angiohypotonia
-abcoulomb
+abcoulomb 1
 abietineous 1
 automative
 aba
@@ -4485,7 +4485,7 @@ anybodies
 amyraldist
 anacard 1
 aerobus
-adure
+adure 1
 andia
 allergia
 anticomplement
