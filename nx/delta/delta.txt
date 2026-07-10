@@ -6688,7 +6688,7 @@ dubonnets
 desman 1
 desiderable
 diascopy
-deadhead
+deadhead 1
 debagged
 digamists 1
 decentered 1
