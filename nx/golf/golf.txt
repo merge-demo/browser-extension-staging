@@ -3874,7 +3874,7 @@ galleried
 gisla
 girlfully 1
 guidance 1
-ghat 1
+ghat 2
 geomorphy 1
 goldney
 gnoff 1
@@ -4139,7 +4139,7 @@ geod 1
 gleesome
 grocerly 1
 ganef 1
-gulflike
+gulflike 1
 gnomons
 geniculum
 gossy 1
