@@ -24607,7 +24607,7 @@ aequorin 1
 availing
 amapondo
 apollyon
-abrogators
+abrogators 1
 admixture
 aumaga
 ammobium 1
