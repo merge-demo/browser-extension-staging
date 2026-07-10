@@ -14722,7 +14722,7 @@ disfigurements 2
 decahedral
 doctorbird
 dekametre 1
-declinedness
+declinedness 1
 darnation
 dioptrically 1
 dedolomitize
