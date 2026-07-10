@@ -13940,7 +13940,7 @@ esthesio
 extrameridional
 extrametrical
 eccl 2
-extramission 1
+extramission 2
 erythrism
 enhusk
 expiscated
