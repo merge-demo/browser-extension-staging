@@ -253,7 +253,7 @@ achariaceous 1
 atmiatry
 abc
 angiohypotonia
-abcoulomb
+abcoulomb 1
 abietineous 1
 automative
 aba
