@@ -3643,7 +3643,7 @@ egads
 epilatory 1
 eleutherism
 exordize 1
-electrocuted
+electrocuted 1
 ekka
 ennoic
 epichilium
@@ -5130,7 +5130,7 @@ endogenae 1
 efference 1
 euchres
 echeloning
-enchanter
+enchanter 1
 expedition 1
 endogenous
 enlistment 1
@@ -8748,7 +8748,7 @@ electrodepositable
 elegist 2
 erections
 epituberculosis
-explosionist
+explosionist 1
 eviller
 enterobiliary
 etcetera
@@ -9199,7 +9199,7 @@ extremer
 etheric
 esebrias
 educatedly
-excerption 1
+excerption 2
 erotogenetic 1
 eyesome 1
 ergonomist 2
