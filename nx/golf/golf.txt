@@ -4139,7 +4139,7 @@ geod 1
 gleesome
 grocerly 1
 ganef 1
-gulflike
+gulflike 1
 gnomons
 geniculum
 gossy 1
