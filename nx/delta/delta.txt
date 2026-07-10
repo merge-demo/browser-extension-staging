@@ -4287,7 +4287,7 @@ daubster
 diamondiferous 1
 diacritical
 dods 1
-decennials
+decennials 1
 dura 1
 descriers
 demagogue
