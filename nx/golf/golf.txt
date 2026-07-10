@@ -2143,7 +2143,7 @@ genteelly 1
 glout
 gastrotrichan
 guacos 1
-gastrointestinal
+gastrointestinal 1
 gymnosperms 1
 galea
 goniostat
