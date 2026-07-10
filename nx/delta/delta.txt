@@ -3124,7 +3124,7 @@ demihuman
 defamy
 delegating
 desmoneme
-delicious
+delicious 1
 distoclusion
 defaming
 domesticity
