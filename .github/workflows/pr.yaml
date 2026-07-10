@@ -21,13 +21,13 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10  # v6.0.3
 
       # On push: if this branch has an open PR, skip so the pull_request trigger handles it (avoid duplicate work).
       # On pull_request: always run (we are the PR run).
       - name: Check for duplicate run
         id: duplicate
-        uses: actions/github-script@v7
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
         with:
           script: |
             if (context.eventName === 'pull_request') {
@@ -45,11 +45,15 @@ jobs:
         env:
           BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
-      - uses: robinraju/release-downloader@v1.9
+      - uses: robinraju/release-downloader@28fc21f50d76778e7023361aa1f863e717d3d56f  # v1.13
         if: steps.duplicate.outputs.skip_duplicate != 'true'
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
+          # release-downloader >=1.13 changed the default of `fileName` from "*"
+          # to empty (download no assets). Set it explicitly so the mq release
+          # assets are downloaded, not just the source tarball.
+          fileName: "*"
           tarBall: true
           preRelease: false
           extract: true

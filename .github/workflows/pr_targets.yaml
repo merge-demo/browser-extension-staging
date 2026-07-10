@@ -9,19 +9,23 @@ jobs:
     if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10  # v6.0.3
         with:
           lfs: true
 
       - name: trunk install
-        uses: trunk-io/trunk-action/install@v1
+        uses: trunk-io/trunk-action/install@04ba50e7658c81db7356da96657e6e77f220bfa3  # v1.3.1
         with:
           tools: jq
 
-      - uses: robinraju/release-downloader@v1.9
+      - uses: robinraju/release-downloader@28fc21f50d76778e7023361aa1f863e717d3d56f  # v1.13
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
+          # release-downloader >=1.13 changed the default of `fileName` from "*"
+          # to empty (download no assets). Set it explicitly so the mq release
+          # assets are downloaded, not just the source tarball.
+          fileName: "*"
           tarBall: true
           preRelease: true
           extract: true
@@ -85,7 +89,7 @@ jobs:
           esac
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
+        uses: trunk-io/merge-action@bec28826c464c6ef0a6f592302f726b4293e9b3e  # v0.1.2
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel' &&

@@ -16,19 +16,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10  # v6.0.3
         with:
           ref: main
 
       - name: trunk install
-        uses: trunk-io/trunk-action/install@v1
+        uses: trunk-io/trunk-action/install@04ba50e7658c81db7356da96657e6e77f220bfa3  # v1.3.1
         with:
           tools: gh
 
-      - uses: robinraju/release-downloader@v1.9
+      - uses: robinraju/release-downloader@28fc21f50d76778e7023361aa1f863e717d3d56f  # v1.13
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
+          # release-downloader >=1.13 changed the default of `fileName` from "*"
+          # to empty (download no assets). Set it explicitly so the mq release
+          # assets are downloaded, not just the source tarball.
+          fileName: "*"
           tarBall: true
           preRelease: true
           extract: true

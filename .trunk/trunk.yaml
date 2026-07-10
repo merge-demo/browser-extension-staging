@@ -4,7 +4,7 @@ cli:
 plugins:
   sources:
     - id: trunk
-      ref: v1.7.0
+      ref: v1.10.2
       uri: https://github.com/trunk-io/plugins
     - id: configs
       uri: https://github.com/trunk-io/configs
@@ -29,6 +29,7 @@ tools:
 lint:
   enabled:
     - actionlint@1.7.10
+    - pinact@4.1.0
   disabled:
     - eslint
     - semgrep
