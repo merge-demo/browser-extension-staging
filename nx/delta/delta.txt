@@ -4287,7 +4287,7 @@ daubster
 diamondiferous 1
 diacritical
 dods 1
-decennials
+decennials 1
 dura 1
 descriers
 demagogue
@@ -8539,7 +8539,7 @@ dampishness 1
 dharani
 debateful
 daimonion
-dewfall
+dewfall 1
 diaphanously
 douglas
 diphthongal
@@ -10947,7 +10947,7 @@ disaffirmation
 demilitarizes
 decidedness
 dermococcus
-dayberry
+dayberry 1
 dissyllabising 1
 decapoda
 dulcinea
