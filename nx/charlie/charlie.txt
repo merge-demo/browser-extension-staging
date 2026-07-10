@@ -16877,7 +16877,7 @@ carpogonium
 clubweed
 cionocranian
 clubwomen
-cluck
+cluck 1
 cyclas
 clucked
 crotonbug
