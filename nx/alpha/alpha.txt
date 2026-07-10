@@ -22683,7 +22683,7 @@ atherosclerotic
 acerbic
 absent
 angulation 2
-aeronomic
+aeronomic 1
 abjuratory
 acumen
 amphibolostylous
