@@ -9882,7 +9882,7 @@ enucleation
 estimate
 eerily
 eluders 1
-exilian
+exilian 1
 elongative 1
 eloigns
 earmarks
@@ -12494,7 +12494,7 @@ elocutionists
 exigences 1
 encouragers
 eczematosis
-entomophthorous
+entomophthorous 1
 exiguously
 exilarchate
 extemporariness
