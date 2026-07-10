@@ -671,7 +671,7 @@ emasculative 1
 eclosions
 endogastritis
 ethel
-educabilian
+educabilian 1
 engaging
 excursionism 1
 enumerative 1
@@ -4827,7 +4827,7 @@ explete
 enjamb
 encroachments 1
 epitaxic 1
-encrustation
+encrustation 1
 elepaio
 excitoglandular
 empoisons
