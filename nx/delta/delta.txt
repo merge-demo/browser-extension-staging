@@ -3112,7 +3112,7 @@ disadvantaging
 dizziest
 dipygus
 diseaseful 1
-daubing
+daubing 1
 dentated 1
 dislade
 defamed
