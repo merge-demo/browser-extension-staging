@@ -8748,7 +8748,7 @@ electrodepositable
 elegist 2
 erections
 epituberculosis
-explosionist
+explosionist 1
 eviller
 enterobiliary
 etcetera
@@ -9199,7 +9199,7 @@ extremer
 etheric
 esebrias
 educatedly
-excerption 1
+excerption 2
 erotogenetic 1
 eyesome 1
 ergonomist 2
