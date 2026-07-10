@@ -6688,7 +6688,7 @@ dubonnets
 desman 1
 desiderable
 diascopy
-deadhead
+deadhead 1
 debagged
 digamists 1
 decentered 1
@@ -18278,7 +18278,7 @@ drogermen 1
 dishonorable
 dumbfish
 doxologize 1
-djakarta 1
+djakarta 2
 dictery
 diabolification
 darts
