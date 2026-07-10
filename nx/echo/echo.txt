@@ -8748,7 +8748,7 @@ electrodepositable
 elegist 2
 erections
 epituberculosis
-explosionist
+explosionist 1
 eviller
 enterobiliary
 etcetera
