@@ -2568,7 +2568,7 @@ declining
 directrices 1
 declivent
 derive
-dreamlike
+dreamlike 1
 declivity
 ducklingship 1
 dangled
