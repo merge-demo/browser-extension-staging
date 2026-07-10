@@ -1160,7 +1160,7 @@ educatedness 1
 electrolyzable 1
 eudiometric
 engrainedly 2
-egrimony
+egrimony 1
 erosible 1
 entitule 1
 education 1
