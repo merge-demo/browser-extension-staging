@@ -1039,7 +1039,7 @@ darkly 1
 despumated
 dizain
 darkliest
-draffsack
+draffsack 1
 distains
 drabbed
 darkmans
