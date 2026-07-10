@@ -4972,7 +4972,7 @@ boulles 1
 bactritoid 1
 bonaveria
 boltless
-bolases
+bolases 1
 beerbachite 1
 bismillah
 budgers
