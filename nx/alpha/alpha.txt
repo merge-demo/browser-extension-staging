@@ -3318,7 +3318,7 @@ anisoptera
 adornos
 acute
 acutely 1
-ascomycetal
+ascomycetal 1
 acutest 2
 authorcraft
 aedine
@@ -5882,7 +5882,7 @@ achiote 1
 acculturizing
 archfelon
 anisocarpic
-aponeurosis
+aponeurosis 1
 agarum
 ankylosaur
 agendum 2
