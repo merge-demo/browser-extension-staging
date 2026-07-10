@@ -5150,7 +5150,7 @@ emigrative
 expanses 1
 endpaper
 endorser
-empathizing
+empathizing 1
 endolymphatic
 ectobatic
 electromagnetic
