@@ -10725,7 +10725,7 @@ goonda 1
 grumping
 gemmeous
 glyconean
-grandeur
+grandeur 1
 gubernatorial
 graphometric
 gox
