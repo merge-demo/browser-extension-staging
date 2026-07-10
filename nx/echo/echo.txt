@@ -4831,7 +4831,7 @@ encrustation
 elepaio
 excitoglandular
 empoisons
-electrocatalysis
+electrocatalysis 1
 ebulliometer
 exoperidium 1
 endoderm 1
