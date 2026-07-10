@@ -8817,7 +8817,7 @@ enjeopardy 1
 encrypt 1
 emptive
 euonymin
-enterocystoma 1
+enterocystoma 2
 egregiousness
 endocellular
 eremitism 1
