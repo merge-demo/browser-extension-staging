@@ -15229,7 +15229,7 @@ disbursal
 demipriest 1
 dogsleep
 derotremate
-domicile
+domicile 1
 dal
 dollymen 1
 dolliness
