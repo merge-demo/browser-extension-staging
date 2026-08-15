@@ -10095,7 +10095,7 @@ fleshling
 fibrosis
 fablemonger
 faddish
-fait
+fait 1
 featherhead
 flabbiest
 feloniously 1
