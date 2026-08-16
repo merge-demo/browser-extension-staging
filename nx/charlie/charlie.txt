@@ -12619,7 +12619,7 @@ crom
 citolers
 chronometers
 countercultures
-chronometric 1
+chronometric 2
 chronometrically
 chronon
 choppily
