@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="flaky-bundle-b" tests="2" failures="0" timestamp="2026-08-28T03:17:47.009Z">
+    <testcase classname="flaky-bundle-b" name="delta" file="tests/flaky-bundle-b.spec.ts" time="0.01"/>
+    <testcase classname="flaky-bundle-b" name="epsilon" file="tests/flaky-bundle-b.spec.ts" time="0.01"/>
+  </testsuite>
+</testsuites>
