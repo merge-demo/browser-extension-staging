@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="flaky-bundle-a" tests="3" failures="0" timestamp="2026-09-02T16:33:51.031Z">
+  <testsuite name="flaky-bundle-a" tests="3" failures="0" timestamp="2026-09-02T16:34:30.499Z">
     <testcase classname="flaky-bundle-a" name="alpha" file="tests/flaky-bundle-a.spec.ts" time="0.01"/>
     <testcase classname="flaky-bundle-a" name="beta" file="tests/flaky-bundle-a.spec.ts" time="0.01"/>
     <testcase classname="flaky-bundle-a" name="gamma" file="tests/flaky-bundle-a.spec.ts" time="0.01"/>
