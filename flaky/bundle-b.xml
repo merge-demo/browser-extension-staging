@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="flaky-bundle-b" tests="2" failures="1" timestamp="2026-09-02T20:44:36.656Z">
+  <testsuite name="flaky-bundle-b" tests="2" failures="0" timestamp="2026-09-02T20:45:42.621Z">
     <testcase classname="flaky-bundle-b" name="delta" file="tests/flaky-bundle-b.spec.ts" time="0.01"/>
-    <testcase classname="flaky-bundle-b" name="epsilon" file="tests/flaky-bundle-b.spec.ts" time="0.01">
-      <failure message="assertion failed">expected pass but the flaky test failed</failure>
-    </testcase>
+    <testcase classname="flaky-bundle-b" name="epsilon" file="tests/flaky-bundle-b.spec.ts" time="0.01"/>
   </testsuite>
 </testsuites>
