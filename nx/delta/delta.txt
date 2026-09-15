@@ -2864,7 +2864,7 @@ daedalist
 deuteroscopic
 degreasing
 duvetyns
-discernment
+discernment 1
 deluded
 dronet
 dinoceratid
