@@ -385,7 +385,7 @@ endaze
 enchondromatous
 emeries 1
 esses
-egoists
+egoists 1
 equivocator
 emotiveness 1
 ebonized
