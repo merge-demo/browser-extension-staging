@@ -8823,7 +8823,7 @@ fiberglass
 floret
 forechurch
 flunking
-funeralize
+funeralize 1
 fjerding 1
 falcopern
 fetologist 1
