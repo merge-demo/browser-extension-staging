@@ -5781,7 +5781,7 @@ gnatworm
 genupectoral
 goniometer 1
 globoid 2
-geobotanically
+geobotanically 1
 garblers
 gratters
 galapee
