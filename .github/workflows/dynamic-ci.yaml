@@ -13,7 +13,6 @@ jobs:
     name: Dynamic CI
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
     # Per-job outputs are set by the action at runtime, so they are re-exported
     # here by name.
     outputs:
