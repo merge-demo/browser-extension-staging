@@ -1,0 +1,50 @@
+name: Dynamic CI
+run-name: Dynamic CI for ${{ github.head_ref || github.ref_name }}
+on: pull_request
+
+permissions:
+  contents: read
+
+# Gives the browser extension's e2e real "Skipped by dynamic-ci" checks to
+# render, and one to force. Neither sample job is required, so the engine is
+# free to skip them; the queue's required check stays "run tests on PR".
+jobs:
+  dynamic-ci-filter:
+    name: Dynamic CI Filter
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
+    # Per-job outputs are set by the action at runtime, so they are re-exported
+    # here by name.
+    outputs:
+      sample-a: ${{ steps.ci-filter.outputs.sample-a }}
+      sample-b: ${{ steps.ci-filter.outputs.sample-b }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Dynamic CI Filter
+        id: ci-filter
+        uses: trunk-io/dynamic-ci@main
+        with:
+          token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+        env:
+          TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
+
+  sample-a:
+    name: Dynamic CI sample A
+    needs: dynamic-ci-filter
+    if: ${{ !cancelled() && needs.dynamic-ci-filter.outputs.sample-a != 'false' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: echo "sample A ran"
+
+  sample-b:
+    name: Dynamic CI sample B
+    needs: dynamic-ci-filter
+    if: ${{ !cancelled() && needs.dynamic-ci-filter.outputs.sample-b != 'false' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: echo "sample B ran"
