@@ -9,8 +9,8 @@ permissions:
 # render, and one to force. Neither sample job is required, so the engine is
 # free to skip them; the queue's required check stays "run tests on PR".
 jobs:
-  dynamic-ci-filter:
-    name: Dynamic CI Filter
+  dynamic-ci:
+    name: Dynamic CI
     runs-on: ubuntu-latest
     timeout-minutes: 5
     if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run Dynamic CI Filter
+      - name: Run Dynamic CI
         id: ci-filter
         uses: trunk-io/dynamic-ci@main
         with:
@@ -33,8 +33,8 @@ jobs:
 
   sample-a:
     name: Dynamic CI sample A
-    needs: dynamic-ci-filter
-    if: ${{ !cancelled() && needs.dynamic-ci-filter.outputs.sample-a != 'false' }}
+    needs: dynamic-ci
+    if: ${{ !cancelled() && needs.dynamic-ci.outputs.sample-a != 'false' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -42,8 +42,8 @@ jobs:
 
   sample-b:
     name: Dynamic CI sample B
-    needs: dynamic-ci-filter
-    if: ${{ !cancelled() && needs.dynamic-ci-filter.outputs.sample-b != 'false' }}
+    needs: dynamic-ci
+    if: ${{ !cancelled() && needs.dynamic-ci.outputs.sample-b != 'false' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
