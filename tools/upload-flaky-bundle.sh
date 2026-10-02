@@ -4,8 +4,11 @@
 set -euo pipefail
 
 bundle="$1"
-if [[ ! -f ${bundle} ]]; then
-	echo "No ${bundle} in this PR; nothing to upload."
+# Only a PR that commits the bundle uploads it: a merged e2e PR can leave the
+# file on main, and every later PR would otherwise upload it too.
+git fetch --no-tags --depth=1 origin "${BASE_SHA}"
+if ! git diff --name-only "${BASE_SHA}" HEAD -- "${bundle}" | grep -q .; then
+	echo "This PR does not change ${bundle}; nothing to upload."
 	exit 0
 fi
 
