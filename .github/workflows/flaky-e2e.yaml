@@ -1,0 +1,39 @@
+name: Flaky e2e bundles
+run-name: Flaky e2e bundles for ${{ github.head_ref || github.ref_name }}
+on: pull_request
+
+permissions:
+  contents: read
+
+# The browser extension's flaky-test e2e commits synthetic JUnit bundles under
+# flaky/ and reads them back in Trunk's PR test-results panel. Each bundle
+# uploads from its own job: the panel keeps only the newest upload per
+# (commit, workflow, job), so two uploads from one job collapse into
+# whichever ingested last and the failing bundle can vanish. A matrix does not
+# help, since every leg reports the same job id.
+jobs:
+  flaky-bundle-a:
+    name: Upload flaky e2e bundle A
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload flaky/bundle-a.xml
+        env:
+          TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
+          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: ./tools/upload-flaky-bundle.sh flaky/bundle-a.xml
+
+  flaky-bundle-b:
+    name: Upload flaky e2e bundle B
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload flaky/bundle-b.xml
+        env:
+          TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
+          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: ./tools/upload-flaky-bundle.sh flaky/bundle-b.xml
