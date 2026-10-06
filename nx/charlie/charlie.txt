@@ -926,7 +926,7 @@ cushily
 cakette
 chaptalization
 cakewalked
-cakewalker 1
+cakewalker 2
 cakewalking 1
 caressant
 carnotite
