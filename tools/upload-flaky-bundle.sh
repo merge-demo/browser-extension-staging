@@ -18,4 +18,5 @@ tar -xzf trunk-analytics-cli.tar.gz
 ./trunk-analytics-cli upload \
 	--junit-paths "${bundle}" \
 	--org-url-slug merge-demo \
+	--test-collection-id "${TRUNK_TEST_COLLECTION_ID}" \
 	--token "${TRUNK_API_TOKEN}"
