@@ -12,9 +12,16 @@ if ! git diff --name-only "${BASE_SHA}" HEAD -- "${bundle}" | grep -q .; then
 	exit 0
 fi
 
-curl -fsSL --retry 3 -o trunk-analytics-cli.tar.gz \
-	https://github.com/trunk-io/analytics-cli/releases/latest/download/trunk-analytics-cli-x86_64-unknown-linux.tar.gz
-tar -xzf trunk-analytics-cli.tar.gz
+# channel-1.json is the newest analytics-cli 1.x; GitHub's latest release is still 0.x, which
+# takes the organization token that 1.x refuses.
+releases=https://trunk.io/releases/analytics-cli/prod
+asset=trunk-analytics-cli-x86_64-unknown-linux.tar.gz
+curl_opts=(-fsSL --connect-timeout 10 --max-time 60 --retry 3)
+version="$(curl "${curl_opts[@]}" "${releases}/channel-1.json" | jq -er .latest)"
+curl "${curl_opts[@]}" -o "${asset}" "${releases}/${version}/${asset}"
+sha256="$(curl "${curl_opts[@]}" "${releases}/${version}/manifest.json" | jq -er --arg a "${asset}" '.artifacts[$a].sha256')"
+echo "${sha256}  ${asset}" | sha256sum -c -
+tar -xzf "${asset}"
 ./trunk-analytics-cli upload \
 	--junit-paths "${bundle}" \
 	--org-url-slug merge-demo \
