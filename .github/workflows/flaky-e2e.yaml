@@ -21,7 +21,7 @@ jobs:
       - name: Upload flaky/bundle-a.xml
         env:
           TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
-          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_V2_API_TOKEN }}
           TRUNK_TEST_COLLECTION_ID: TINojITT
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: ./tools/upload-flaky-bundle.sh flaky/bundle-a.xml
@@ -35,7 +35,7 @@ jobs:
       - name: Upload flaky/bundle-b.xml
         env:
           TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
-          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          TRUNK_API_TOKEN: ${{ secrets.TRUNK_STAGING_V2_API_TOKEN }}
           TRUNK_TEST_COLLECTION_ID: TINojITT
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: ./tools/upload-flaky-bundle.sh flaky/bundle-b.xml
