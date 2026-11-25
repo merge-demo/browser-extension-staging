@@ -11078,7 +11078,7 @@ dulled 1
 dorhawk 1
 disarticulating
 disarticulation 3
-detruded
+detruded 1
 disarticulator
 disasinize
 deliciously
